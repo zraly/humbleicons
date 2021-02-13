@@ -1,5 +1,5 @@
 {
-    "name": "medhi/humbleicons",
+    "name": "zraly/humbleicons",
     "description": "Set of crafted icons for your better UI",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Medhi\\Humbleicons\\": "src/"
+            "Humbleicons\\": "src/"
         }
     },
     "minimum-stability": "dev"
