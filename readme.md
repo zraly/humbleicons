@@ -15,7 +15,7 @@ You can eather copy the SVG of the icon and paste it into your HTML:
 Or you can install it into your PHP project:
 
 ```
-composer require medhi/humbleicons
+composer require zraly/humbleicons
 ```
 
 And use it this way:
