@@ -1,0 +1,20 @@
+{
+    "name": "medhi/humbleicons",
+    "description": "Set of crafted icons for your better UI",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jiří Zralý",
+            "email": "jirka@blueboard.cz"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Medhi\\Humbleicons\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
