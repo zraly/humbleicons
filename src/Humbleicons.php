@@ -21,7 +21,7 @@ class Humbleicons {
 
 	public function icon(string $iconName, string $modificators = ''): string
 	{
-		$iconHTML = @file_get_contents(__DIR__ . self::ICON_PATH . $this->size . '/' . $iconName . '.svg');
+		$iconHTML = @file_get_contents(__DIR__ . self::ICON_PATH . $iconName . '.svg');
 		if ($iconHTML === false) {
 			return '';
 		}
