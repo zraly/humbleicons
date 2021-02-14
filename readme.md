@@ -105,3 +105,30 @@ template:
 {icon check} Success!
 ```
 
+## Modificators
+
+You can change the icon appearance with CSS classes, we call them *modificators*. 
+
+First, put this style into your general SCSS styles:
+
+```scss
+.humbleicons__icon {
+
+	&--big {
+		transform: scale(1.3);
+	}
+	&--flip-horizontal {
+		transform: scaleX(-1);
+	}
+	&--flip-vertical {
+		transform: scaleY(-1);
+	}
+
+}
+```
+
+Second, call the icon with modificators:
+
+```php
+echo $humbleicons->icon('check', 'big flip-horizontal'); // renders 'check' icon with modificators
+```
