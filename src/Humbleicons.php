@@ -10,8 +10,6 @@ namespace Humbleicons;
 
 class Humbleicons {
 
-	private array $icons;
-
 	private int $size;
 
 	private const ICON_PATH = '/icons/';
