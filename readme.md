@@ -112,7 +112,7 @@ You can change the icon appearance with CSS classes, we call them *modificators*
 First, put this style into your general SCSS styles:
 
 ```scss
-.humbleicons__icon {
+svg.humbleicons__icon {
 
 	&--big {
 		transform: scale(1.3);
