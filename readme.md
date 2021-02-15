@@ -2,6 +2,8 @@
 
 A set of free MIT-licensed hand-crafted SVG icons for you to use in your web projects.
 
+![cog icon](src/icons/cog.svg?raw=true)
+
 ## Usage
 
 ### Fast COPY & PASTE
