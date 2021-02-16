@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
-  <g  stroke-width="2">
+<g stroke="currentColor" stroke-width="2">
     <path stroke-linecap="round" d="M12 16V8"/>
     <path stroke-linecap="round" d="M16 12H8"/>
-    <circle cx="12" cy="12" r="9"/>
+    <circle cx="12" cy="12" r="8"/>
   </g>
 </svg>
