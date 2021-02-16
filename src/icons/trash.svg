@@ -1,0 +1,9 @@
+<svg class="humbleicons__icon" width="1em" height="1em" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
+  <g  stroke-width="2">
+    <path d="M6.888 20.059l-.765-13A1 1 0 017.12 6H17.88a1 1 0 01.998 1.059l-.764 13a1 1 0 01-.999.941H7.886a1 1 0 01-.998-.941z"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 10v7"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M20 6H5"/>
+    <path d="M9 6l.544-1.632A2 2 0 0111.441 3h2.117a2 2 0 011.898 1.368L16 6"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M14.5 10v7"/>
+  </g>
+</svg>
