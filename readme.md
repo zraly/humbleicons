@@ -63,43 +63,42 @@ template:
 {icon check} Success!
 ```
 
-#### In [Nette](https://nette.org) as a trait
+#### In [Nette](https://nette.org)
+
+macros.php:
 
 ```php
+namespace App;
+
 use Latte;
 
-trait Humbleicons
+final class Macros extends Latte\Macros\MacroSet
 {
-	public function injectHumbleicons(\Humbleicons\Humbleicons $humbleicons)
-	{
-		$template = $this->template;
-		$this->onStartup[] = function () use ($template) {
-			$latte = $template->getLatte();
-			$set = new Latte\Macros\MacroSet($latte->getCompiler());
-			$set->addMacro(
-				'icon',
-				'echo $humbleicons->icon(%node.word)'
-			);
-		};
 
-		$this->onRender[] = function () use ($humbleicons)  {
-			$this->template->humbleicons = $humbleicons;
-		};
+	public static function install(Latte\Compiler $compiler): void
+	{
+		$me = new static($compiler);
+		$me->addMacro(
+			'icon',
+			'echo $this->global->humbleicons->icon(%node.word, %node.args)'
+		);
 	}
 
 }
 ```
 
-presenter:
+config.neon:
 
-```php
-use App\Traits\Humbleicons;
-
-final class MyPresenter extends Presenter
-{
-	use Humbleicons;
-  ...
-}
+```neon
+services:
+	nette.latteFactory:
+		setup:
+			- addProvider('humbleicons', '@Humbleicons\Humbleicons')
+	- Humbleicons\Humbleicons
+	- App\Macros
+latte:
+	macros:
+		- @App\Macros			
 ```
 template:
 
@@ -109,7 +108,7 @@ template:
 
 ## Modificators
 
-You can change the icon appearance with CSS classes, we call them *modificators*. 
+You can change the icon appearance with CSS classes. 
 
 First, put this style into your general SCSS styles:
 
@@ -129,7 +128,7 @@ svg.humbleicons__icon {
 }
 ```
 
-Second, call the icon with modificators:
+Then, call the icon with modificators:
 
 ```php
 echo $humbleicons->icon('check', 'big flip-horizontal'); // renders 'check' icon with modificators
