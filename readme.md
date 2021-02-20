@@ -3,6 +3,14 @@
 A set of free MIT-licensed hand-crafted SVG icons for you to use in your web projects.
 
 ![cog icon](src/icons/cog.svg?raw=true)
+![cog icon](src/icons/document.svg?raw=true)
+![cog icon](src/icons/check.svg?raw=true)
+![cog icon](src/icons/trash.svg?raw=true)
+![cog icon](src/icons/bars.svg?raw=true)
+![cog icon](src/icons/plus.svg?raw=true)
+![cog icon](src/icons/align-objects-center.svg?raw=true)
+![cog icon](src/icons/heading.svg?raw=true)
+![cog icon](src/icons/columns-two-halfs.svg?raw=true)
 
 ## Usage
 
