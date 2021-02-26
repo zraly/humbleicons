@@ -7,6 +7,8 @@
 ![cog icon](src/icons/align-objects-center.svg?raw=true)
 ![cog icon](src/icons/heading.svg?raw=true)
 ![cog icon](src/icons/columns-two-halfs.svg?raw=true)
+![cog icon](src/icons/desktop.svg?raw=true)
+![cog icon](src/icons/mobile.svg?raw=true)
 
 # Humbleicons
 
