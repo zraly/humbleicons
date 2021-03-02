@@ -36,6 +36,6 @@ class Humbleicons {
 			$iconHTML = str_replace(self::ICON_CLASS, self::ICON_CLASS . ' ' . implode(' ', $modificatorArray), $iconHTML);
 		}
 
-		return $iconHTML;
+		return trim($iconHTML);
 	}
 }
