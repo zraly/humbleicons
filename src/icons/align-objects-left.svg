@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em" fill="currentColor" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
-  <path d="M8 9a2 2 0 012-2h3a2 2 0 110 4h-3a2 2 0 01-2-2z"/>
-  <rect width="2" height="18" x="3" y="3" rx="1"/>
-  <rect width="13" height="4" x="8" y="13" rx="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
+  <g  stroke-linecap="round" stroke-width="2">
+    <path d="M4 4v16"/>
+    <path d="M7 12h11"/>
+    <path d="M10 9l-3 3 3 3"/>
+  </g>
 </svg>
