@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
+  <g stroke-linecap="round" stroke-width="2">
+    <path d="M13 10v10"/>
+    <path d="M16 13l-3-3-3 3"/>
+    <path d="M19.063 12.813c.578-.509.937-1.221.937-2.01 0-1.42-1.165-2.593-2.674-2.776.018-.14.027-.282.027-.425 0-1.99-1.778-3.602-3.97-3.602-1.45 0-2.718.704-3.41 1.756a4.905 4.905 0 00-.561-.032C6.975 5.724 5 7.515 5 9.726c0 1.353.74 2.55 1.875 3.274"/>
+  </g>
+</svg>
