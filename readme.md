@@ -11,6 +11,8 @@
 ![icon](src/icons/mobile.svg?raw=true)
 ![icon](src/icons/upload.svg?raw=true)
 ![icon](src/icons/search.svg?raw=true)
+![icon](src/icons/dots-horizontal.svg?raw=true)
+![icon](src/icons/align-objects-middle.svg?raw=true)
 
 # Humbleicons
 
