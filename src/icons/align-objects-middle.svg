@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
+  <g stroke-linecap="round" stroke-width="2">
+    <path d="M4 12h16"/>
+    <path d="M12 8V3"/>
+    <path d="M9 6l3 3 3-3"/>
+    <path d="M12 16v5"/>
+    <path d="M9 18l3-3 3 3"/>
+  </g>
+</svg>
