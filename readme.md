@@ -13,6 +13,7 @@
 ![icon](src/icons/search.svg?raw=true)
 ![icon](src/icons/dots-horizontal.svg?raw=true)
 ![icon](src/icons/align-objects-middle.svg?raw=true)
+![icon](src/icons/brush-big.svg?raw=true)
 
 # Humbleicons
 
