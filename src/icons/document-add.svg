@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
-  <g  stroke-linejoin="round" stroke-width="2">
-    <path d="M6 18V6a2 2 0 012-2h5.172a2 2 0 011.414.586l2.828 2.828A2 2 0 0118 8.828V18a2 2 0 01-2 2H8a2 2 0 01-2-2z"/>
-    <path d="M13 4v3a2 2 0 002 2h3"/>
-    <path stroke-linecap="round" d="M14 14h-4M12 16v-4"/>
+  <g stroke="currentColor" stroke-linejoin="round" stroke-width="2">
+    <path d="M15 15H9"/>
+    <path d="M12 18v-6"/>
+    <path d="M5 20V4a1 1 0 011-1h6.172a2 2 0 011.414.586l4.828 4.828A2 2 0 0119 9.828V20a1 1 0 01-1 1H6a1 1 0 01-1-1z"/>
+    <path d="M12 3v6a1 1 0 001 1h6"/>
   </g>
 </svg>
