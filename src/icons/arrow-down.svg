@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
-    <path d="M11 20a1 1 0 102 0h-2zm2-16a1 1 0 10-2 0h2zm0 16V4h-2v16h2z"/>
-    <path d="M17.293 13.293a1 1 0 011.414 1.414l-1.414-1.414zM12 20l.707.707-.707.707-.707-.707L12 20zm-6.707-5.293a1 1 0 111.414-1.414l-1.414 1.414zm13.414 0l-6 6-1.414-1.414 6-6 1.414 1.414zm-7.414 6l-6-6 1.414-1.414 6 6-1.414 1.414z"/>
+  <g  stroke-linecap="round" stroke-width="2">
+    <path d="M12 4v16"/>
+    <path d="M6 14l6 6 6-6"/>
+  </g>
 </svg>
