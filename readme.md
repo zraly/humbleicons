@@ -14,6 +14,8 @@
 ![icon](src/icons/dots-horizontal.svg?raw=true)
 ![icon](src/icons/align-objects-middle.svg?raw=true)
 ![icon](src/icons/brush-big.svg?raw=true)
+![icon](src/icons/arrow-up.svg?raw=true)
+![icon](src/icons/chevron-up.svg?raw=true)
 
 # Humbleicons
 
