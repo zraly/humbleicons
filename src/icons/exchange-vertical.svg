@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="top: .125em; position: relative;">
+  <g stroke="currentColor" stroke-linecap="round" stroke-width="2">
+    <path d="M16.5 19.5v-16"/>
+    <path d="M13 16l3.5 3.5L20 16"/>
+    <path d="M7.5 19.5v-16"/>
+    <path d="M4 7l3.5-3.5L11 7"/>
+  </g>
+</svg>
