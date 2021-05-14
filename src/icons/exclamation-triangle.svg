@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="humbleicons__icon" width="1em" height="1em"  viewBox="0 0 24 24" style="top: .125em; position: relative;">
-  <path stroke="currentColor" fill="none" stroke-width="2" d="M10.268 5c.77-1.333 2.694-1.333 3.464 0l6.928 12c.77 1.333-.192 3-1.732 3H5.072c-1.54 0-2.502-1.667-1.732-3l6.928-12z"/>
-  <path fill="currentColor" d="M10.59 9.083l.334 4a1 1 0 00.996.917h.16a1 1 0 00.996-.917l.334-4A1 1 0 0012.413 8h-.826a1 1 0 00-.997 1.083z"/>
-  <circle cx="12" cy="16.5" r="1.5" fill="currentColor"/>
-</svg>
