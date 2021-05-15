@@ -15,7 +15,7 @@ npm i humbleicons
 
 You can include Humbleicons in these ways:
 
-####Copy-paste SVGs as embedded HTML
+###Copy-paste SVGs as embedded HTML
 
 ```html
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -26,7 +26,7 @@ You can include Humbleicons in these ways:
 </svg>
 ```
 
-####Use the SVG sprite
+###Use the SVG sprite
 
 ```html
 <svg class="humbleicons">
