@@ -1,17 +1,12 @@
 {
     "mode": {
-        "view": {
+        "symbol": {
             "dest": "./",
             "prefix": ".hi-%s",
             "dimensions": true,
             "sprite": "humbleicons.svg",
             "layout": "horizontal",
-            "bust": false,
-            "render": {
-                "css": {
-                    "dest": "humbleicons.css"
-                }
-            }
+            "bust": false
         }
     }
 }

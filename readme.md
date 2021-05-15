@@ -1,9 +1,6 @@
 
 # Humbleicons
 
-![icon](humbleicons.svg?raw=true)
-
-
 A set of free MIT-licensed hand-crafted SVG icons for you to use in your web projects.
 
 ## Install
@@ -16,9 +13,34 @@ npm i humbleicons
 
 ## Usage
 
-Depending on your setup, you can include Humbleicons in these ways:
+You can include Humbleicons in these ways:
 
-- Copy-paste SVGs as embedded HTML
-- Reference via `<img>` element
-- Use the SVG sprite
-- Include via CSS
+####Copy-paste SVGs as embedded HTML
+
+```html
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+  <g stroke="currentColor stroke-linecap="round" stroke-width="2">
+    <path d="M12 17l-1.5 1.5a3.536 3.536 0 01-5 0v0a3.536 3.536 0 010-5l3-3a3.536 3.536 0 015 0v0"/>
+    <path d="M12 7l1.5-1.5a3.536 3.536 0 015 0v0a3.536 3.536 0 010 5l-3 3a3.536 3.536 0 01-5 0v0"/>
+  </g>
+</svg>
+```
+
+####Use the SVG sprite
+
+```html
+<svg class="humbleicons">
+  <use xlink:href="humbleicons.svg#desktop"/>
+</svg>
+```
+
+Recommended global styling:
+
+```css
+.humbleicons {
+	width: 1.15em;
+	height: 1.15em;
+	display: inline-block;
+	align-self: center;
+}
+```
