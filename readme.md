@@ -1,7 +1,7 @@
 
 # Humbleicons
 
-A set of free MIT-licensed hand-crafted SVG icons for you to use in your web projects.
+A set of free MIT-licensed hand-crafted, universal SVG icons for you to use in your web projects.
 
 ## Install
 
