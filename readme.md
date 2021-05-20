@@ -1,11 +1,13 @@
 
 # Humbleicons
 
-A set of free MIT-licensed hand-crafted, universal SVG icons for you to use in your web projects.
+A set of free MIT-licensed hand-crafted, neutral, simple SVG icons for you to use in your web projects.
+
+Browse on **[humbleicons.com](https://humbleicons.com)**.
 
 ## Install
 
-Humbleicons are packaged up and published to npm. We only include the processed SVGs in this package—it's up to implement.
+Humbleicons are packaged up and published to npm.
 
 ```shell
 npm i humbleicons
