@@ -1,10 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
   <g stroke="currentColor" stroke-width="2">
     <circle cx="12" cy="12" r="9"/>
-    <circle cx="12" cy="12" r="4"/>
-    <path d="M18 18l-3-3"/>
-    <path d="M9 9L6 6"/>
-    <path d="M15 9l3-3"/>
-    <path d="M6 18l3-3"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.5V12l3.5 2"/>
   </g>
 </svg>
