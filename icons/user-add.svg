@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
   <g stroke="currentColor" stroke-width="2">
-    <circle cx="10" cy="7" r="3"/>
-    <path stroke-linejoin="round" d="M4 16.75C4 14.679 5.919 13 8.286 13h3.428C14.081 13 16 14.679 16 16.75v1.5c0 .414-.384.75-.857.75H4.857C4.384 19 4 18.664 4 18.25v-1.5z"/>
-    <path stroke-linecap="round" d="M15 10h6m-3 3V7"/>
+    <circle cx="10" cy="8" r="3"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M4 19.25v-1.5C4 15.679 5.919 14 8.286 14h3.428C14.081 14 16 15.679 16 17.75v1.5"/>
+    <path stroke-linecap="round" d="M15 11h6m-3 3V8"/>
   </g>
 </svg>
