@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
   <g stroke="currentColor" stroke-linecap="round" stroke-width="2">
-    <path d="M17 5v15"/>
-    <path d="M12 11v9"/>
-    <path d="M7 14v6"/>
+    <path d="M20 19v-6.5a3 3 0 00-3-3H5"/>
+    <path d="M7.5 6L4 9.5 7.5 13"/>
   </g>
 </svg>
