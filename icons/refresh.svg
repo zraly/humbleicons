@@ -1,8 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-  <g clip-path="url(#clip0)">
-    <path fill="currentColor" d="M3.07 13.124a1 1 0 011.985-.248l-1.985.248zm3.98 3.826a7 7 0 009.9 0l1.414 1.414a9 9 0 01-12.728 0L7.05 16.95zm9.9 0l2.121-2.122 1.414 1.415-2.121 2.12-1.414-1.413zM5.055 12.876A6.965 6.965 0 007.05 16.95l-1.414 1.414a8.965 8.965 0 01-2.566-5.24l1.985-.248z"/>
-    <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M19.778 20v-4.464H15"/>
-    <path fill="currentColor" d="M20.93 10.876a1 1 0 01-1.985.248l1.985-.248zM16.95 7.05a7 7 0 00-9.9 0L5.636 5.636a9 9 0 0112.728 0L16.95 7.05zm-9.9 0L4.93 9.172 3.515 7.757l2.121-2.121L7.05 7.05zm11.895 4.074A6.965 6.965 0 0016.95 7.05l1.414-1.414a8.966 8.966 0 012.566 5.24l-1.985.248z"/>
-    <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M4.222 4v4.464H9"/>
-  </g>
+  <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M20 20v-5h-5M4 4v5h5m10.938 2A8.001 8.001 0 005.07 8m-1.008 5a8.001 8.001 0 0014.868 3"/>
 </svg>
