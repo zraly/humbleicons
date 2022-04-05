@@ -1,9 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-  <path fill="currentColor" fill-rule="evenodd" d="M7 10a3 3 0 015.39-1.814 7.02 7.02 0 012.205-.161 5.001 5.001 0 00-9.197 3.933 5.473 5.473 0 011.83-.81A2.992 2.992 0 017 10z" clip-rule="evenodd"/>
-  <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M10 3.5V3"/>
-  <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M3.5 10H3"/>
-  <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M14.596 5.404l.354-.354"/>
-  <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M5.404 5.404L5.05 5.05"/>
-  <path fill="currentColor" d="M10.268 14.732a1 1 0 001.414-1.414l-1.414 1.414zm-1.41-.706a2.484 2.484 0 011.41.706l1.414-1.414a4.484 4.484 0 00-2.54-1.272l-.284 1.98z"/>
-  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.5 20a3.5 3.5 0 11.87-6.891 5.002 5.002 0 019.614 1.49A2.751 2.751 0 0118.25 20H8.5z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 3.5V3m-6.5 7H3m11.596-4.596l.354-.354m-9.546.354L5.05 5.05M9 13.036a3.484 3.484 0 011.975.99M12.645 7a4 4 0 00-6.59 3.666M5 16.5A3.5 3.5 0 008.5 20h9.75a2.75 2.75 0 00.734-5.4 5 5 0 00-9.614-1.491A3.504 3.504 0 005 16.5z"/>
 </svg>

@@ -1,6 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-  <g stroke="currentColor" stroke-width="2">
-    <path d="M12 4V10M12 14V20"/>
-    <path stroke-linecap="round" d="M9.5 6.5L12 4L14.5 6.5M9.5 17.5L12 20L14.5 17.5M6.5 9.5L4 12L6.5 14.5M17.5 9.5L20 12L17.5 14.5M5.5 12H18.5"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-width="2" d="M12 4v6m0 4v6"/>
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.5 6.5L12 4l2.5 2.5m-5 11L12 20l2.5-2.5m-8-8L4 12l2.5 2.5m11-5L20 12l-2.5 2.5M5.5 12h13"/>
 </svg>
