@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-  <path stroke="currentColor" stroke-width="2" d="M17 19V9a1 1 0 00-1-1H4a1 1 0 00-1 1v10a1 1 0 001 1h12a1 1 0 001-1z"/>
-  <circle cx="12" cy="11" r="1" fill="currentColor"/>
-  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 17.063L7.68 13 3 18"/>
-  <path fill="currentColor" d="M13.923 14l.698-.716a1 1 0 00-1.396 0l.698.716zm2.379 3.716a1 1 0 101.396-1.432l-1.396 1.432zm-3.077-3l3.077 3 1.396-1.432-3.077-3-1.396 1.432zm-.527 1.875l1.923-1.875-1.396-1.432-1.923 1.875 1.396 1.432z"/>
-  <path fill="currentColor" fill-rule="evenodd" d="M20.059 4.929v9.142h-.883v2h.883a2 2 0 002-2V4.93a2 2 0 00-2-2H7.94a2 2 0 00-2 2v.857h2v-.857H20.06z" clip-rule="evenodd"/>
+  <g stroke="currentColor" stroke-width="2">
+    <path d="M17 19L17 9C17 8.44772 16.5523 8 16 8L4 8C3.44772 8 3 8.44771 3 9L3 19C3 19.5523 3.44772 20 4 20L16 20C16.5523 20 17 19.5523 17 19Z"/>
+    <path d="M14 12.5C14 13.0523 13.5523 13.5 13 13.5C12.4477 13.5 12 13.0523 12 12.5C12 11.9477 12.4477 11.5 13 11.5C13.5523 11.5 14 11.9477 14 12.5Z"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M14 20L8 14L3 19"/>
+    <path stroke-linejoin="round" d="M7 6V5C7 4.44772 7.44772 4 8 4H20C20.5523 4 21 4.44772 21 5V15C21 15.5523 20.5523 16 20 16H19.1333"/>
+  </g>
 </svg>
