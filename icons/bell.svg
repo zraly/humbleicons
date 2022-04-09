@@ -1,11 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 17H19"/>
-  <path stroke="currentColor" stroke-linejoin="round" stroke-width="2" d="M7 17V11C7 8.23858 9.23858 6 12 6V6C14.7614 6 17 8.23858 17 11V17"/>
-  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M12 5.5V4"/>
-  <mask id="a" width="4" height="5" x="10" y="16" maskUnits="userSpaceOnUse" style="mask-type:alpha">
-    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M12 19.5V18"/>
-  </mask>
-  <g mask="url(#a)">
-    <path stroke="currentColor" stroke-linejoin="round" stroke-width="2" d="M9 20H15"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 17h2m0 0h10M7 17v-6a5 5 0 0110 0v6m0 0h2M11.5 5.5V4a.5.5 0 011 0v1.5M13 20a1 1 0 11-2 0h2z"/>
 </svg>
