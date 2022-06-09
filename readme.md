@@ -1,5 +1,5 @@
 
-# Humbleicons
+![Humbleicons](./.github/hero.svg)
 
 A set of free MIT-licensed hand-crafted, neutral, simple SVG icons for you to use in your web projects.
 
