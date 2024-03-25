@@ -1,18 +1,18 @@
 {
-    "name": "humbleicons",
-    "version": "1.11.0",
-    "description": "Set of crafted icons for your better UI",
-    "author": "zraly",
-    "license": "MIT",
-    "homepage": "https://humbleicons.com/",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zraly/humbleicons.git"
-    },
-    "keywords": [
-      "icons"
-    ],
-    "scripts": {
-        "compile": "svg-sprite --config compile.json 'icons/*.svg'"
-    }
+  "name": "humbleicons",
+  "version": "1.12.0",
+  "description": "Set of crafted icons for your better UI",
+  "author": "zraly",
+  "license": "MIT",
+  "homepage": "https://humbleicons.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zraly/humbleicons.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "scripts": {
+    "compile": "svg-sprite --config compile.json 'icons/*.svg'"
+  }
 }
