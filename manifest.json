@@ -1,1753 +1,3026 @@
 {
-	"activity": [
-		"pulse",
-		"oscilator",
-		"rhythm",
-		"vibration",
-		"heartbeat",
-		"movement",
-		"action",
-		"exercise"
-	],
-	"adjustments": [
-		"tune",
-		"balance",
-		"modulate",
-		"modify",
-		"settings",
-		"preferences",
-		"options",
-		"controls",
-		"calibrate",
-		"configure",
-		"customize",
-		"tweak"
-	],
-	"ai": [
-		"artificial",
-		"intelligence",
-		"machine",
-		"learning",
-		"neural",
-		"network",
-		"smart",
-		"magic",
-		"generate",
-		"spark",
-		"star",
-		"algorithm",
-		"robot",
-		"automation",
-		"cognitive"
-	],
-	"alert": [
-		"warning",
-		"error",
-		"notification",
-		"danger",
-		"attention",
-		"caution",
-		"alarm",
-		"signal",
-		"notice"
-	],
-	"alert-circle": [
-		"warning",
-		"error",
-		"notification",
-		"danger",
-		"attention",
-		"circle",
-		"caution",
-		"alarm",
-		"notice",
-		"alert"
-	],
-	"arrow-circle-down": [
-		"arrow",
-		"down",
-		"circle",
-		"download",
-		"bottom",
-		"descend",
-		"downward",
-		"lower"
-	],
-	"arrow-circle-left": [
-		"arrow",
-		"left",
-		"circle",
-		"previous",
-		"back",
-		"return",
-		"backward",
-		"retreat"
-	],
-	"arrow-circle-right": [
-		"arrow",
-		"right",
-		"circle",
-		"next",
-		"forward",
-		"advance",
-		"proceed",
-		"continue"
-	],
-	"arrow-circle-up": [
-		"arrow",
-		"up",
-		"circle",
-		"upload",
-		"top",
-		"ascend",
-		"upward",
-		"higher",
-		"elevate"
-	],
-	"arrow-down": [
-		"arrow",
-		"down",
-		"decrease",
-		"bottom",
-		"descend",
-		"downward",
-		"lower",
-		"dropdown"
-	],
-	"arrow-join": [
-		"merge",
-		"alias",
-		"combine",
-		"unite",
-		"connect",
-		"fusion",
-		"junction",
-		"converge"
-	],
-	"arrow-left": [
-		"arrow",
-		"left",
-		"previous",
-		"back",
-		"return",
-		"backward",
-		"retreat",
-		"revert"
-	],
-	"arrow-right": [
-		"arrow",
-		"right",
-		"next",
-		"forward",
-		"advance",
-		"proceed",
-		"continue",
-		"progress"
-	],
-	"arrow-split": [
-		"fork",
-		"divide",
-		"separate",
-		"branch",
-		"diverge",
-		"bifurcate",
-		"partition",
-		"disconnect"
-	],
-	"arrow-up": [
-		"arrow",
-		"up",
-		"increase",
-		"top",
-		"ascend",
-		"upward",
-		"higher",
-		"elevate",
-		"rise"
-	],
-	"asterisk": [
-		"star",
-		"highlight",
-		"special",
-		"important",
-		"reference",
-		"footnote",
-		"marker",
-		"notation"
-	],
-	"at-symbol": [
-		"mail",
-		"email",
-		"at",
-		"address",
-		"contact",
-		"communication",
-		"internet",
-		"online"
-	],
-	"bars": [
-		"menu",
-		"burger",
-		"navigation",
-		"list",
-		"options",
-		"items",
-		"hamburger",
-		"stack"
-	],
-	"basket": [
-		"cart",
-		"shop",
-		"buy",
-		"grocery",
-		"container",
-		"shopping",
-		"purchase",
-		"store",
-		"market"
-	],
-	"bell": [
-		"notification",
-		"alert",
-		"ring",
-		"alarm",
-		"reminder",
-		"chime",
-		"sound",
-		"notice"
-	],
-	"bell-off": [
-		"notification",
-		"alert",
-		"silent",
-		"quiet",
-		"mute",
-		"disable",
-		"deactivate",
-		"silence"
-	],
-	"bike": [
-		"travel",
-		"transport",
-		"vehicle",
-		"cycle",
-		"ride",
-		"bicycle",
-		"pedal",
-		"cycling",
-		"biking"
-	],
-	"bold": [
-		"format",
-		"style",
-		"typo",
-		"text",
-		"emphasis",
-		"strong",
-		"thick",
-		"heavy",
-		"prominent"
-	],
-	"bookmark": [
-		"favorite",
-		"save",
-		"marker",
-		"read",
-		"label",
-		"tag",
-		"flag",
-		"remember"
-	],
-	"brand-facebook": [
-		"social",
-		"network",
-		"community",
-		"fb",
-		"meta",
-		"connect",
-		"platform",
-		"share"
-	],
-	"brand-instagram": [
-		"social",
-		"photo",
-		"picture",
-		"ig",
-		"gram",
-		"filter",
-		"camera",
-		"share",
-		"stories"
-	],
-	"brand-twitter": [
-		"social",
-		"tweet",
-		"bird",
-		"microblog",
-		"post",
-		"feed",
-		"message",
-		"share"
-	],
-	"brand-x": [
-		"social",
-		"twitter",
-		"network",
-		"community",
-		"elon",
-		"musk",
-		"platform",
-		"microblog"
-	],
-	"brush-big": [
-		"paint",
-		"style",
-		"theme",
-		"color",
-		"draw",
-		"art",
-		"design",
-		"creative",
-		"artistic"
-	],
-	"building": [
-		"house",
-		"residence",
-		"habitat",
-		"structure",
-		"property",
-		"home",
-		"office",
-		"workplace",
-		"architecture",
-		"apartment",
-		"construction",
-		"tower"
-	],
-	"bulb": [
-		"light",
-		"idea",
-		"innovation",
-		"inspiration",
-		"bright",
-		"smart",
-		"creative",
-		"concept",
-		"thought"
-	],
-	"bulb-off": [
-		"light",
-		"idea",
-		"dark",
-		"off",
-		"inactive",
-		"unlit",
-		"extinguished",
-		"darkness"
-	],
-	"calendar": [
-		"date",
-		"time",
-		"event",
-		"schedule",
-		"appointment",
-		"day",
-		"month",
-		"year",
-		"planner"
-	],
-	"camera": [
-		"photo",
-		"picture",
-		"capture",
-		"shoot",
-		"image",
-		"lens",
-		"snapshot",
-		"photography",
-		"record"
-	],
-	"camera-off": [
-		"photo",
-		"picture",
-		"capture",
-		"off",
-		"disabled",
-		"inactive",
-		"privacy",
-		"hidden"
-	],
-	"car": [
-		"drive",
-		"travel",
-		"transport",
-		"vehicle",
-		"automobile",
-		"auto",
-		"sedan",
-		"transportation",
-		"journey"
-	],
-	"cart": [
-		"basket",
-		"shop",
-		"buy",
-		"purchase",
-		"shopping",
-		"trolley",
-		"checkout",
-		"ecommerce",
-		"store"
-	],
-	"certificate": [
-		"award",
-		"diploma",
-		"achievement",
-		"badge",
-		"honor",
-		"credential",
-		"recognition",
-		"degree",
-		"qualification"
-	],
-	"chart": [
-		"signal",
-		"graph",
-		"stats",
-		"data",
-		"analytics",
-		"report",
-		"metrics",
-		"diagram",
-		"visualization"
-	],
-	"chat": [
-		"speak",
-		"talk",
-		"conversation",
-		"message",
-		"dialog",
-		"communication",
-		"discussion",
-		"converse"
-	],
-	"chats": [
-		"speak",
-		"dialog",
-		"conversation",
-		"talk",
-		"discussion",
-		"messages",
-		"communication",
-		"threads",
-		"bubbles"
-	],
-	"check": [
-		"tick",
-		"confirm",
-		"ok",
-		"done",
-		"accept",
-		"verified",
-		"approved",
-		"completed",
-		"success"
-	],
-	"check-circle": [
-		"tick",
-		"confirm",
-		"ok",
-		"done",
-		"accept",
-		"circle",
-		"verified",
-		"approved",
-		"completed"
-	],
-	"chevron-down": [
-		"arrow",
-		"down",
-		"expand",
-		"dropdown",
-		"collapse",
-		"downward",
-		"descend",
-		"lower"
-	],
-	"chevron-left": [
-		"arrow",
-		"left",
-		"previous",
-		"back",
-		"backward",
-		"return",
-		"retreat",
-		"navigation"
-	],
-	"chevron-right": [
-		"arrow",
-		"right",
-		"next",
-		"forward",
-		"advance",
-		"proceed",
-		"continue",
-		"navigation"
-	],
-	"chevron-up": [
-		"arrow",
-		"up",
-		"collapse",
-		"expand",
-		"upward",
-		"ascend",
-		"higher",
-		"rise"
-	],
-	"clock": [
-		"time",
-		"date",
-		"hour",
-		"minute",
-		"watch",
-		"timer",
-		"schedule",
-		"alarm",
-		"chronometer"
-	],
-	"cloud": [
-		"weather",
-		"sky",
-		"storage",
-		"online",
-		"server",
-		"data",
-		"save",
-		"upload",
-		"service"
-	],
-	"cloud-sun": [
-		"weather",
-		"sky",
-		"sunny",
-		"partly",
-		"cloudy",
-		"forecast",
-		"climate",
-		"meteorology"
-	],
-	"club": [
-		"poker",
-		"card",
-		"game",
-		"casino",
-		"gambling",
-		"playing",
-		"clover",
-		"suit"
-	],
-	"cog": [
-		"settings",
-		"gear",
-		"preferences",
-		"options",
-		"working",
-		"mechanism",
-		"system",
-		"loading",
-		"progress",
-		"loader",
-		"waiting",
-		"configure",
-		"wheel",
-		"setup"
-	],
-	"cog-2": [
-		"settings",
-		"gear",
-		"preferences",
-		"options",
-		"working",
-		"mechanism",
-		"system",
-		"loading",
-		"progress",
-		"loader",
-		"waiting",
-		"configure",
-		"wheel",
-		"setup",
-		"double"
-	],
-	"coins": [
-		"money",
-		"cash",
-		"currency",
-		"coinage",
-		"finance",
-		"payment",
-		"wealth",
-		"token",
-		"crypto",
-		"dollar"
-	],
-	"columns-one-two-thirds": [
-		"layout",
-		"grid",
-		"table",
-		"structure",
-		"design",
-		"template",
-		"format",
-		"organization",
-		"arrangement"
-	],
-	"columns-three-thirds": [
-		"layout",
-		"grid",
-		"table",
-		"structure",
-		"design",
-		"template",
-		"format",
-		"organization",
-		"arrangement"
-	],
-	"columns-two-halfs": [
-		"layout",
-		"grid",
-		"table",
-		"structure",
-		"design",
-		"template",
-		"format",
-		"organization",
-		"arrangement"
-	],
-	"credit-card": [
-		"pay",
-		"money",
-		"payment",
-		"transaction",
-		"banking",
-		"finance",
-		"purchase",
-		"checkout",
-		"debit"
-	],
-	"dashboard": [
-		"layout",
-		"interface",
-		"control",
-		"panel",
-		"overview",
-		"analytics",
-		"metrics",
-		"summary",
-		"monitor"
-	],
-	"desktop": [
-		"monitor",
-		"screen",
-		"computer",
-		"display",
-		"pc",
-		"workstation",
-		"desktop",
-		"machine",
-		"device"
-	],
-	"document": [
-		"file",
-		"paper",
-		"record",
-		"report",
-		"page",
-		"text",
-		"sheet",
-		"note",
-		"doc"
-	],
-	"document-add": [
-		"file",
-		"new",
-		"create",
-		"add",
-		"page",
-		"sheet",
-		"generate",
-		"produce",
-		"compose"
-	],
-	"document-remove": [
-		"file",
-		"delete",
-		"remove",
-		"discard",
-		"page",
-		"sheet",
-		"eliminate",
-		"erase",
-		"trash"
-	],
-	"download": [
-		"cloud",
-		"save",
-		"transfer",
-		"get",
-		"arrow",
-		"obtain",
-		"retrieve",
-		"fetch",
-		"acquire"
-	],
-	"droplet": [
-		"color",
-		"water",
-		"liquid",
-		"drop",
-		"tear",
-		"rain",
-		"wet",
-		"fluid",
-		"paint"
-	],
-	"edit": [
-		"pencil",
-		"write",
-		"update",
-		"change",
-		"modify",
-		"revise",
-		"alter",
-		"amend",
-		"adjust"
-	],
-	"external-link": [
-		"out",
-		"open",
-		"new",
-		"window",
-		"external",
-		"redirect",
-		"outbound",
-		"goto",
-		"visit"
-	],
-	"eye": [
-		"show",
-		"visible",
-		"view",
-		"see",
-		"look",
-		"watch",
-		"vision",
-		"sight",
-		"visible"
-	],
-	"eye-close": [
-		"hide",
-		"humble",
-		"conceal",
-		"invisible",
-		"privacy",
-		"unseen",
-		"hidden",
-		"blind",
-		"cover"
-	],
-	"eye-off": [
-		"hide",
-		"invisible",
-		"unseen",
-		"hidden",
-		"conceal",
-		"blind",
-		"private",
-		"secret",
-		"cover"
-	],
-	"fingerprint": [
-		"touch",
-		"id",
-		"security",
-		"scan",
-		"biometric",
-		"thumb",
-		"identity",
-		"unique",
-		"authentication",
-		"verify"
-	],
-	"flask": [
-		"lab",
-		"experiment",
-		"test",
-		"science",
-		"chemistry",
-		"chemical",
-		"mixture",
-		"reaction",
-		"research",
-		"laboratory",
-		"beaker"
-	],
-	"flash": [
-		"lightning",
-		"bolt",
-		"electricity",
-		"power",
-		"energy",
-		"speed",
-		"thunder",
-		"fast",
-		"charge",
-		"electric"
-	],
-	"folder": [
-		"directory",
-		"file",
-		"organize",
-		"container",
-		"storage",
-		"data",
-		"collection",
-		"documents",
-		"archive"
-	],
-	"folder-add": [
-		"directory",
-		"new",
-		"add",
-		"create",
-		"make",
-		"generate",
-		"produce",
-		"establish",
-		"compose"
-	],
-	"folder-open": [
-		"directory",
-		"access",
-		"open",
-		"view",
-		"examine",
-		"explore",
-		"browse",
-		"inspect",
-		"check"
-	],
-	"folder-remove": [
-		"directory",
-		"delete",
-		"remove",
-		"discard",
-		"eliminate",
-		"erase",
-		"trash",
-		"destroy",
-		"clear"
-	],
-	"fork-knife": [
-		"food",
-		"cutlery",
-		"spoon",
-		"eat",
-		"dinner",
-		"lunch",
-		"breakfast",
-		"meal",
-		"restaurant",
-		"dining",
-		"utensils",
-		"cuisine"
-	],
-	"funnel": [
-		"filter",
-		"sort",
-		"flow",
-		"channel",
-		"sieve",
-		"strain",
-		"refine",
-		"screen",
-		"purify"
-	],
-	"gift": [
-		"present",
-		"box",
-		"surprise",
-		"birthday",
-		"christmas",
-		"reward",
-		"package",
-		"offering",
-		"donation",
-		"present",
-		"wrap"
-	],
-	"git": [
-		"version",
-		"control",
-		"code",
-		"repository",
-		"branch",
-		"commit",
-		"push",
-		"pull",
-		"merge",
-		"development",
-		"source"
-	],
-	"globe": [
-		"language",
-		"geo",
-		"world",
-		"translate",
-		"earth",
-		"planet",
-		"global",
-		"international",
-		"worldwide",
-		"universal"
-	],
-	"heading": [
-		"typo",
-		"format",
-		"style",
-		"text",
-		"header",
-		"title",
-		"headline",
-		"caption",
-		"subject"
-	],
-	"heart": [
-		"health",
-		"like",
-		"love",
-		"favorite",
-		"emotion",
-		"affection",
-		"romance",
-		"passion",
-		"care",
-		"adore"
-	],
-	"home": [
-		"house",
-		"building",
-		"residence",
-		"habitat",
-		"domicile",
-		"dwelling",
-		"abode",
-		"property",
-		"apartment"
-	],
-	"image": [
-		"picture",
-		"photo",
-		"illustration",
-		"snapshot",
-		"graphic",
-		"visual",
-		"artwork",
-		"portrait",
-		"drawing"
-	],
-	"images": [
-		"picture",
-		"photo",
-		"gallery",
-		"album",
-		"collection",
-		"pics",
-		"photographs",
-		"portfolio",
-		"library",
-		"archive"
-	],
-	"incognito": [
-		"hat",
-		"undercover",
-		"secret",
-		"privacy",
-		"hidden",
-		"anonymous",
-		"stealth",
-		"disguise",
-		"private"
-	],
-	"incognito-2": [
-		"hat",
-		"undercover",
-		"secret",
-		"moustache",
-		"mustache",
-		"privacy",
-		"disguise",
-		"hidden",
-		"anonymous",
-		"mask"
-	],
-	"info": [
-		"information",
-		"details",
-		"data",
-		"knowledge",
-		"facts",
-		"help",
-		"assistance",
-		"guidance",
-		"advice"
-	],
-	"info-circle": [
-		"information",
-		"details",
-		"data",
-		"knowledge",
-		"facts",
-		"help",
-		"assistance",
-		"guidance",
-		"advice"
-	],
-	"italic": [
-		"typo",
-		"format",
-		"style",
-		"text",
-		"emphasis",
-		"slant",
-		"oblique",
-		"cursive",
-		"tilt"
-	],
-	"key": [
-		"safe",
-		"lock",
-		"password",
-		"access",
-		"secret",
-		"private",
-		"secure",
-		"unlock",
-		"keyhole",
-		"security",
-		"entry",
-		"authorization"
-	],
-	"location": [
-		"geo",
-		"gps",
-		"map",
-		"pin",
-		"place",
-		"position",
-		"address",
-		"marker",
-		"locale",
-		"spot",
-		"point",
-		"coordinates"
-	],
-	"lock": [
-		"secure",
-		"password",
-		"private",
-		"security",
-		"locked",
-		"protected",
-		"safe",
-		"closed",
-		"padlock"
-	],
-	"mail": [
-		"envelope",
-		"message",
-		"email",
-		"send",
-		"post",
-		"letter",
-		"correspondence",
-		"communication",
-		"inbox"
-	],
-	"mail-open": [
-		"envelope",
-		"read",
-		"message",
-		"open",
-		"viewed",
-		"opened",
-		"revealed",
-		"received",
-		"checked"
-	],
-	"maximize": [
-		"screen",
-		"fullscreen",
-		"expand",
-		"resize",
-		"enlarge",
-		"grow",
-		"increase",
-		"extend",
-		"amplify"
-	],
-	"menu": [
-		"bars",
-		"navigation",
-		"list",
-		"burger",
-		"hamburger",
-		"options",
-		"items",
-		"selections",
-		"choices"
-	],
-	"minus": [
-		"dash",
-		"subtract",
-		"delete",
-		"remove",
-		"hide",
-		"minimize",
-		"less",
-		"reduce",
-		"decrease",
-		"deduct"
-	],
-	"mobile": [
-		"screen",
-		"phone",
-		"cellphone",
-		"telephone",
-		"mobile",
-		"smartphone",
-		"device",
-		"handheld",
-		"portable"
-	],
-	"money": [
-		"coin",
-		"cash",
-		"dollar",
-		"euro",
-		"pound",
-		"yen",
-		"currency",
-		"finance",
-		"payment",
-		"wealth",
-		"funds"
-	],
-	"moon": [
-		"dark",
-		"night",
-		"sleep",
-		"lunar",
-		"crescent",
-		"evening",
-		"dusk",
-		"astronomy",
-		"space"
-	],
-	"moon-stars": [
-		"night",
-		"sleep",
-		"weather",
-		"dark",
-		"stars",
-		"astronomy",
-		"space",
-		"sky",
-		"evening"
-	],
-	"pencil": [
-		"edit",
-		"write",
-		"update",
-		"change",
-		"modify",
-		"draw",
-		"sketch",
-		"scribble",
-		"compose",
-		"create"
-	],
-	"phone": [
-		"call",
-		"ring",
-		"mobile",
-		"cellphone",
-		"telephone",
-		"dial",
-		"communicate",
-		"talk",
-		"conversation",
-		"contact"
-	],
-	"phone-call": [
-		"ring",
-		"call",
-		"communicate",
-		"talk",
-		"dial",
-		"answer",
-		"speak",
-		"conversation",
-		"contact"
-	],
-	"phone-forward": [
-		"ring",
-		"call",
-		"forward",
-		"redirect",
-		"transfer",
-		"divert",
-		"reroute",
-		"switch",
-		"direct"
-	],
-	"phone-incoming": [
-		"ring",
-		"call",
-		"incoming",
-		"receive",
-		"answer",
-		"accept",
-		"take",
-		"pickup",
-		"arrive"
-	],
-	"phone-missed": [
-		"ring",
-		"call",
-		"missed",
-		"unanswered",
-		"ignored",
-		"lost",
-		"rejected",
-		"neglected",
-		"overlooked"
-	],
-	"phone-outgoing": [
-		"ring",
-		"call",
-		"outgoing",
-		"dial",
-		"place",
-		"make",
-		"start",
-		"initiate",
-		"begin"
-	],
-	"pie-chart": [
-		"stat",
-		"graph",
-		"chart",
-		"diagram",
-		"stats",
-		"analytics",
-		"data",
-		"report",
-		"metrics",
-		"visualization"
-	],
-	"plane": [
-		"travel",
-		"flight",
-		"airplane",
-		"aeroplane",
-		"jet",
-		"aviation",
-		"aircraft",
-		"airport",
-		"flying",
-		"trip"
-	],
-	"prompt": [
-		"command",
-		"line",
-		"terminal",
-		"console",
-		"cmd",
-		"cli",
-		"shell",
-		"interface",
-		"input",
-		"code"
-	],
-	"radio": [
-		"signal",
-		"sound",
-		"music",
-		"podcast",
-		"audio",
-		"listen",
-		"broadcast",
-		"tune",
-		"station",
-		"frequency"
-	],
-	"remote": [
-		"control",
-		"device",
-		"tv",
-		"television",
-		"clicker",
-		"commander",
-		"switch",
-		"wireless",
-		"channel"
-	],
-	"restart": [
-		"reload",
-		"refresh",
-		"reset",
-		"renew",
-		"reboot",
-		"recycle",
-		"reinitiate",
-		"revive",
-		"regenerate"
-	],
-	"rocket": [
-		"travel",
-		"launch",
-		"ship",
-		"transport",
-		"vehicle",
-		"space",
-		"missile",
-		"shuttle",
-		"spacecraft",
-		"flight"
-	],
-	"save": [
-		"floppy",
-		"disk",
-		"download",
-		"store",
-		"preserve",
-		"keep",
-		"record",
-		"maintain",
-		"retain"
-	],
-	"scissors": [
-		"cut",
-		"edit",
-		"trim",
-		"clip",
-		"crop",
-		"slice",
-		"snip",
-		"shear",
-		"carve",
-		"sever",
-		"divide"
-	],
-	"search": [
-		"magnif",
-		"zoom",
-		"find",
-		"glass",
-		"loupe",
-		"explore",
-		"locate",
-		"seek",
-		"discover",
-		"hunt"
-	],
-	"settings": [
-		"cog",
-		"gear",
-		"preferences",
-		"options",
-		"tools",
-		"configuration",
-		"setup",
-		"customize",
-		"control"
-	],
-	"shield": [
-		"security",
-		"protection",
-		"safe",
-		"defense",
-		"guard",
-		"armor",
-		"cover",
-		"safeguard",
-		"barrier"
-	],
-	"shield-check": [
-		"security",
-		"protection",
-		"safe",
-		"defense",
-		"verified",
-		"check",
-		"guard",
-		"approved",
-		"guaranteed"
-	],
-	"ship": [
-		"travel",
-		"boat",
-		"transport",
-		"vehicle",
-		"cruise",
-		"voyage",
-		"sail",
-		"vessel",
-		"maritime",
-		"nautical"
-	],
-	"spade": [
-		"poker",
-		"card",
-		"game",
-		"casino",
-		"gambling",
-		"playing",
-		"suit",
-		"deck"
-	],
-	"spinner-dots": [
-		"loading",
-		"progress",
-		"loader",
-		"waiting",
-		"process",
-		"busy",
-		"working",
-		"activity",
-		"buffering"
-	],
-	"spinner-earring": [
-		"loading",
-		"progress",
-		"loader",
-		"waiting",
-		"process",
-		"busy",
-		"working",
-		"activity",
-		"buffering"
-	],
-	"spinner-planet": [
-		"loading",
-		"progress",
-		"loader",
-		"waiting",
-		"process",
-		"busy",
-		"working",
-		"activity",
-		"buffering"
-	],
-	"star": [
-		"favorite",
-		"rate",
-		"bookmark",
-		"highlight",
-		"important",
-		"feature",
-		"special",
-		"premium",
-		"mark"
-	],
-	"star-half": [
-		"favorite",
-		"rate",
-		"bookmark",
-		"half",
-		"partial",
-		"incomplete",
-		"semi",
-		"medium",
-		"part"
-	],
-	"star-off": [
-		"favorite",
-		"rate",
-		"bookmark",
-		"off",
-		"unfavorite",
-		"remove",
-		"unmark",
-		"deselect",
-		"clear"
-	],
-	"sun": [
-		"day",
-		"light",
-		"weather",
-		"bright",
-		"sunny",
-		"sunshine",
-		"solar",
-		"daylight",
-		"radiance"
-	],
-	"text": [
-		"format",
-		"style",
-		"typo",
-		"content",
-		"words",
-		"characters",
-		"letters",
-		"writing",
-		"font"
-	],
-	"times": [
-		"close",
-		"delete",
-		"remove",
-		"cancel",
-		"exit",
-		"dismiss",
-		"cross",
-		"stop",
-		"clear",
-		"x"
-	],
-	"times-circle": [
-		"close",
-		"delete",
-		"remove",
-		"cancel",
-		"exit",
-		"dismiss",
-		"cross",
-		"stop",
-		"clear"
-	],
-	"trash": [
-		"bin",
-		"delete",
-		"remove",
-		"discard",
-		"waste",
-		"garbage",
-		"rubbish",
-		"junk",
-		"dispose",
-		"erase"
-	],
-	"trending-down": [
-		"stock",
-		"price",
-		"graph",
-		"decline",
-		"fall",
-		"decrease",
-		"drop",
-		"descend",
-		"reduce"
-	],
-	"trending-up": [
-		"stock",
-		"price",
-		"graph",
-		"increase",
-		"rise",
-		"grow",
-		"ascend",
-		"climb",
-		"escalate"
-	],
-	"truck": [
-		"ship",
-		"travel",
-		"car",
-		"transport",
-		"vehicle",
-		"delivery",
-		"logistics",
-		"freight",
-		"cargo",
-		"shipment"
-	],
-	"underline": [
-		"format",
-		"style",
-		"typo",
-		"text",
-		"emphasis",
-		"underscore",
-		"highlight",
-		"accentuate",
-		"mark"
-	],
-	"unlock": [
-		"open",
-		"access",
-		"unlocked",
-		"security",
-		"key",
-		"free",
-		"available",
-		"permit",
-		"unrestricted"
-	],
-	"upload": [
-		"cloud",
-		"transfer",
-		"send",
-		"upload",
-		"share",
-		"publish",
-		"push",
-		"post",
-		"submit"
-	],
-	"user": [
-		"person",
-		"account",
-		"profile",
-		"avatar",
-		"member",
-		"individual",
-		"human",
-		"client",
-		"customer"
-	],
-	"user-add": [
-		"person",
-		"account",
-		"profile",
-		"add",
-		"new",
-		"invite",
-		"register",
-		"join",
-		"enroll"
-	],
-	"user-remove": [
-		"person",
-		"account",
-		"profile",
-		"remove",
-		"delete",
-		"discard",
-		"exclude",
-		"eliminate",
-		"expel"
-	],
-	"users": [
-		"group",
-		"people",
-		"team",
-		"community",
-		"members",
-		"crowd",
-		"crew",
-		"staff",
-		"personnel"
-	],
-	"verified": [
-		"authorize",
-		"mark",
-		"tick",
-		"badge",
-		"approve",
-		"confirm",
-		"validate",
-		"certify",
-		"authenticate"
-	],
-	"view-grid": [
-		"grid",
-		"table",
-		"layout",
-		"matrix",
-		"thumbnail",
-		"gallery",
-		"tiles",
-		"mosaic",
-		"array"
-	],
-	"view-list": [
-		"grid",
-		"table",
-		"layout",
-		"list",
-		"rows",
-		"items",
-		"lineup",
-		"series",
-		"sequence"
-	],
-	"volume": [
-		"sound",
-		"music",
-		"speaker",
-		"audio",
-		"noise",
-		"level",
-		"loudness",
-		"intensity",
-		"amplitude"
-	],
-	"volume-1": [
-		"sound",
-		"music",
-		"speaker",
-		"low",
-		"quiet",
-		"soft",
-		"reduce",
-		"minimal",
-		"subtle"
-	],
-	"volume-2": [
-		"sound",
-		"music",
-		"speaker",
-		"high",
-		"loud",
-		"strong",
-		"increase",
-		"maximum",
-		"amplified"
-	],
-	"volume-off": [
-		"sound",
-		"music",
-		"speaker",
-		"mute",
-		"silent",
-		"quiet",
-		"silence",
-		"disabled",
-		"deaf"
-	],
-	"wifi": [
-		"signal",
-		"network",
-		"internet",
-		"wireless",
-		"connection",
-		"online",
-		"hotspot",
-		"web",
-		"connect"
-	],
-	"wifi-off": [
-		"signal",
-		"network",
-		"offline",
-		"disconnected",
-		"unavailable",
-		"disabled",
-		"no",
-		"connection",
-		"broken"
-	]
+	"activity": {
+		"tags": [
+			"pulse",
+			"oscilator",
+			"rhythm",
+			"vibration",
+			"heartbeat",
+			"movement",
+			"action",
+			"exercise"
+		],
+		"related": []
+	},
+	"adjustments": {
+		"tags": [
+			"tune",
+			"balance",
+			"modulate",
+			"modify",
+			"settings",
+			"preferences",
+			"options",
+			"controls",
+			"calibrate",
+			"configure",
+			"customize",
+			"tweak"
+		],
+		"related": [
+			"cog",
+			"cog-2",
+			"settings",
+			"bars"
+		]
+	},
+	"ai": {
+		"tags": [
+			"artificial",
+			"intelligence",
+			"machine",
+			"learning",
+			"neural",
+			"network",
+			"smart",
+			"magic",
+			"generate",
+			"spark",
+			"star",
+			"algorithm",
+			"robot",
+			"automation",
+			"cognitive"
+		],
+		"related": []
+	},
+	"alert": {
+		"tags": [
+			"warning",
+			"error",
+			"notification",
+			"danger",
+			"attention",
+			"caution",
+			"alarm",
+			"signal",
+			"notice"
+		],
+		"related": [
+			"alert-circle",
+			"bell",
+			"bell-off",
+			"chart",
+			"clock"
+		]
+	},
+	"alert-circle": {
+		"tags": [
+			"warning",
+			"error",
+			"notification",
+			"danger",
+			"attention",
+			"circle",
+			"caution",
+			"alarm",
+			"notice",
+			"alert"
+		],
+		"related": [
+			"alert",
+			"bell",
+			"bell-off",
+			"arrow-circle-down",
+			"arrow-circle-left"
+		]
+	},
+	"arrow-circle-down": {
+		"tags": [
+			"arrow",
+			"down",
+			"circle",
+			"download",
+			"bottom",
+			"descend",
+			"downward",
+			"lower"
+		],
+		"related": [
+			"arrow-down",
+			"chevron-down",
+			"arrow-circle-left",
+			"arrow-circle-right",
+			"arrow-circle-up"
+		]
+	},
+	"arrow-circle-left": {
+		"tags": [
+			"arrow",
+			"left",
+			"circle",
+			"previous",
+			"back",
+			"return",
+			"backward",
+			"retreat"
+		],
+		"related": [
+			"arrow-left",
+			"chevron-left",
+			"arrow-circle-down",
+			"arrow-circle-right",
+			"arrow-circle-up"
+		]
+	},
+	"arrow-circle-right": {
+		"tags": [
+			"arrow",
+			"right",
+			"circle",
+			"next",
+			"forward",
+			"advance",
+			"proceed",
+			"continue"
+		],
+		"related": [
+			"arrow-right",
+			"chevron-right",
+			"arrow-circle-down",
+			"arrow-circle-left",
+			"arrow-circle-up"
+		]
+	},
+	"arrow-circle-up": {
+		"tags": [
+			"arrow",
+			"up",
+			"circle",
+			"upload",
+			"top",
+			"ascend",
+			"upward",
+			"higher",
+			"elevate"
+		],
+		"related": [
+			"arrow-up",
+			"chevron-up",
+			"arrow-circle-down",
+			"arrow-circle-left",
+			"arrow-circle-right"
+		]
+	},
+	"arrow-down": {
+		"tags": [
+			"arrow",
+			"down",
+			"decrease",
+			"bottom",
+			"descend",
+			"downward",
+			"lower",
+			"dropdown"
+		],
+		"related": [
+			"arrow-circle-down",
+			"chevron-down",
+			"trending-down",
+			"arrow-circle-left",
+			"arrow-circle-right"
+		]
+	},
+	"arrow-join": {
+		"tags": [
+			"merge",
+			"alias",
+			"combine",
+			"unite",
+			"connect",
+			"fusion",
+			"junction",
+			"converge"
+		],
+		"related": [
+			"brand-facebook",
+			"wifi",
+			"git"
+		]
+	},
+	"arrow-left": {
+		"tags": [
+			"arrow",
+			"left",
+			"previous",
+			"back",
+			"return",
+			"backward",
+			"retreat",
+			"revert"
+		],
+		"related": [
+			"arrow-circle-left",
+			"chevron-left",
+			"arrow-circle-down",
+			"arrow-circle-right",
+			"arrow-down"
+		]
+	},
+	"arrow-right": {
+		"tags": [
+			"arrow",
+			"right",
+			"next",
+			"forward",
+			"advance",
+			"proceed",
+			"continue",
+			"progress"
+		],
+		"related": [
+			"arrow-circle-right",
+			"chevron-right",
+			"arrow-circle-down",
+			"arrow-circle-left",
+			"arrow-down"
+		]
+	},
+	"arrow-split": {
+		"tags": [
+			"fork",
+			"divide",
+			"separate",
+			"branch",
+			"diverge",
+			"bifurcate",
+			"partition",
+			"disconnect"
+		],
+		"related": [
+			"git",
+			"scissors"
+		]
+	},
+	"arrow-up": {
+		"tags": [
+			"arrow",
+			"up",
+			"increase",
+			"top",
+			"ascend",
+			"upward",
+			"higher",
+			"elevate",
+			"rise"
+		],
+		"related": [
+			"arrow-circle-up",
+			"chevron-up",
+			"trending-up",
+			"arrow-circle-down",
+			"arrow-circle-left"
+		]
+	},
+	"asterisk": {
+		"tags": [
+			"star",
+			"highlight",
+			"special",
+			"important",
+			"reference",
+			"footnote",
+			"marker",
+			"notation"
+		],
+		"related": [
+			"star",
+			"bookmark",
+			"underline",
+			"location"
+		]
+	},
+	"at-symbol": {
+		"tags": [
+			"mail",
+			"email",
+			"at",
+			"address",
+			"contact",
+			"communication",
+			"internet",
+			"online"
+		],
+		"related": [
+			"mail",
+			"wifi",
+			"chat",
+			"chats",
+			"cloud"
+		]
+	},
+	"bars": {
+		"tags": [
+			"menu",
+			"burger",
+			"navigation",
+			"list",
+			"options",
+			"items",
+			"hamburger",
+			"stack"
+		],
+		"related": [
+			"menu",
+			"view-list",
+			"chevron-left",
+			"chevron-right",
+			"settings"
+		]
+	},
+	"basket": {
+		"tags": [
+			"cart",
+			"shop",
+			"buy",
+			"grocery",
+			"container",
+			"shopping",
+			"purchase",
+			"store",
+			"market"
+		],
+		"related": [
+			"cart",
+			"credit-card",
+			"folder",
+			"save"
+		]
+	},
+	"bell": {
+		"tags": [
+			"notification",
+			"alert",
+			"ring",
+			"alarm",
+			"reminder",
+			"chime",
+			"sound",
+			"notice"
+		],
+		"related": [
+			"alert-circle",
+			"alert",
+			"bell-off",
+			"clock",
+			"phone-call"
+		]
+	},
+	"bell-off": {
+		"tags": [
+			"notification",
+			"alert",
+			"silent",
+			"quiet",
+			"mute",
+			"disable",
+			"deactivate",
+			"silence"
+		],
+		"related": [
+			"volume-off",
+			"bell",
+			"alert-circle",
+			"alert",
+			"volume-1"
+		]
+	},
+	"bike": {
+		"tags": [
+			"travel",
+			"transport",
+			"vehicle",
+			"cycle",
+			"ride",
+			"bicycle",
+			"pedal",
+			"cycling",
+			"biking"
+		],
+		"related": [
+			"car",
+			"rocket",
+			"ship",
+			"truck",
+			"plane"
+		]
+	},
+	"bold": {
+		"tags": [
+			"format",
+			"style",
+			"typo",
+			"text",
+			"emphasis",
+			"strong",
+			"thick",
+			"heavy",
+			"prominent"
+		],
+		"related": [
+			"italic",
+			"underline",
+			"heading",
+			"text",
+			"brush-big"
+		]
+	},
+	"bookmark": {
+		"tags": [
+			"favorite",
+			"save",
+			"marker",
+			"read",
+			"label",
+			"tag",
+			"flag",
+			"remember"
+		],
+		"related": [
+			"asterisk",
+			"cloud",
+			"download",
+			"mail-open",
+			"star"
+		]
+	},
+	"brand-facebook": {
+		"tags": [
+			"social",
+			"network",
+			"community",
+			"fb",
+			"meta",
+			"connect",
+			"platform",
+			"share"
+		],
+		"related": [
+			"brand-x",
+			"brand-twitter",
+			"brand-instagram",
+			"wifi",
+			"arrow-join"
+		]
+	},
+	"brand-instagram": {
+		"tags": [
+			"social",
+			"photo",
+			"picture",
+			"ig",
+			"gram",
+			"filter",
+			"camera",
+			"share",
+			"stories"
+		],
+		"related": [
+			"brand-facebook",
+			"brand-twitter",
+			"camera-off",
+			"camera",
+			"image"
+		]
+	},
+	"brand-twitter": {
+		"tags": [
+			"social",
+			"tweet",
+			"bird",
+			"microblog",
+			"post",
+			"feed",
+			"message",
+			"share"
+		],
+		"related": [
+			"brand-facebook",
+			"brand-x",
+			"brand-instagram",
+			"mail",
+			"upload"
+		]
+	},
+	"brand-x": {
+		"tags": [
+			"social",
+			"twitter",
+			"network",
+			"community",
+			"elon",
+			"musk",
+			"platform",
+			"microblog"
+		],
+		"related": [
+			"brand-facebook",
+			"brand-twitter",
+			"brand-instagram",
+			"users",
+			"wifi"
+		]
+	},
+	"brush-big": {
+		"tags": [
+			"paint",
+			"style",
+			"theme",
+			"color",
+			"draw",
+			"art",
+			"design",
+			"creative",
+			"artistic"
+		],
+		"related": [
+			"droplet",
+			"bold",
+			"bulb",
+			"columns-one-two-thirds",
+			"columns-three-thirds"
+		]
+	},
+	"building": {
+		"tags": [
+			"house",
+			"residence",
+			"habitat",
+			"structure",
+			"property",
+			"home",
+			"office",
+			"workplace",
+			"architecture",
+			"apartment",
+			"construction",
+			"tower"
+		],
+		"related": [
+			"home"
+		]
+	},
+	"bulb": {
+		"tags": [
+			"light",
+			"idea",
+			"innovation",
+			"inspiration",
+			"bright",
+			"smart",
+			"creative",
+			"concept",
+			"thought"
+		],
+		"related": [
+			"bulb-off",
+			"sun",
+			"brush-big"
+		]
+	},
+	"bulb-off": {
+		"tags": [
+			"light",
+			"idea",
+			"dark",
+			"off",
+			"inactive",
+			"unlit",
+			"extinguished",
+			"darkness"
+		],
+		"related": [
+			"camera-off",
+			"bulb",
+			"moon",
+			"moon-stars",
+			"star-off"
+		]
+	},
+	"calendar": {
+		"tags": [
+			"date",
+			"time",
+			"event",
+			"schedule",
+			"appointment",
+			"day",
+			"month",
+			"year",
+			"planner"
+		],
+		"related": [
+			"clock",
+			"sun"
+		]
+	},
+	"camera": {
+		"tags": [
+			"photo",
+			"picture",
+			"capture",
+			"shoot",
+			"image",
+			"lens",
+			"snapshot",
+			"photography",
+			"record"
+		],
+		"related": [
+			"camera-off",
+			"image",
+			"brand-instagram",
+			"images",
+			"document"
+		]
+	},
+	"camera-off": {
+		"tags": [
+			"photo",
+			"picture",
+			"capture",
+			"off",
+			"disabled",
+			"inactive",
+			"privacy",
+			"hidden"
+		],
+		"related": [
+			"camera",
+			"bulb-off",
+			"brand-instagram",
+			"eye-close",
+			"image"
+		]
+	},
+	"car": {
+		"tags": [
+			"drive",
+			"travel",
+			"transport",
+			"vehicle",
+			"automobile",
+			"auto",
+			"sedan",
+			"transportation",
+			"journey"
+		],
+		"related": [
+			"bike",
+			"rocket",
+			"ship",
+			"truck",
+			"plane"
+		]
+	},
+	"cart": {
+		"tags": [
+			"basket",
+			"shop",
+			"buy",
+			"purchase",
+			"shopping",
+			"trolley",
+			"checkout",
+			"ecommerce",
+			"store"
+		],
+		"related": [
+			"basket",
+			"credit-card",
+			"save"
+		]
+	},
+	"certificate": {
+		"tags": [
+			"award",
+			"diploma",
+			"achievement",
+			"badge",
+			"honor",
+			"credential",
+			"recognition",
+			"degree",
+			"qualification"
+		],
+		"related": [
+			"verified"
+		]
+	},
+	"chart": {
+		"tags": [
+			"signal",
+			"graph",
+			"stats",
+			"data",
+			"analytics",
+			"report",
+			"metrics",
+			"diagram",
+			"visualization"
+		],
+		"related": [
+			"pie-chart",
+			"dashboard",
+			"alert",
+			"cloud",
+			"document"
+		]
+	},
+	"chat": {
+		"tags": [
+			"speak",
+			"talk",
+			"conversation",
+			"message",
+			"dialog",
+			"communication",
+			"discussion",
+			"converse"
+		],
+		"related": [
+			"chats",
+			"phone-call",
+			"mail",
+			"phone",
+			"at-symbol"
+		]
+	},
+	"chats": {
+		"tags": [
+			"speak",
+			"dialog",
+			"conversation",
+			"talk",
+			"discussion",
+			"messages",
+			"communication",
+			"threads",
+			"bubbles"
+		],
+		"related": [
+			"chat",
+			"phone-call",
+			"phone",
+			"at-symbol",
+			"mail"
+		]
+	},
+	"check": {
+		"tags": [
+			"tick",
+			"confirm",
+			"ok",
+			"done",
+			"accept",
+			"verified",
+			"approved",
+			"completed",
+			"success"
+		],
+		"related": [
+			"check-circle",
+			"shield-check",
+			"verified",
+			"phone-incoming"
+		]
+	},
+	"check-circle": {
+		"tags": [
+			"tick",
+			"confirm",
+			"ok",
+			"done",
+			"accept",
+			"circle",
+			"verified",
+			"approved",
+			"completed"
+		],
+		"related": [
+			"check",
+			"shield-check",
+			"verified",
+			"arrow-circle-down",
+			"arrow-circle-left"
+		]
+	},
+	"chevron-down": {
+		"tags": [
+			"arrow",
+			"down",
+			"expand",
+			"dropdown",
+			"collapse",
+			"downward",
+			"descend",
+			"lower"
+		],
+		"related": [
+			"arrow-down",
+			"arrow-circle-down",
+			"chevron-up",
+			"arrow-circle-left",
+			"arrow-circle-right"
+		]
+	},
+	"chevron-left": {
+		"tags": [
+			"arrow",
+			"left",
+			"previous",
+			"back",
+			"backward",
+			"return",
+			"retreat",
+			"navigation"
+		],
+		"related": [
+			"arrow-circle-left",
+			"arrow-left",
+			"chevron-right",
+			"arrow-circle-down",
+			"arrow-circle-right"
+		]
+	},
+	"chevron-right": {
+		"tags": [
+			"arrow",
+			"right",
+			"next",
+			"forward",
+			"advance",
+			"proceed",
+			"continue",
+			"navigation"
+		],
+		"related": [
+			"arrow-circle-right",
+			"arrow-right",
+			"chevron-left",
+			"arrow-circle-down",
+			"arrow-circle-left"
+		]
+	},
+	"chevron-up": {
+		"tags": [
+			"arrow",
+			"up",
+			"collapse",
+			"expand",
+			"upward",
+			"ascend",
+			"higher",
+			"rise"
+		],
+		"related": [
+			"arrow-up",
+			"arrow-circle-up",
+			"chevron-down",
+			"trending-up",
+			"arrow-circle-down"
+		]
+	},
+	"clock": {
+		"tags": [
+			"time",
+			"date",
+			"hour",
+			"minute",
+			"watch",
+			"timer",
+			"schedule",
+			"alarm",
+			"chronometer"
+		],
+		"related": [
+			"calendar",
+			"bell",
+			"eye",
+			"alert",
+			"alert-circle"
+		]
+	},
+	"cloud": {
+		"tags": [
+			"weather",
+			"sky",
+			"storage",
+			"online",
+			"server",
+			"data",
+			"save",
+			"upload",
+			"service"
+		],
+		"related": [
+			"cloud-sun",
+			"folder",
+			"moon-stars",
+			"at-symbol",
+			"bookmark"
+		]
+	},
+	"cloud-sun": {
+		"tags": [
+			"weather",
+			"sky",
+			"sunny",
+			"partly",
+			"cloudy",
+			"forecast",
+			"climate",
+			"meteorology"
+		],
+		"related": [
+			"cloud",
+			"moon-stars",
+			"sun"
+		]
+	},
+	"club": {
+		"tags": [
+			"poker",
+			"card",
+			"game",
+			"casino",
+			"gambling",
+			"playing",
+			"clover",
+			"suit"
+		],
+		"related": [
+			"spade"
+		]
+	},
+	"cog": {
+		"tags": [
+			"settings",
+			"gear",
+			"preferences",
+			"options",
+			"working",
+			"mechanism",
+			"system",
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"configure",
+			"wheel",
+			"setup"
+		],
+		"related": [
+			"cog-2",
+			"spinner-dots",
+			"spinner-earring",
+			"spinner-planet",
+			"settings"
+		]
+	},
+	"cog-2": {
+		"tags": [
+			"settings",
+			"gear",
+			"preferences",
+			"options",
+			"working",
+			"mechanism",
+			"system",
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"configure",
+			"wheel",
+			"setup",
+			"double"
+		],
+		"related": [
+			"cog",
+			"spinner-dots",
+			"spinner-earring",
+			"spinner-planet",
+			"settings"
+		]
+	},
+	"coins": {
+		"tags": [
+			"money",
+			"cash",
+			"currency",
+			"coinage",
+			"finance",
+			"payment",
+			"wealth",
+			"token",
+			"crypto",
+			"dollar"
+		],
+		"related": [
+			"money",
+			"credit-card"
+		]
+	},
+	"columns-one-two-thirds": {
+		"tags": [
+			"layout",
+			"grid",
+			"table",
+			"structure",
+			"design",
+			"template",
+			"format",
+			"organization",
+			"arrangement"
+		],
+		"related": [
+			"columns-three-thirds",
+			"columns-two-halfs",
+			"view-grid",
+			"view-list",
+			"bold"
+		]
+	},
+	"columns-three-thirds": {
+		"tags": [
+			"layout",
+			"grid",
+			"table",
+			"structure",
+			"design",
+			"template",
+			"format",
+			"organization",
+			"arrangement"
+		],
+		"related": [
+			"columns-one-two-thirds",
+			"columns-two-halfs",
+			"view-grid",
+			"view-list",
+			"bold"
+		]
+	},
+	"columns-two-halfs": {
+		"tags": [
+			"layout",
+			"grid",
+			"table",
+			"structure",
+			"design",
+			"template",
+			"format",
+			"organization",
+			"arrangement"
+		],
+		"related": [
+			"columns-one-two-thirds",
+			"columns-three-thirds",
+			"view-grid",
+			"view-list",
+			"bold"
+		]
+	},
+	"credit-card": {
+		"tags": [
+			"pay",
+			"money",
+			"payment",
+			"transaction",
+			"banking",
+			"finance",
+			"purchase",
+			"checkout",
+			"debit"
+		],
+		"related": [
+			"coins",
+			"cart",
+			"money",
+			"basket"
+		]
+	},
+	"dashboard": {
+		"tags": [
+			"layout",
+			"interface",
+			"control",
+			"panel",
+			"overview",
+			"analytics",
+			"metrics",
+			"summary",
+			"monitor"
+		],
+		"related": [
+			"chart",
+			"pie-chart",
+			"columns-one-two-thirds",
+			"columns-three-thirds",
+			"columns-two-halfs"
+		]
+	},
+	"desktop": {
+		"tags": [
+			"monitor",
+			"screen",
+			"computer",
+			"display",
+			"pc",
+			"workstation",
+			"desktop",
+			"machine",
+			"device"
+		],
+		"related": [
+			"mobile",
+			"dashboard",
+			"funnel",
+			"maximize",
+			"remote"
+		]
+	},
+	"document": {
+		"tags": [
+			"file",
+			"paper",
+			"record",
+			"report",
+			"page",
+			"text",
+			"sheet",
+			"note",
+			"doc"
+		],
+		"related": [
+			"document-add",
+			"document-remove",
+			"bold",
+			"camera",
+			"chart"
+		]
+	},
+	"document-add": {
+		"tags": [
+			"file",
+			"new",
+			"create",
+			"add",
+			"page",
+			"sheet",
+			"generate",
+			"produce",
+			"compose"
+		],
+		"related": [
+			"folder-add",
+			"document",
+			"document-remove",
+			"user-add",
+			"pencil"
+		]
+	},
+	"document-remove": {
+		"tags": [
+			"file",
+			"delete",
+			"remove",
+			"discard",
+			"page",
+			"sheet",
+			"eliminate",
+			"erase",
+			"trash"
+		],
+		"related": [
+			"folder-remove",
+			"user-remove",
+			"trash",
+			"document",
+			"document-add"
+		]
+	},
+	"download": {
+		"tags": [
+			"cloud",
+			"save",
+			"transfer",
+			"get",
+			"arrow",
+			"obtain",
+			"retrieve",
+			"fetch",
+			"acquire"
+		],
+		"related": [
+			"upload",
+			"arrow-circle-down",
+			"arrow-circle-left",
+			"arrow-circle-right",
+			"arrow-down"
+		]
+	},
+	"droplet": {
+		"tags": [
+			"color",
+			"water",
+			"liquid",
+			"drop",
+			"tear",
+			"rain",
+			"wet",
+			"fluid",
+			"paint"
+		],
+		"related": [
+			"brush-big",
+			"trending-down"
+		]
+	},
+	"edit": {
+		"tags": [
+			"pencil",
+			"write",
+			"update",
+			"change",
+			"modify",
+			"revise",
+			"alter",
+			"amend",
+			"adjust"
+		],
+		"related": [
+			"pencil"
+		]
+	},
+	"external-link": {
+		"tags": [
+			"out",
+			"open",
+			"new",
+			"window",
+			"external",
+			"redirect",
+			"outbound",
+			"goto",
+			"visit"
+		],
+		"related": [
+			"document-add",
+			"folder-add",
+			"folder-open",
+			"mail-open",
+			"phone-forward"
+		]
+	},
+	"eye": {
+		"tags": [
+			"show",
+			"visible",
+			"view",
+			"see",
+			"look",
+			"watch",
+			"vision",
+			"sight",
+			"visible"
+		],
+		"related": [
+			"clock",
+			"folder-open"
+		]
+	},
+	"eye-close": {
+		"tags": [
+			"hide",
+			"humble",
+			"conceal",
+			"invisible",
+			"privacy",
+			"unseen",
+			"hidden",
+			"blind",
+			"cover"
+		],
+		"related": [
+			"eye-off",
+			"camera-off",
+			"incognito",
+			"incognito-2",
+			"shield"
+		]
+	},
+	"eye-off": {
+		"tags": [
+			"hide",
+			"invisible",
+			"unseen",
+			"hidden",
+			"conceal",
+			"blind",
+			"private",
+			"secret",
+			"cover"
+		],
+		"related": [
+			"eye-close",
+			"incognito",
+			"incognito-2",
+			"key",
+			"camera-off"
+		]
+	},
+	"fingerprint": {
+		"tags": [
+			"touch",
+			"id",
+			"security",
+			"scan",
+			"biometric",
+			"thumb",
+			"identity",
+			"unique",
+			"authentication",
+			"verify"
+		],
+		"related": [
+			"lock",
+			"shield",
+			"shield-check",
+			"unlock"
+		]
+	},
+	"flask": {
+		"tags": [
+			"lab",
+			"experiment",
+			"test",
+			"science",
+			"chemistry",
+			"chemical",
+			"mixture",
+			"reaction",
+			"research",
+			"laboratory",
+			"beaker"
+		],
+		"related": []
+	},
+	"flash": {
+		"tags": [
+			"lightning",
+			"bolt",
+			"electricity",
+			"power",
+			"energy",
+			"speed",
+			"thunder",
+			"fast",
+			"charge",
+			"electric"
+		],
+		"related": []
+	},
+	"folder": {
+		"tags": [
+			"directory",
+			"file",
+			"organize",
+			"container",
+			"storage",
+			"data",
+			"collection",
+			"documents",
+			"archive"
+		],
+		"related": [
+			"cloud",
+			"images",
+			"basket",
+			"chart",
+			"document"
+		]
+	},
+	"folder-add": {
+		"tags": [
+			"directory",
+			"new",
+			"add",
+			"create",
+			"make",
+			"generate",
+			"produce",
+			"establish",
+			"compose"
+		],
+		"related": [
+			"document-add",
+			"user-add",
+			"pencil",
+			"external-link",
+			"folder"
+		]
+	},
+	"folder-open": {
+		"tags": [
+			"directory",
+			"access",
+			"open",
+			"view",
+			"examine",
+			"explore",
+			"browse",
+			"inspect",
+			"check"
+		],
+		"related": [
+			"unlock",
+			"eye",
+			"external-link",
+			"folder",
+			"folder-add"
+		]
+	},
+	"folder-remove": {
+		"tags": [
+			"directory",
+			"delete",
+			"remove",
+			"discard",
+			"eliminate",
+			"erase",
+			"trash",
+			"destroy",
+			"clear"
+		],
+		"related": [
+			"document-remove",
+			"user-remove",
+			"trash",
+			"times-circle",
+			"times"
+		]
+	},
+	"fork-knife": {
+		"tags": [
+			"food",
+			"cutlery",
+			"spoon",
+			"eat",
+			"dinner",
+			"lunch",
+			"breakfast",
+			"meal",
+			"restaurant",
+			"dining",
+			"utensils",
+			"cuisine"
+		],
+		"related": []
+	},
+	"funnel": {
+		"tags": [
+			"filter",
+			"sort",
+			"flow",
+			"channel",
+			"sieve",
+			"strain",
+			"refine",
+			"screen",
+			"purify"
+		],
+		"related": [
+			"brand-instagram",
+			"desktop",
+			"maximize",
+			"mobile",
+			"remote"
+		]
+	},
+	"gift": {
+		"tags": [
+			"present",
+			"box",
+			"surprise",
+			"birthday",
+			"christmas",
+			"reward",
+			"package",
+			"offering",
+			"donation",
+			"present",
+			"wrap"
+		],
+		"related": []
+	},
+	"git": {
+		"tags": [
+			"version",
+			"control",
+			"code",
+			"repository",
+			"branch",
+			"commit",
+			"push",
+			"pull",
+			"merge",
+			"development",
+			"source"
+		],
+		"related": [
+			"arrow-join",
+			"arrow-split",
+			"dashboard",
+			"remote",
+			"settings"
+		]
+	},
+	"globe": {
+		"tags": [
+			"language",
+			"geo",
+			"world",
+			"translate",
+			"earth",
+			"planet",
+			"global",
+			"international",
+			"worldwide",
+			"universal"
+		],
+		"related": []
+	},
+	"heading": {
+		"tags": [
+			"typo",
+			"format",
+			"style",
+			"text",
+			"header",
+			"title",
+			"headline",
+			"caption",
+			"subject"
+		],
+		"related": [
+			"bold",
+			"italic",
+			"underline",
+			"text",
+			"brush-big"
+		]
+	},
+	"heart": {
+		"tags": [
+			"health",
+			"like",
+			"love",
+			"favorite",
+			"emotion",
+			"affection",
+			"romance",
+			"passion",
+			"care",
+			"adore"
+		],
+		"related": [
+			"bookmark",
+			"star",
+			"star-half",
+			"star-off"
+		]
+	},
+	"home": {
+		"tags": [
+			"house",
+			"building",
+			"residence",
+			"habitat",
+			"domicile",
+			"dwelling",
+			"abode",
+			"property",
+			"apartment"
+		],
+		"related": [
+			"building"
+		]
+	},
+	"image": {
+		"tags": [
+			"picture",
+			"photo",
+			"illustration",
+			"snapshot",
+			"graphic",
+			"visual",
+			"artwork",
+			"portrait",
+			"drawing"
+		],
+		"related": [
+			"camera",
+			"camera-off",
+			"brand-instagram",
+			"images"
+		]
+	},
+	"images": {
+		"tags": [
+			"picture",
+			"photo",
+			"gallery",
+			"album",
+			"collection",
+			"pics",
+			"photographs",
+			"portfolio",
+			"library",
+			"archive"
+		],
+		"related": [
+			"camera-off",
+			"brand-instagram",
+			"camera",
+			"folder",
+			"image"
+		]
+	},
+	"incognito": {
+		"tags": [
+			"hat",
+			"undercover",
+			"secret",
+			"privacy",
+			"hidden",
+			"anonymous",
+			"stealth",
+			"disguise",
+			"private"
+		],
+		"related": [
+			"incognito-2",
+			"eye-off",
+			"camera-off",
+			"eye-close",
+			"shield"
+		]
+	},
+	"incognito-2": {
+		"tags": [
+			"hat",
+			"undercover",
+			"secret",
+			"moustache",
+			"mustache",
+			"privacy",
+			"disguise",
+			"hidden",
+			"anonymous",
+			"mask"
+		],
+		"related": [
+			"incognito",
+			"camera-off",
+			"eye-close",
+			"eye-off"
+		]
+	},
+	"info": {
+		"tags": [
+			"information",
+			"details",
+			"data",
+			"knowledge",
+			"facts",
+			"help",
+			"assistance",
+			"guidance",
+			"advice"
+		],
+		"related": [
+			"info-circle",
+			"chart",
+			"cloud",
+			"folder",
+			"pie-chart"
+		]
+	},
+	"info-circle": {
+		"tags": [
+			"information",
+			"details",
+			"data",
+			"knowledge",
+			"facts",
+			"help",
+			"assistance",
+			"guidance",
+			"advice"
+		],
+		"related": [
+			"info",
+			"chart",
+			"cloud",
+			"folder",
+			"pie-chart"
+		]
+	},
+	"italic": {
+		"tags": [
+			"typo",
+			"format",
+			"style",
+			"text",
+			"emphasis",
+			"slant",
+			"oblique",
+			"cursive",
+			"tilt"
+		],
+		"related": [
+			"bold",
+			"underline",
+			"heading",
+			"text",
+			"brush-big"
+		]
+	},
+	"key": {
+		"tags": [
+			"safe",
+			"lock",
+			"password",
+			"access",
+			"secret",
+			"private",
+			"secure",
+			"unlock",
+			"keyhole",
+			"security",
+			"entry",
+			"authorization"
+		],
+		"related": [
+			"lock",
+			"eye-off",
+			"incognito",
+			"shield",
+			"shield-check"
+		]
+	},
+	"location": {
+		"tags": [
+			"geo",
+			"gps",
+			"map",
+			"pin",
+			"place",
+			"position",
+			"address",
+			"marker",
+			"locale",
+			"spot",
+			"point",
+			"coordinates"
+		],
+		"related": [
+			"asterisk",
+			"at-symbol",
+			"bookmark"
+		]
+	},
+	"lock": {
+		"tags": [
+			"secure",
+			"password",
+			"private",
+			"security",
+			"locked",
+			"protected",
+			"safe",
+			"closed",
+			"padlock"
+		],
+		"related": [
+			"key",
+			"shield",
+			"shield-check",
+			"eye-off",
+			"incognito"
+		]
+	},
+	"mail": {
+		"tags": [
+			"envelope",
+			"message",
+			"email",
+			"send",
+			"post",
+			"letter",
+			"correspondence",
+			"communication",
+			"inbox"
+		],
+		"related": [
+			"at-symbol",
+			"brand-twitter",
+			"chat",
+			"mail-open",
+			"upload"
+		]
+	},
+	"mail-open": {
+		"tags": [
+			"envelope",
+			"read",
+			"message",
+			"open",
+			"viewed",
+			"opened",
+			"revealed",
+			"received",
+			"checked"
+		],
+		"related": [
+			"mail",
+			"bookmark",
+			"brand-twitter",
+			"chat",
+			"external-link"
+		]
+	},
+	"maximize": {
+		"tags": [
+			"screen",
+			"fullscreen",
+			"expand",
+			"resize",
+			"enlarge",
+			"grow",
+			"increase",
+			"extend",
+			"amplify"
+		],
+		"related": [
+			"trending-up",
+			"chevron-down",
+			"chevron-up",
+			"arrow-up",
+			"desktop"
+		]
+	},
+	"menu": {
+		"tags": [
+			"bars",
+			"navigation",
+			"list",
+			"burger",
+			"hamburger",
+			"options",
+			"items",
+			"selections",
+			"choices"
+		],
+		"related": [
+			"bars",
+			"view-list",
+			"chevron-left",
+			"chevron-right",
+			"settings"
+		]
+	},
+	"minus": {
+		"tags": [
+			"dash",
+			"subtract",
+			"delete",
+			"remove",
+			"hide",
+			"minimize",
+			"less",
+			"reduce",
+			"decrease",
+			"deduct"
+		],
+		"related": [
+			"document-remove",
+			"folder-remove",
+			"times-circle",
+			"trending-down",
+			"user-remove"
+		]
+	},
+	"mobile": {
+		"tags": [
+			"screen",
+			"phone",
+			"cellphone",
+			"telephone",
+			"mobile",
+			"smartphone",
+			"device",
+			"handheld",
+			"portable"
+		],
+		"related": [
+			"phone",
+			"desktop",
+			"funnel",
+			"maximize",
+			"remote"
+		]
+	},
+	"money": {
+		"tags": [
+			"coin",
+			"cash",
+			"dollar",
+			"euro",
+			"pound",
+			"yen",
+			"currency",
+			"finance",
+			"payment",
+			"wealth",
+			"funds"
+		],
+		"related": [
+			"coins",
+			"credit-card"
+		]
+	},
+	"moon": {
+		"tags": [
+			"dark",
+			"night",
+			"sleep",
+			"lunar",
+			"crescent",
+			"evening",
+			"dusk",
+			"astronomy",
+			"space"
+		],
+		"related": [
+			"moon-stars",
+			"bulb-off",
+			"rocket"
+		]
+	},
+	"moon-stars": {
+		"tags": [
+			"night",
+			"sleep",
+			"weather",
+			"dark",
+			"stars",
+			"astronomy",
+			"space",
+			"sky",
+			"evening"
+		],
+		"related": [
+			"moon",
+			"cloud-sun",
+			"cloud",
+			"bulb-off",
+			"sun"
+		]
+	},
+	"pencil": {
+		"tags": [
+			"edit",
+			"write",
+			"update",
+			"change",
+			"modify",
+			"draw",
+			"sketch",
+			"scribble",
+			"compose",
+			"create"
+		],
+		"related": [
+			"edit",
+			"document-add",
+			"folder-add",
+			"brush-big"
+		]
+	},
+	"phone": {
+		"tags": [
+			"call",
+			"ring",
+			"mobile",
+			"cellphone",
+			"telephone",
+			"dial",
+			"communicate",
+			"talk",
+			"conversation",
+			"contact"
+		],
+		"related": [
+			"phone-call",
+			"mobile",
+			"phone-outgoing",
+			"chat",
+			"chats"
+		]
+	},
+	"phone-call": {
+		"tags": [
+			"ring",
+			"call",
+			"communicate",
+			"talk",
+			"dial",
+			"answer",
+			"speak",
+			"conversation",
+			"contact"
+		],
+		"related": [
+			"phone",
+			"chat",
+			"chats",
+			"phone-incoming",
+			"phone-outgoing"
+		]
+	},
+	"phone-forward": {
+		"tags": [
+			"ring",
+			"call",
+			"forward",
+			"redirect",
+			"transfer",
+			"divert",
+			"reroute",
+			"switch",
+			"direct"
+		],
+		"related": [
+			"phone-call",
+			"phone-incoming",
+			"phone-missed",
+			"phone-outgoing",
+			"phone"
+		]
+	},
+	"phone-incoming": {
+		"tags": [
+			"ring",
+			"call",
+			"incoming",
+			"receive",
+			"answer",
+			"accept",
+			"take",
+			"pickup",
+			"arrive"
+		],
+		"related": [
+			"phone-call",
+			"phone-forward",
+			"phone-missed",
+			"phone-outgoing",
+			"phone"
+		]
+	},
+	"phone-missed": {
+		"tags": [
+			"ring",
+			"call",
+			"missed",
+			"unanswered",
+			"ignored",
+			"lost",
+			"rejected",
+			"neglected",
+			"overlooked"
+		],
+		"related": [
+			"phone-call",
+			"phone-forward",
+			"phone-incoming",
+			"phone-outgoing",
+			"phone"
+		]
+	},
+	"phone-outgoing": {
+		"tags": [
+			"ring",
+			"call",
+			"outgoing",
+			"dial",
+			"place",
+			"make",
+			"start",
+			"initiate",
+			"begin"
+		],
+		"related": [
+			"phone-call",
+			"phone",
+			"phone-forward",
+			"phone-incoming",
+			"phone-missed"
+		]
+	},
+	"pie-chart": {
+		"tags": [
+			"stat",
+			"graph",
+			"chart",
+			"diagram",
+			"stats",
+			"analytics",
+			"data",
+			"report",
+			"metrics",
+			"visualization"
+		],
+		"related": [
+			"chart",
+			"dashboard",
+			"cloud",
+			"document",
+			"folder"
+		]
+	},
+	"plane": {
+		"tags": [
+			"travel",
+			"flight",
+			"airplane",
+			"aeroplane",
+			"jet",
+			"aviation",
+			"aircraft",
+			"airport",
+			"flying",
+			"trip"
+		],
+		"related": [
+			"rocket",
+			"bike",
+			"car",
+			"ship",
+			"truck"
+		]
+	},
+	"prompt": {
+		"tags": [
+			"command",
+			"line",
+			"terminal",
+			"console",
+			"cmd",
+			"cli",
+			"shell",
+			"interface",
+			"input",
+			"code"
+		],
+		"related": [
+			"dashboard"
+		]
+	},
+	"radio": {
+		"tags": [
+			"signal",
+			"sound",
+			"music",
+			"podcast",
+			"audio",
+			"listen",
+			"broadcast",
+			"tune",
+			"station",
+			"frequency"
+		],
+		"related": [
+			"volume",
+			"volume-1",
+			"volume-2",
+			"volume-off",
+			"bell"
+		]
+	},
+	"remote": {
+		"tags": [
+			"control",
+			"device",
+			"tv",
+			"television",
+			"clicker",
+			"commander",
+			"switch",
+			"wireless",
+			"channel"
+		],
+		"related": [
+			"dashboard",
+			"desktop",
+			"funnel",
+			"mobile",
+			"phone-forward"
+		]
+	},
+	"restart": {
+		"tags": [
+			"reload",
+			"refresh",
+			"reset",
+			"renew",
+			"reboot",
+			"recycle",
+			"reinitiate",
+			"revive",
+			"regenerate"
+		],
+		"related": []
+	},
+	"rocket": {
+		"tags": [
+			"travel",
+			"launch",
+			"ship",
+			"transport",
+			"vehicle",
+			"space",
+			"missile",
+			"shuttle",
+			"spacecraft",
+			"flight"
+		],
+		"related": [
+			"truck",
+			"bike",
+			"car",
+			"ship",
+			"plane"
+		]
+	},
+	"save": {
+		"tags": [
+			"floppy",
+			"disk",
+			"download",
+			"store",
+			"preserve",
+			"keep",
+			"record",
+			"maintain",
+			"retain"
+		],
+		"related": [
+			"arrow-circle-down",
+			"basket",
+			"camera",
+			"cart",
+			"document"
+		]
+	},
+	"scissors": {
+		"tags": [
+			"cut",
+			"edit",
+			"trim",
+			"clip",
+			"crop",
+			"slice",
+			"snip",
+			"shear",
+			"carve",
+			"sever",
+			"divide"
+		],
+		"related": [
+			"arrow-split"
+		]
+	},
+	"search": {
+		"tags": [
+			"magnif",
+			"zoom",
+			"find",
+			"glass",
+			"loupe",
+			"explore",
+			"locate",
+			"seek",
+			"discover",
+			"hunt"
+		],
+		"related": [
+			"folder-open"
+		]
+	},
+	"settings": {
+		"tags": [
+			"cog",
+			"gear",
+			"preferences",
+			"options",
+			"tools",
+			"configuration",
+			"setup",
+			"customize",
+			"control"
+		],
+		"related": [
+			"cog",
+			"cog-2",
+			"adjustments",
+			"bars",
+			"dashboard"
+		]
+	},
+	"shield": {
+		"tags": [
+			"security",
+			"protection",
+			"safe",
+			"defense",
+			"guard",
+			"armor",
+			"cover",
+			"safeguard",
+			"barrier"
+		],
+		"related": [
+			"shield-check",
+			"lock",
+			"key",
+			"eye-close",
+			"eye-off"
+		]
+	},
+	"shield-check": {
+		"tags": [
+			"security",
+			"protection",
+			"safe",
+			"defense",
+			"verified",
+			"check",
+			"guard",
+			"approved",
+			"guaranteed"
+		],
+		"related": [
+			"shield",
+			"check",
+			"check-circle",
+			"lock",
+			"key"
+		]
+	},
+	"ship": {
+		"tags": [
+			"travel",
+			"boat",
+			"transport",
+			"vehicle",
+			"cruise",
+			"voyage",
+			"sail",
+			"vessel",
+			"maritime",
+			"nautical"
+		],
+		"related": [
+			"bike",
+			"car",
+			"rocket",
+			"truck",
+			"plane"
+		]
+	},
+	"spade": {
+		"tags": [
+			"poker",
+			"card",
+			"game",
+			"casino",
+			"gambling",
+			"playing",
+			"suit",
+			"deck"
+		],
+		"related": [
+			"club"
+		]
+	},
+	"spinner-dots": {
+		"tags": [
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"process",
+			"busy",
+			"working",
+			"activity",
+			"buffering"
+		],
+		"related": [
+			"spinner-earring",
+			"spinner-planet",
+			"cog",
+			"cog-2",
+			"arrow-right"
+		]
+	},
+	"spinner-earring": {
+		"tags": [
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"process",
+			"busy",
+			"working",
+			"activity",
+			"buffering"
+		],
+		"related": [
+			"spinner-dots",
+			"spinner-planet",
+			"cog",
+			"cog-2",
+			"arrow-right"
+		]
+	},
+	"spinner-planet": {
+		"tags": [
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"process",
+			"busy",
+			"working",
+			"activity",
+			"buffering"
+		],
+		"related": [
+			"spinner-dots",
+			"spinner-earring",
+			"cog",
+			"cog-2",
+			"arrow-right"
+		]
+	},
+	"star": {
+		"tags": [
+			"favorite",
+			"rate",
+			"bookmark",
+			"highlight",
+			"important",
+			"feature",
+			"special",
+			"premium",
+			"mark"
+		],
+		"related": [
+			"asterisk",
+			"star-half",
+			"star-off",
+			"underline",
+			"bookmark"
+		]
+	},
+	"star-half": {
+		"tags": [
+			"favorite",
+			"rate",
+			"bookmark",
+			"half",
+			"partial",
+			"incomplete",
+			"semi",
+			"medium",
+			"part"
+		],
+		"related": [
+			"star",
+			"star-off",
+			"bookmark",
+			"heart"
+		]
+	},
+	"star-off": {
+		"tags": [
+			"favorite",
+			"rate",
+			"bookmark",
+			"off",
+			"unfavorite",
+			"remove",
+			"unmark",
+			"deselect",
+			"clear"
+		],
+		"related": [
+			"star",
+			"star-half",
+			"folder-remove",
+			"times-circle",
+			"times"
+		]
+	},
+	"sun": {
+		"tags": [
+			"day",
+			"light",
+			"weather",
+			"bright",
+			"sunny",
+			"sunshine",
+			"solar",
+			"daylight",
+			"radiance"
+		],
+		"related": [
+			"cloud-sun",
+			"bulb",
+			"bulb-off",
+			"calendar",
+			"cloud"
+		]
+	},
+	"text": {
+		"tags": [
+			"format",
+			"style",
+			"typo",
+			"content",
+			"words",
+			"characters",
+			"letters",
+			"writing",
+			"font"
+		],
+		"related": [
+			"bold",
+			"heading",
+			"italic",
+			"underline",
+			"brush-big"
+		]
+	},
+	"times": {
+		"tags": [
+			"close",
+			"delete",
+			"remove",
+			"cancel",
+			"exit",
+			"dismiss",
+			"cross",
+			"stop",
+			"clear",
+			"x"
+		],
+		"related": [
+			"times-circle",
+			"folder-remove",
+			"document-remove",
+			"star-off",
+			"user-remove"
+		]
+	},
+	"times-circle": {
+		"tags": [
+			"close",
+			"delete",
+			"remove",
+			"cancel",
+			"exit",
+			"dismiss",
+			"cross",
+			"stop",
+			"clear"
+		],
+		"related": [
+			"times",
+			"folder-remove",
+			"document-remove",
+			"star-off",
+			"user-remove"
+		]
+	},
+	"trash": {
+		"tags": [
+			"bin",
+			"delete",
+			"remove",
+			"discard",
+			"waste",
+			"garbage",
+			"rubbish",
+			"junk",
+			"dispose",
+			"erase"
+		],
+		"related": [
+			"document-remove",
+			"folder-remove",
+			"user-remove",
+			"times-circle",
+			"minus"
+		]
+	},
+	"trending-down": {
+		"tags": [
+			"stock",
+			"price",
+			"graph",
+			"decline",
+			"fall",
+			"decrease",
+			"drop",
+			"descend",
+			"reduce"
+		],
+		"related": [
+			"trending-up",
+			"arrow-down",
+			"minus",
+			"arrow-circle-down",
+			"chevron-down"
+		]
+	},
+	"trending-up": {
+		"tags": [
+			"stock",
+			"price",
+			"graph",
+			"increase",
+			"rise",
+			"grow",
+			"ascend",
+			"climb",
+			"escalate"
+		],
+		"related": [
+			"arrow-up",
+			"trending-down",
+			"chevron-up",
+			"maximize",
+			"arrow-circle-up"
+		]
+	},
+	"truck": {
+		"tags": [
+			"ship",
+			"travel",
+			"car",
+			"transport",
+			"vehicle",
+			"delivery",
+			"logistics",
+			"freight",
+			"cargo",
+			"shipment"
+		],
+		"related": [
+			"rocket",
+			"bike",
+			"car",
+			"ship",
+			"plane"
+		]
+	},
+	"underline": {
+		"tags": [
+			"format",
+			"style",
+			"typo",
+			"text",
+			"emphasis",
+			"underscore",
+			"highlight",
+			"accentuate",
+			"mark"
+		],
+		"related": [
+			"bold",
+			"italic",
+			"heading",
+			"text",
+			"star"
+		]
+	},
+	"unlock": {
+		"tags": [
+			"open",
+			"access",
+			"unlocked",
+			"security",
+			"key",
+			"free",
+			"available",
+			"permit",
+			"unrestricted"
+		],
+		"related": [
+			"folder-open",
+			"key",
+			"external-link",
+			"lock",
+			"mail-open"
+		]
+	},
+	"upload": {
+		"tags": [
+			"cloud",
+			"transfer",
+			"send",
+			"upload",
+			"share",
+			"publish",
+			"push",
+			"post",
+			"submit"
+		],
+		"related": [
+			"brand-twitter",
+			"download",
+			"mail",
+			"brand-facebook",
+			"arrow-circle-up"
+		]
+	},
+	"user": {
+		"tags": [
+			"person",
+			"account",
+			"profile",
+			"avatar",
+			"member",
+			"individual",
+			"human",
+			"client",
+			"customer"
+		],
+		"related": [
+			"user-add",
+			"user-remove"
+		]
+	},
+	"user-add": {
+		"tags": [
+			"person",
+			"account",
+			"profile",
+			"add",
+			"new",
+			"invite",
+			"register",
+			"join",
+			"enroll"
+		],
+		"related": [
+			"user",
+			"user-remove",
+			"document-add",
+			"folder-add",
+			"external-link"
+		]
+	},
+	"user-remove": {
+		"tags": [
+			"person",
+			"account",
+			"profile",
+			"remove",
+			"delete",
+			"discard",
+			"exclude",
+			"eliminate",
+			"expel"
+		],
+		"related": [
+			"document-remove",
+			"folder-remove",
+			"user",
+			"user-add",
+			"trash"
+		]
+	},
+	"users": {
+		"tags": [
+			"group",
+			"people",
+			"team",
+			"community",
+			"members",
+			"crowd",
+			"crew",
+			"staff",
+			"personnel"
+		],
+		"related": [
+			"brand-facebook",
+			"brand-x"
+		]
+	},
+	"verified": {
+		"tags": [
+			"authorize",
+			"mark",
+			"tick",
+			"badge",
+			"approve",
+			"confirm",
+			"validate",
+			"certify",
+			"authenticate"
+		],
+		"related": [
+			"check",
+			"check-circle",
+			"certificate",
+			"star",
+			"underline"
+		]
+	},
+	"view-grid": {
+		"tags": [
+			"grid",
+			"table",
+			"layout",
+			"matrix",
+			"thumbnail",
+			"gallery",
+			"tiles",
+			"mosaic",
+			"array"
+		],
+		"related": [
+			"columns-one-two-thirds",
+			"columns-three-thirds",
+			"columns-two-halfs",
+			"view-list",
+			"dashboard"
+		]
+	},
+	"view-list": {
+		"tags": [
+			"grid",
+			"table",
+			"layout",
+			"list",
+			"rows",
+			"items",
+			"lineup",
+			"series",
+			"sequence"
+		],
+		"related": [
+			"columns-one-two-thirds",
+			"columns-three-thirds",
+			"columns-two-halfs",
+			"view-grid",
+			"bars"
+		]
+	},
+	"volume": {
+		"tags": [
+			"sound",
+			"music",
+			"speaker",
+			"audio",
+			"noise",
+			"level",
+			"loudness",
+			"intensity",
+			"amplitude"
+		],
+		"related": [
+			"volume-1",
+			"volume-2",
+			"volume-off",
+			"radio",
+			"bell"
+		]
+	},
+	"volume-1": {
+		"tags": [
+			"sound",
+			"music",
+			"speaker",
+			"low",
+			"quiet",
+			"soft",
+			"reduce",
+			"minimal",
+			"subtle"
+		],
+		"related": [
+			"volume-off",
+			"volume",
+			"volume-2",
+			"radio",
+			"bell"
+		]
+	},
+	"volume-2": {
+		"tags": [
+			"sound",
+			"music",
+			"speaker",
+			"high",
+			"loud",
+			"strong",
+			"increase",
+			"maximum",
+			"amplified"
+		],
+		"related": [
+			"volume",
+			"volume-1",
+			"volume-off",
+			"radio",
+			"bell"
+		]
+	},
+	"volume-off": {
+		"tags": [
+			"sound",
+			"music",
+			"speaker",
+			"mute",
+			"silent",
+			"quiet",
+			"silence",
+			"disabled",
+			"deaf"
+		],
+		"related": [
+			"bell-off",
+			"volume-1",
+			"volume",
+			"volume-2",
+			"radio"
+		]
+	},
+	"wifi": {
+		"tags": [
+			"signal",
+			"network",
+			"internet",
+			"wireless",
+			"connection",
+			"online",
+			"hotspot",
+			"web",
+			"connect"
+		],
+		"related": [
+			"wifi-off",
+			"at-symbol",
+			"brand-facebook",
+			"arrow-join",
+			"brand-x"
+		]
+	},
+	"wifi-off": {
+		"tags": [
+			"signal",
+			"network",
+			"offline",
+			"disconnected",
+			"unavailable",
+			"disabled",
+			"no",
+			"connection",
+			"broken"
+		],
+		"related": [
+			"wifi",
+			"brand-facebook",
+			"brand-x",
+			"camera-off",
+			"alert"
+		]
+	}
 }
