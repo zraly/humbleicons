@@ -1,3026 +1,626 @@
 {
 	"activity": {
-		"tags": [
-			"pulse",
-			"oscilator",
-			"rhythm",
-			"vibration",
-			"heartbeat",
-			"movement",
-			"action",
-			"exercise"
-		],
-		"related": []
+		"keywords": ["pulse", "oscilator", "rhythm", "vibration", "heartbeat", "movement", "action", "exercise"],
+		"categories": ["medical", "data-and-analytics"]
 	},
 	"adjustments": {
-		"tags": [
-			"tune",
-			"balance",
-			"modulate",
-			"modify",
-			"settings",
-			"preferences",
-			"options",
-			"controls",
-			"calibrate",
-			"configure",
-			"customize",
-			"tweak"
-		],
-		"related": [
-			"cog",
-			"cog-2",
-			"settings",
-			"bars"
-		]
+		"keywords": ["tune", "balance", "modulate", "modify", "settings", "preferences", "options", "controls", "calibrate", "configure", "customize", "tweak"],
+		"categories": ["ui", "settings-and-controls"]
 	},
 	"ai": {
-		"tags": [
-			"artificial",
-			"intelligence",
-			"machine",
-			"learning",
-			"neural",
-			"network",
-			"smart",
-			"magic",
-			"generate",
-			"spark",
-			"star",
-			"algorithm",
-			"robot",
-			"automation",
-			"cognitive"
-		],
-		"related": []
+		"keywords": ["artificial", "intelligence", "machine", "learning", "neural", "network", "smart", "magic", "generate", "spark", "star", "algorithm", "robot", "automation", "cognitive"],
+		"categories": ["development-and-code"]
 	},
 	"alert": {
-		"tags": [
-			"warning",
-			"error",
-			"notification",
-			"danger",
-			"attention",
-			"caution",
-			"alarm",
-			"signal",
-			"notice"
-		],
-		"related": [
-			"alert-circle",
-			"bell",
-			"bell-off",
-			"chart",
-			"clock"
-		]
+		"keywords": ["warning", "error", "notification", "danger", "attention", "caution", "alarm", "signal", "notice"],
+		"categories": ["ui", "time-and-notifications"]
 	},
 	"alert-circle": {
-		"tags": [
-			"warning",
-			"error",
-			"notification",
-			"danger",
-			"attention",
-			"circle",
-			"caution",
-			"alarm",
-			"notice",
-			"alert"
-		],
-		"related": [
-			"alert",
-			"bell",
-			"bell-off",
-			"arrow-circle-down",
-			"arrow-circle-left"
-		]
+		"keywords": ["warning", "error", "notification", "danger", "attention", "circle", "caution", "alarm", "notice", "alert"],
+		"categories": ["ui", "time-and-notifications"]
 	},
 	"arrow-circle-down": {
-		"tags": [
-			"arrow",
-			"down",
-			"circle",
-			"download",
-			"bottom",
-			"descend",
-			"downward",
-			"lower"
-		],
-		"related": [
-			"arrow-down",
-			"chevron-down",
-			"arrow-circle-left",
-			"arrow-circle-right",
-			"arrow-circle-up"
-		]
+		"keywords": ["arrow", "down", "circle", "download", "bottom", "descend", "downward", "lower"],
+		"categories": ["arrows", "ui"]
 	},
 	"arrow-circle-left": {
-		"tags": [
-			"arrow",
-			"left",
-			"circle",
-			"previous",
-			"back",
-			"return",
-			"backward",
-			"retreat"
-		],
-		"related": [
-			"arrow-left",
-			"chevron-left",
-			"arrow-circle-down",
-			"arrow-circle-right",
-			"arrow-circle-up"
-		]
+		"keywords": ["arrow", "left", "circle", "previous", "back", "return", "backward", "retreat"],
+		"categories": ["arrows", "ui"]
 	},
 	"arrow-circle-right": {
-		"tags": [
-			"arrow",
-			"right",
-			"circle",
-			"next",
-			"forward",
-			"advance",
-			"proceed",
-			"continue"
-		],
-		"related": [
-			"arrow-right",
-			"chevron-right",
-			"arrow-circle-down",
-			"arrow-circle-left",
-			"arrow-circle-up"
-		]
+		"keywords": ["arrow", "right", "circle", "next", "forward", "advance", "proceed", "continue"],
+		"categories": ["arrows", "ui"]
 	},
 	"arrow-circle-up": {
-		"tags": [
-			"arrow",
-			"up",
-			"circle",
-			"upload",
-			"top",
-			"ascend",
-			"upward",
-			"higher",
-			"elevate"
-		],
-		"related": [
-			"arrow-up",
-			"chevron-up",
-			"arrow-circle-down",
-			"arrow-circle-left",
-			"arrow-circle-right"
-		]
+		"keywords": ["arrow", "up", "circle", "upload", "top", "ascend", "upward", "higher", "elevate"],
+		"categories": ["arrows", "ui"]
 	},
 	"arrow-down": {
-		"tags": [
-			"arrow",
-			"down",
-			"decrease",
-			"bottom",
-			"descend",
-			"downward",
-			"lower",
-			"dropdown"
-		],
-		"related": [
-			"arrow-circle-down",
-			"chevron-down",
-			"trending-down",
-			"arrow-circle-left",
-			"arrow-circle-right"
-		]
+		"keywords": ["arrow", "down", "decrease", "bottom", "descend", "downward", "lower", "dropdown"],
+		"categories": ["arrows", "ui"]
 	},
 	"arrow-join": {
-		"tags": [
-			"merge",
-			"alias",
-			"combine",
-			"unite",
-			"connect",
-			"fusion",
-			"junction",
-			"converge"
-		],
-		"related": [
-			"brand-facebook",
-			"wifi",
-			"git"
-		]
+		"keywords": ["merge", "alias", "combine", "unite", "connect", "fusion", "junction", "converge"],
+		"categories": ["arrows", "development-and-code"]
 	},
 	"arrow-left": {
-		"tags": [
-			"arrow",
-			"left",
-			"previous",
-			"back",
-			"return",
-			"backward",
-			"retreat",
-			"revert"
-		],
-		"related": [
-			"arrow-circle-left",
-			"chevron-left",
-			"arrow-circle-down",
-			"arrow-circle-right",
-			"arrow-down"
-		]
+		"keywords": ["arrow", "left", "previous", "back", "return", "backward", "retreat", "revert"],
+		"categories": ["arrows", "ui"]
 	},
 	"arrow-right": {
-		"tags": [
-			"arrow",
-			"right",
-			"next",
-			"forward",
-			"advance",
-			"proceed",
-			"continue",
-			"progress"
-		],
-		"related": [
-			"arrow-circle-right",
-			"chevron-right",
-			"arrow-circle-down",
-			"arrow-circle-left",
-			"arrow-down"
-		]
+		"keywords": ["arrow", "right", "next", "forward", "advance", "proceed", "continue", "progress"],
+		"categories": ["arrows", "ui"]
 	},
 	"arrow-split": {
-		"tags": [
-			"fork",
-			"divide",
-			"separate",
-			"branch",
-			"diverge",
-			"bifurcate",
-			"partition",
-			"disconnect"
-		],
-		"related": [
-			"git",
-			"scissors"
-		]
+		"keywords": ["fork", "divide", "separate", "branch", "diverge", "bifurcate", "partition", "disconnect"],
+		"categories": ["arrows", "development-and-code"]
 	},
 	"arrow-up": {
-		"tags": [
-			"arrow",
-			"up",
-			"increase",
-			"top",
-			"ascend",
-			"upward",
-			"higher",
-			"elevate",
-			"rise"
-		],
-		"related": [
-			"arrow-circle-up",
-			"chevron-up",
-			"trending-up",
-			"arrow-circle-down",
-			"arrow-circle-left"
-		]
+		"keywords": ["arrow", "up", "increase", "top", "ascend", "upward", "higher", "elevate", "rise"],
+		"categories": ["arrows", "ui"]
 	},
 	"asterisk": {
-		"tags": [
-			"star",
-			"highlight",
-			"special",
-			"important",
-			"reference",
-			"footnote",
-			"marker",
-			"notation"
-		],
-		"related": [
-			"star",
-			"bookmark",
-			"underline",
-			"location"
-		]
+		"keywords": ["star", "highlight", "special", "important", "reference", "footnote", "marker", "notation", "safety"],
+		"categories": ["text-formatting", "ui"]
 	},
 	"at-symbol": {
-		"tags": [
-			"mail",
-			"email",
-			"at",
-			"address",
-			"contact",
-			"communication",
-			"internet",
-			"online"
-		],
-		"related": [
-			"mail",
-			"wifi",
-			"chat",
-			"chats",
-			"cloud"
-		]
+		"keywords": ["mail", "email", "at", "address", "contact", "communication", "internet", "online"],
+		"categories": ["communication", "ui"]
 	},
 	"bars": {
-		"tags": [
-			"menu",
-			"burger",
-			"navigation",
-			"list",
-			"options",
-			"items",
-			"hamburger",
-			"stack"
-		],
-		"related": [
-			"menu",
-			"view-list",
-			"chevron-left",
-			"chevron-right",
-			"settings"
-		]
+		"keywords": ["menu", "burger", "navigation", "list", "options", "items", "hamburger", "stack"],
+		"categories": ["ui", "layout"]
 	},
 	"basket": {
-		"tags": [
-			"cart",
-			"shop",
-			"buy",
-			"grocery",
-			"container",
-			"shopping",
-			"purchase",
-			"store",
-			"market"
-		],
-		"related": [
-			"cart",
-			"credit-card",
-			"folder",
-			"save"
-		]
+		"keywords": ["cart", "shop", "buy", "grocery", "container", "shopping", "purchase", "store", "market"],
+		"categories": ["objects", "finance-and-money"]
 	},
 	"bell": {
-		"tags": [
-			"notification",
-			"alert",
-			"ring",
-			"alarm",
-			"reminder",
-			"chime",
-			"sound",
-			"notice"
-		],
-		"related": [
-			"alert-circle",
-			"alert",
-			"bell-off",
-			"clock",
-			"phone-call"
-		]
+		"keywords": ["notification", "alert", "ring", "alarm", "reminder", "chime", "sound", "notice"],
+		"categories": ["time-and-notifications", "ui"]
 	},
 	"bell-off": {
-		"tags": [
-			"notification",
-			"alert",
-			"silent",
-			"quiet",
-			"mute",
-			"disable",
-			"deactivate",
-			"silence"
-		],
-		"related": [
-			"volume-off",
-			"bell",
-			"alert-circle",
-			"alert",
-			"volume-1"
-		]
+		"keywords": ["notification", "alert", "silent", "quiet", "mute", "disable", "deactivate", "silence"],
+		"categories": ["time-and-notifications", "ui"]
 	},
 	"bike": {
-		"tags": [
-			"travel",
-			"transport",
-			"vehicle",
-			"cycle",
-			"ride",
-			"bicycle",
-			"pedal",
-			"cycling",
-			"biking"
-		],
-		"related": [
-			"car",
-			"rocket",
-			"ship",
-			"truck",
-			"plane"
-		]
+		"keywords": ["travel", "transport", "vehicle", "cycle", "ride", "bicycle", "pedal", "cycling", "biking"],
+		"categories": ["transport", "objects"]
 	},
 	"bold": {
-		"tags": [
-			"format",
-			"style",
-			"typo",
-			"text",
-			"emphasis",
-			"strong",
-			"thick",
-			"heavy",
-			"prominent"
-		],
-		"related": [
-			"italic",
-			"underline",
-			"heading",
-			"text",
-			"brush-big"
-		]
+		"keywords": ["format", "style", "typo", "text", "emphasis", "strong", "thick", "heavy", "prominent"],
+		"categories": ["text-formatting", "ui"]
 	},
 	"bookmark": {
-		"tags": [
-			"favorite",
-			"save",
-			"marker",
-			"read",
-			"label",
-			"tag",
-			"flag",
-			"remember"
-		],
-		"related": [
-			"asterisk",
-			"cloud",
-			"download",
-			"mail-open",
-			"star"
-		]
+		"keywords": ["favorite", "save", "marker", "read", "label", "tag", "flag", "remember"],
+		"categories": ["ui", "objects"]
 	},
 	"brand-facebook": {
-		"tags": [
-			"social",
-			"network",
-			"community",
-			"fb",
-			"meta",
-			"connect",
-			"platform",
-			"share"
-		],
-		"related": [
-			"brand-x",
-			"brand-twitter",
-			"brand-instagram",
-			"wifi",
-			"arrow-join"
-		]
+		"keywords": ["social", "network", "community", "fb", "meta", "connect", "platform", "share"],
+		"categories": ["brands", "social"]
 	},
 	"brand-instagram": {
-		"tags": [
-			"social",
-			"photo",
-			"picture",
-			"ig",
-			"gram",
-			"filter",
-			"camera",
-			"share",
-			"stories"
-		],
-		"related": [
-			"brand-facebook",
-			"brand-twitter",
-			"camera-off",
-			"camera",
-			"image"
-		]
+		"keywords": ["social", "photo", "picture", "ig", "gram", "filter", "camera", "share", "stories"],
+		"categories": ["brands", "social"]
 	},
 	"brand-twitter": {
-		"tags": [
-			"social",
-			"tweet",
-			"bird",
-			"microblog",
-			"post",
-			"feed",
-			"message",
-			"share"
-		],
-		"related": [
-			"brand-facebook",
-			"brand-x",
-			"brand-instagram",
-			"mail",
-			"upload"
-		]
+		"keywords": ["social", "tweet", "bird", "microblog", "post", "feed", "message", "share"],
+		"categories": ["brands", "social"]
 	},
 	"brand-x": {
-		"tags": [
-			"social",
-			"twitter",
-			"network",
-			"community",
-			"elon",
-			"musk",
-			"platform",
-			"microblog"
-		],
-		"related": [
-			"brand-facebook",
-			"brand-twitter",
-			"brand-instagram",
-			"users",
-			"wifi"
-		]
+		"keywords": ["social", "twitter", "network", "community", "elon", "musk", "platform", "microblog"],
+		"categories": ["brands", "social"]
 	},
 	"brush-big": {
-		"tags": [
-			"paint",
-			"style",
-			"theme",
-			"color",
-			"draw",
-			"art",
-			"design",
-			"creative",
-			"artistic"
-		],
-		"related": [
-			"droplet",
-			"bold",
-			"bulb",
-			"columns-one-two-thirds",
-			"columns-three-thirds"
-		]
+		"keywords": ["paint", "style", "theme", "color", "draw", "art", "design", "creative", "artistic"],
+		"categories": ["ui", "objects"]
 	},
 	"building": {
-		"tags": [
-			"house",
-			"residence",
-			"habitat",
-			"structure",
-			"property",
-			"home",
-			"office",
-			"workplace",
-			"architecture",
-			"apartment",
-			"construction",
-			"tower"
-		],
-		"related": [
-			"home"
-		]
+		"keywords": ["house", "residence", "habitat", "structure", "property", "home", "office", "workplace", "architecture", "apartment", "construction", "tower"],
+		"categories": ["objects", "maps-and-location"]
 	},
 	"bulb": {
-		"tags": [
-			"light",
-			"idea",
-			"innovation",
-			"inspiration",
-			"bright",
-			"smart",
-			"creative",
-			"concept",
-			"thought"
-		],
-		"related": [
-			"bulb-off",
-			"sun",
-			"brush-big"
-		]
+		"keywords": ["light", "idea", "innovation", "inspiration", "bright", "smart", "creative", "concept", "thought"],
+		"categories": ["objects", "ui"]
 	},
 	"bulb-off": {
-		"tags": [
-			"light",
-			"idea",
-			"dark",
-			"off",
-			"inactive",
-			"unlit",
-			"extinguished",
-			"darkness"
-		],
-		"related": [
-			"camera-off",
-			"bulb",
-			"moon",
-			"moon-stars",
-			"star-off"
-		]
+		"keywords": ["light", "idea", "dark", "off", "inactive", "unlit", "extinguished", "darkness"],
+		"categories": ["objects", "ui"]
 	},
 	"calendar": {
-		"tags": [
-			"date",
-			"time",
-			"event",
-			"schedule",
-			"appointment",
-			"day",
-			"month",
-			"year",
-			"planner"
-		],
-		"related": [
-			"clock",
-			"sun"
-		]
+		"keywords": ["date", "time", "event", "schedule", "appointment", "day", "month", "year", "planner"],
+		"categories": ["time-and-notifications", "ui"]
 	},
 	"camera": {
-		"tags": [
-			"photo",
-			"picture",
-			"capture",
-			"shoot",
-			"image",
-			"lens",
-			"snapshot",
-			"photography",
-			"record"
-		],
-		"related": [
-			"camera-off",
-			"image",
-			"brand-instagram",
-			"images",
-			"document"
-		]
+		"keywords": ["photo", "picture", "capture", "shoot", "image", "lens", "snapshot", "photography", "record"],
+		"categories": ["media", "objects"]
 	},
 	"camera-off": {
-		"tags": [
-			"photo",
-			"picture",
-			"capture",
-			"off",
-			"disabled",
-			"inactive",
-			"privacy",
-			"hidden"
-		],
-		"related": [
-			"camera",
-			"bulb-off",
-			"brand-instagram",
-			"eye-close",
-			"image"
-		]
+		"keywords": ["photo", "picture", "capture", "off", "disabled", "inactive", "privacy", "hidden"],
+		"categories": ["media", "objects"]
 	},
 	"car": {
-		"tags": [
-			"drive",
-			"travel",
-			"transport",
-			"vehicle",
-			"automobile",
-			"auto",
-			"sedan",
-			"transportation",
-			"journey"
-		],
-		"related": [
-			"bike",
-			"rocket",
-			"ship",
-			"truck",
-			"plane"
-		]
+		"keywords": ["drive", "travel", "transport", "vehicle", "automobile", "auto", "sedan", "transportation", "journey"],
+		"categories": ["transport", "objects"]
 	},
 	"cart": {
-		"tags": [
-			"basket",
-			"shop",
-			"buy",
-			"purchase",
-			"shopping",
-			"trolley",
-			"checkout",
-			"ecommerce",
-			"store"
-		],
-		"related": [
-			"basket",
-			"credit-card",
-			"save"
-		]
+		"keywords": ["basket", "shop", "buy", "purchase", "shopping", "trolley", "checkout", "ecommerce", "store"],
+		"categories": ["objects", "finance-and-money"]
 	},
 	"certificate": {
-		"tags": [
-			"award",
-			"diploma",
-			"achievement",
-			"badge",
-			"honor",
-			"credential",
-			"recognition",
-			"degree",
-			"qualification"
-		],
-		"related": [
-			"verified"
-		]
+		"keywords": ["award", "diploma", "achievement", "badge", "honor", "credential", "recognition", "degree", "qualification"],
+		"categories": ["objects"]
 	},
 	"chart": {
-		"tags": [
-			"signal",
-			"graph",
-			"stats",
-			"data",
-			"analytics",
-			"report",
-			"metrics",
-			"diagram",
-			"visualization"
-		],
-		"related": [
-			"pie-chart",
-			"dashboard",
-			"alert",
-			"cloud",
-			"document"
-		]
+		"keywords": ["signal", "graph", "stats", "data", "analytics", "report", "metrics", "diagram", "visualization"],
+		"categories": ["data-and-analytics", "ui"]
 	},
 	"chat": {
-		"tags": [
-			"speak",
-			"talk",
-			"conversation",
-			"message",
-			"dialog",
-			"communication",
-			"discussion",
-			"converse"
-		],
-		"related": [
-			"chats",
-			"phone-call",
-			"mail",
-			"phone",
-			"at-symbol"
-		]
+		"keywords": ["speak", "talk", "conversation", "message", "dialog", "communication", "discussion", "converse"],
+		"categories": ["communication", "ui"]
 	},
 	"chats": {
-		"tags": [
-			"speak",
-			"dialog",
-			"conversation",
-			"talk",
-			"discussion",
-			"messages",
-			"communication",
-			"threads",
-			"bubbles"
-		],
-		"related": [
-			"chat",
-			"phone-call",
-			"phone",
-			"at-symbol",
-			"mail"
-		]
+		"keywords": ["speak", "dialog", "conversation", "talk", "discussion", "messages", "communication", "threads", "bubbles"],
+		"categories": ["communication", "ui"]
 	},
 	"check": {
-		"tags": [
-			"tick",
-			"confirm",
-			"ok",
-			"done",
-			"accept",
-			"verified",
-			"approved",
-			"completed",
-			"success"
-		],
-		"related": [
-			"check-circle",
-			"shield-check",
-			"verified",
-			"phone-incoming"
-		]
+		"keywords": ["tick", "confirm", "ok", "done", "accept", "verified", "approved", "completed", "success"],
+		"categories": ["ui"]
 	},
 	"check-circle": {
-		"tags": [
-			"tick",
-			"confirm",
-			"ok",
-			"done",
-			"accept",
-			"circle",
-			"verified",
-			"approved",
-			"completed"
-		],
-		"related": [
-			"check",
-			"shield-check",
-			"verified",
-			"arrow-circle-down",
-			"arrow-circle-left"
-		]
+		"keywords": ["tick", "confirm", "ok", "done", "accept", "circle", "verified", "approved", "completed"],
+		"categories": ["ui"]
 	},
 	"chevron-down": {
-		"tags": [
-			"arrow",
-			"down",
-			"expand",
-			"dropdown",
-			"collapse",
-			"downward",
-			"descend",
-			"lower"
-		],
-		"related": [
-			"arrow-down",
-			"arrow-circle-down",
-			"chevron-up",
-			"arrow-circle-left",
-			"arrow-circle-right"
-		]
+		"keywords": ["arrow", "down", "expand", "dropdown", "collapse", "downward", "descend", "lower"],
+		"categories": ["arrows", "ui"]
 	},
 	"chevron-left": {
-		"tags": [
-			"arrow",
-			"left",
-			"previous",
-			"back",
-			"backward",
-			"return",
-			"retreat",
-			"navigation"
-		],
-		"related": [
-			"arrow-circle-left",
-			"arrow-left",
-			"chevron-right",
-			"arrow-circle-down",
-			"arrow-circle-right"
-		]
+		"keywords": ["arrow", "left", "previous", "back", "backward", "return", "retreat", "navigation"],
+		"categories": ["arrows", "ui"]
 	},
 	"chevron-right": {
-		"tags": [
-			"arrow",
-			"right",
-			"next",
-			"forward",
-			"advance",
-			"proceed",
-			"continue",
-			"navigation"
-		],
-		"related": [
-			"arrow-circle-right",
-			"arrow-right",
-			"chevron-left",
-			"arrow-circle-down",
-			"arrow-circle-left"
-		]
+		"keywords": ["arrow", "right", "next", "forward", "advance", "proceed", "continue", "navigation"],
+		"categories": ["arrows", "ui"]
 	},
 	"chevron-up": {
-		"tags": [
-			"arrow",
-			"up",
-			"collapse",
-			"expand",
-			"upward",
-			"ascend",
-			"higher",
-			"rise"
-		],
-		"related": [
-			"arrow-up",
-			"arrow-circle-up",
-			"chevron-down",
-			"trending-up",
-			"arrow-circle-down"
-		]
+		"keywords": ["arrow", "up", "collapse", "expand", "upward", "ascend", "higher", "rise"],
+		"categories": ["arrows", "ui"]
 	},
 	"clock": {
-		"tags": [
-			"time",
-			"date",
-			"hour",
-			"minute",
-			"watch",
-			"timer",
-			"schedule",
-			"alarm",
-			"chronometer"
-		],
-		"related": [
-			"calendar",
-			"bell",
-			"eye",
-			"alert",
-			"alert-circle"
-		]
+		"keywords": ["time", "date", "hour", "minute", "watch", "timer", "schedule", "alarm", "chronometer"],
+		"categories": ["time-and-notifications", "objects"]
 	},
 	"cloud": {
-		"tags": [
-			"weather",
-			"sky",
-			"storage",
-			"online",
-			"server",
-			"data",
-			"save",
-			"upload",
-			"service"
-		],
-		"related": [
-			"cloud-sun",
-			"folder",
-			"moon-stars",
-			"at-symbol",
-			"bookmark"
-		]
+		"keywords": ["weather", "sky", "storage", "online", "server", "data", "save", "upload", "service"],
+		"categories": ["weather", "development-and-code"]
 	},
 	"cloud-sun": {
-		"tags": [
-			"weather",
-			"sky",
-			"sunny",
-			"partly",
-			"cloudy",
-			"forecast",
-			"climate",
-			"meteorology"
-		],
-		"related": [
-			"cloud",
-			"moon-stars",
-			"sun"
-		]
+		"keywords": ["weather", "sky", "sunny", "partly", "cloudy", "forecast", "climate", "meteorology"],
+		"categories": ["weather"]
 	},
 	"club": {
-		"tags": [
-			"poker",
-			"card",
-			"game",
-			"casino",
-			"gambling",
-			"playing",
-			"clover",
-			"suit"
-		],
-		"related": [
-			"spade"
-		]
+		"keywords": ["poker", "card", "game", "casino", "gambling", "playing", "clover", "suit"],
+		"categories": ["gaming", "objects"]
 	},
 	"cog": {
-		"tags": [
-			"settings",
-			"gear",
-			"preferences",
-			"options",
-			"working",
-			"mechanism",
-			"system",
-			"loading",
-			"progress",
-			"loader",
-			"waiting",
-			"configure",
-			"wheel",
-			"setup"
-		],
-		"related": [
-			"cog-2",
-			"spinner-dots",
-			"spinner-earring",
-			"spinner-planet",
-			"settings"
-		]
+		"keywords": ["settings", "gear", "preferences", "options", "working", "mechanism", "system", "loading", "progress", "loader", "waiting", "configure", "wheel", "setup"],
+		"categories": ["settings-and-controls", "ui"]
 	},
 	"cog-2": {
-		"tags": [
-			"settings",
-			"gear",
-			"preferences",
-			"options",
-			"working",
-			"mechanism",
-			"system",
-			"loading",
-			"progress",
-			"loader",
-			"waiting",
-			"configure",
-			"wheel",
-			"setup",
-			"double"
-		],
-		"related": [
-			"cog",
-			"spinner-dots",
-			"spinner-earring",
-			"spinner-planet",
-			"settings"
-		]
+		"keywords": ["settings", "gear", "preferences", "options", "working", "mechanism", "system", "loading", "progress", "loader", "waiting", "configure", "wheel", "setup", "double"],
+		"categories": ["settings-and-controls", "ui"]
 	},
 	"coins": {
-		"tags": [
-			"money",
-			"cash",
-			"currency",
-			"coinage",
-			"finance",
-			"payment",
-			"wealth",
-			"token",
-			"crypto",
-			"dollar"
-		],
-		"related": [
-			"money",
-			"credit-card"
-		]
+		"keywords": ["money", "cash", "currency", "coinage", "finance", "payment", "wealth", "token", "crypto", "dollar"],
+		"categories": ["finance-and-money", "objects"]
 	},
 	"columns-one-two-thirds": {
-		"tags": [
-			"layout",
-			"grid",
-			"table",
-			"structure",
-			"design",
-			"template",
-			"format",
-			"organization",
-			"arrangement"
-		],
-		"related": [
-			"columns-three-thirds",
-			"columns-two-halfs",
-			"view-grid",
-			"view-list",
-			"bold"
-		]
+		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
+		"categories": ["layout", "ui"]
 	},
 	"columns-three-thirds": {
-		"tags": [
-			"layout",
-			"grid",
-			"table",
-			"structure",
-			"design",
-			"template",
-			"format",
-			"organization",
-			"arrangement"
-		],
-		"related": [
-			"columns-one-two-thirds",
-			"columns-two-halfs",
-			"view-grid",
-			"view-list",
-			"bold"
-		]
+		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
+		"categories": ["layout", "ui"]
 	},
 	"columns-two-halfs": {
-		"tags": [
-			"layout",
-			"grid",
-			"table",
-			"structure",
-			"design",
-			"template",
-			"format",
-			"organization",
-			"arrangement"
-		],
-		"related": [
-			"columns-one-two-thirds",
-			"columns-three-thirds",
-			"view-grid",
-			"view-list",
-			"bold"
-		]
+		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
+		"categories": ["layout", "ui"]
 	},
 	"credit-card": {
-		"tags": [
-			"pay",
-			"money",
-			"payment",
-			"transaction",
-			"banking",
-			"finance",
-			"purchase",
-			"checkout",
-			"debit"
-		],
-		"related": [
-			"coins",
-			"cart",
-			"money",
-			"basket"
-		]
+		"keywords": ["pay", "money", "payment", "transaction", "banking", "finance", "purchase", "checkout", "debit"],
+		"categories": ["finance-and-money", "objects"]
 	},
 	"dashboard": {
-		"tags": [
-			"layout",
-			"interface",
-			"control",
-			"panel",
-			"overview",
-			"analytics",
-			"metrics",
-			"summary",
-			"monitor"
-		],
-		"related": [
-			"chart",
-			"pie-chart",
-			"columns-one-two-thirds",
-			"columns-three-thirds",
-			"columns-two-halfs"
-		]
+		"keywords": ["layout", "interface", "control", "panel", "overview", "analytics", "metrics", "summary", "monitor"],
+		"categories": ["layout", "data-and-analytics", "ui"]
 	},
 	"desktop": {
-		"tags": [
-			"monitor",
-			"screen",
-			"computer",
-			"display",
-			"pc",
-			"workstation",
-			"desktop",
-			"machine",
-			"device"
-		],
-		"related": [
-			"mobile",
-			"dashboard",
-			"funnel",
-			"maximize",
-			"remote"
-		]
+		"keywords": ["monitor", "screen", "computer", "display", "pc", "workstation", "desktop", "machine", "device"],
+		"categories": ["objects", "development-and-code"]
 	},
 	"document": {
-		"tags": [
-			"file",
-			"paper",
-			"record",
-			"report",
-			"page",
-			"text",
-			"sheet",
-			"note",
-			"doc"
-		],
-		"related": [
-			"document-add",
-			"document-remove",
-			"bold",
-			"camera",
-			"chart"
-		]
+		"keywords": ["file", "paper", "record", "report", "page", "text", "sheet", "note", "doc"],
+		"categories": ["files-and-folders", "text-formatting"]
 	},
 	"document-add": {
-		"tags": [
-			"file",
-			"new",
-			"create",
-			"add",
-			"page",
-			"sheet",
-			"generate",
-			"produce",
-			"compose"
-		],
-		"related": [
-			"folder-add",
-			"document",
-			"document-remove",
-			"user-add",
-			"pencil"
-		]
+		"keywords": ["file", "new", "create", "add", "page", "sheet", "generate", "produce", "compose"],
+		"categories": ["files-and-folders", "ui"]
 	},
 	"document-remove": {
-		"tags": [
-			"file",
-			"delete",
-			"remove",
-			"discard",
-			"page",
-			"sheet",
-			"eliminate",
-			"erase",
-			"trash"
-		],
-		"related": [
-			"folder-remove",
-			"user-remove",
-			"trash",
-			"document",
-			"document-add"
-		]
+		"keywords": ["file", "delete", "remove", "discard", "page", "sheet", "eliminate", "erase", "trash"],
+		"categories": ["files-and-folders", "ui"]
 	},
 	"download": {
-		"tags": [
-			"cloud",
-			"save",
-			"transfer",
-			"get",
-			"arrow",
-			"obtain",
-			"retrieve",
-			"fetch",
-			"acquire"
-		],
-		"related": [
-			"upload",
-			"arrow-circle-down",
-			"arrow-circle-left",
-			"arrow-circle-right",
-			"arrow-down"
-		]
+		"keywords": ["cloud", "save", "transfer", "get", "arrow", "obtain", "retrieve", "fetch", "acquire"],
+		"categories": ["ui", "files-and-folders", "arrows"]
 	},
 	"droplet": {
-		"tags": [
-			"color",
-			"water",
-			"liquid",
-			"drop",
-			"tear",
-			"rain",
-			"wet",
-			"fluid",
-			"paint"
-		],
-		"related": [
-			"brush-big",
-			"trending-down"
-		]
+		"keywords": ["color", "water", "liquid", "drop", "tear", "rain", "wet", "fluid", "paint"],
+		"categories": ["weather", "objects", "ui"]
 	},
 	"edit": {
-		"tags": [
-			"pencil",
-			"write",
-			"update",
-			"change",
-			"modify",
-			"revise",
-			"alter",
-			"amend",
-			"adjust"
-		],
-		"related": [
-			"pencil"
-		]
+		"keywords": ["pencil", "write", "update", "change", "modify", "revise", "alter", "amend", "adjust"],
+		"categories": ["ui", "text-formatting"]
 	},
 	"external-link": {
-		"tags": [
-			"out",
-			"open",
-			"new",
-			"window",
-			"external",
-			"redirect",
-			"outbound",
-			"goto",
-			"visit"
-		],
-		"related": [
-			"document-add",
-			"folder-add",
-			"folder-open",
-			"mail-open",
-			"phone-forward"
-		]
+		"keywords": ["out", "open", "new", "window", "external", "redirect", "outbound", "goto", "visit"],
+		"categories": ["ui", "arrows"]
 	},
 	"eye": {
-		"tags": [
-			"show",
-			"visible",
-			"view",
-			"see",
-			"look",
-			"watch",
-			"vision",
-			"sight",
-			"visible"
-		],
-		"related": [
-			"clock",
-			"folder-open"
-		]
+		"keywords": ["show", "visible", "view", "see", "look", "watch", "vision", "sight", "visible"],
+		"categories": ["ui", "security"]
 	},
 	"eye-close": {
-		"tags": [
-			"hide",
-			"humble",
-			"conceal",
-			"invisible",
-			"privacy",
-			"unseen",
-			"hidden",
-			"blind",
-			"cover"
-		],
-		"related": [
-			"eye-off",
-			"camera-off",
-			"incognito",
-			"incognito-2",
-			"shield"
-		]
+		"keywords": ["hide", "humble", "conceal", "invisible", "privacy", "unseen", "hidden", "blind", "cover"],
+		"categories": ["ui", "security"]
 	},
 	"eye-off": {
-		"tags": [
-			"hide",
-			"invisible",
-			"unseen",
-			"hidden",
-			"conceal",
-			"blind",
-			"private",
-			"secret",
-			"cover"
-		],
-		"related": [
-			"eye-close",
-			"incognito",
-			"incognito-2",
-			"key",
-			"camera-off"
-		]
+		"keywords": ["hide", "invisible", "unseen", "hidden", "conceal", "blind", "private", "secret", "cover"],
+		"categories": ["ui", "security"]
 	},
 	"fingerprint": {
-		"tags": [
-			"touch",
-			"id",
-			"security",
-			"scan",
-			"biometric",
-			"thumb",
-			"identity",
-			"unique",
-			"authentication",
-			"verify"
-		],
-		"related": [
-			"lock",
-			"shield",
-			"shield-check",
-			"unlock"
-		]
+		"keywords": ["touch", "id", "security", "scan", "biometric", "thumb", "identity", "unique", "authentication", "verify"],
+		"categories": ["security", "users-and-people"]
 	},
 	"flask": {
-		"tags": [
-			"lab",
-			"experiment",
-			"test",
-			"science",
-			"chemistry",
-			"chemical",
-			"mixture",
-			"reaction",
-			"research",
-			"laboratory",
-			"beaker"
-		],
-		"related": []
+		"keywords": ["lab", "experiment", "test", "science", "chemistry", "chemical", "mixture", "reaction", "research", "laboratory", "beaker"],
+		"categories": ["objects", "medical"]
 	},
 	"flash": {
-		"tags": [
-			"lightning",
-			"bolt",
-			"electricity",
-			"power",
-			"energy",
-			"speed",
-			"thunder",
-			"fast",
-			"charge",
-			"electric"
-		],
-		"related": []
+		"keywords": ["lightning", "bolt", "electricity", "power", "energy", "speed", "thunder", "fast", "charge", "electric"],
+		"categories": ["weather", "objects"]
 	},
 	"folder": {
-		"tags": [
-			"directory",
-			"file",
-			"organize",
-			"container",
-			"storage",
-			"data",
-			"collection",
-			"documents",
-			"archive"
-		],
-		"related": [
-			"cloud",
-			"images",
-			"basket",
-			"chart",
-			"document"
-		]
+		"keywords": ["directory", "file", "organize", "container", "storage", "data", "collection", "documents", "archive"],
+		"categories": ["files-and-folders", "objects"]
 	},
 	"folder-add": {
-		"tags": [
-			"directory",
-			"new",
-			"add",
-			"create",
-			"make",
-			"generate",
-			"produce",
-			"establish",
-			"compose"
-		],
-		"related": [
-			"document-add",
-			"user-add",
-			"pencil",
-			"external-link",
-			"folder"
-		]
+		"keywords": ["directory", "new", "add", "create", "make", "generate", "produce", "establish", "compose"],
+		"categories": ["files-and-folders", "ui"]
 	},
 	"folder-open": {
-		"tags": [
-			"directory",
-			"access",
-			"open",
-			"view",
-			"examine",
-			"explore",
-			"browse",
-			"inspect",
-			"check"
-		],
-		"related": [
-			"unlock",
-			"eye",
-			"external-link",
-			"folder",
-			"folder-add"
-		]
+		"keywords": ["directory", "access", "open", "view", "examine", "explore", "browse", "inspect", "check"],
+		"categories": ["files-and-folders", "ui"]
 	},
 	"folder-remove": {
-		"tags": [
-			"directory",
-			"delete",
-			"remove",
-			"discard",
-			"eliminate",
-			"erase",
-			"trash",
-			"destroy",
-			"clear"
-		],
-		"related": [
-			"document-remove",
-			"user-remove",
-			"trash",
-			"times-circle",
-			"times"
-		]
+		"keywords": ["directory", "delete", "remove", "discard", "eliminate", "erase", "trash", "destroy", "clear"],
+		"categories": ["files-and-folders", "ui"]
 	},
 	"fork-knife": {
-		"tags": [
-			"food",
-			"cutlery",
-			"spoon",
-			"eat",
-			"dinner",
-			"lunch",
-			"breakfast",
-			"meal",
-			"restaurant",
-			"dining",
-			"utensils",
-			"cuisine"
-		],
-		"related": []
+		"keywords": ["food", "cutlery", "spoon", "eat", "dinner", "lunch", "breakfast", "meal", "restaurant", "dining", "utensils", "cuisine"],
+		"categories": ["food-and-drink", "objects"]
 	},
 	"funnel": {
-		"tags": [
-			"filter",
-			"sort",
-			"flow",
-			"channel",
-			"sieve",
-			"strain",
-			"refine",
-			"screen",
-			"purify"
-		],
-		"related": [
-			"brand-instagram",
-			"desktop",
-			"maximize",
-			"mobile",
-			"remote"
-		]
+		"keywords": ["filter", "sort", "flow", "channel", "sieve", "strain", "refine", "screen", "purify"],
+		"categories": ["ui", "objects"]
 	},
 	"gift": {
-		"tags": [
-			"present",
-			"box",
-			"surprise",
-			"birthday",
-			"christmas",
-			"reward",
-			"package",
-			"offering",
-			"donation",
-			"present",
-			"wrap"
-		],
-		"related": []
+		"keywords": ["present", "box", "surprise", "birthday", "christmas", "reward", "package", "offering", "donation", "present", "wrap"],
+		"categories": ["objects"]
 	},
 	"git": {
-		"tags": [
-			"version",
-			"control",
-			"code",
-			"repository",
-			"branch",
-			"commit",
-			"push",
-			"pull",
-			"merge",
-			"development",
-			"source"
-		],
-		"related": [
-			"arrow-join",
-			"arrow-split",
-			"dashboard",
-			"remote",
-			"settings"
-		]
+		"keywords": ["version", "control", "code", "repository", "branch", "commit", "push", "pull", "merge", "development", "source"],
+		"categories": ["development-and-code", "brands"]
 	},
 	"globe": {
-		"tags": [
-			"language",
-			"geo",
-			"world",
-			"translate",
-			"earth",
-			"planet",
-			"global",
-			"international",
-			"worldwide",
-			"universal"
-		],
-		"related": []
+		"keywords": ["language", "geo", "world", "translate", "earth", "planet", "global", "international", "worldwide", "universal"],
+		"categories": ["maps-and-location", "objects"]
 	},
 	"heading": {
-		"tags": [
-			"typo",
-			"format",
-			"style",
-			"text",
-			"header",
-			"title",
-			"headline",
-			"caption",
-			"subject"
-		],
-		"related": [
-			"bold",
-			"italic",
-			"underline",
-			"text",
-			"brush-big"
-		]
+		"keywords": ["typo", "format", "style", "text", "header", "title", "headline", "caption", "subject"],
+		"categories": ["text-formatting", "ui"]
 	},
 	"heart": {
-		"tags": [
-			"health",
-			"like",
-			"love",
-			"favorite",
-			"emotion",
-			"affection",
-			"romance",
-			"passion",
-			"care",
-			"adore"
-		],
-		"related": [
-			"bookmark",
-			"star",
-			"star-half",
-			"star-off"
-		]
+		"keywords": ["health", "like", "love", "favorite", "emotion", "affection", "romance", "passion", "care", "adore"],
+		"categories": ["medical", "ui"]
 	},
 	"home": {
-		"tags": [
-			"house",
-			"building",
-			"residence",
-			"habitat",
-			"domicile",
-			"dwelling",
-			"abode",
-			"property",
-			"apartment"
-		],
-		"related": [
-			"building"
-		]
+		"keywords": ["house", "building", "residence", "habitat", "domicile", "dwelling", "abode", "property", "apartment"],
+		"categories": ["objects", "ui", "maps-and-location"]
 	},
 	"image": {
-		"tags": [
-			"picture",
-			"photo",
-			"illustration",
-			"snapshot",
-			"graphic",
-			"visual",
-			"artwork",
-			"portrait",
-			"drawing"
-		],
-		"related": [
-			"camera",
-			"camera-off",
-			"brand-instagram",
-			"images"
-		]
+		"keywords": ["picture", "photo", "illustration", "snapshot", "graphic", "visual", "artwork", "portrait", "drawing"],
+		"categories": ["media"]
 	},
 	"images": {
-		"tags": [
-			"picture",
-			"photo",
-			"gallery",
-			"album",
-			"collection",
-			"pics",
-			"photographs",
-			"portfolio",
-			"library",
-			"archive"
-		],
-		"related": [
-			"camera-off",
-			"brand-instagram",
-			"camera",
-			"folder",
-			"image"
-		]
+		"keywords": ["picture", "photo", "gallery", "album", "collection", "pics", "photographs", "portfolio", "library", "archive"],
+		"categories": ["media"]
 	},
 	"incognito": {
-		"tags": [
-			"hat",
-			"undercover",
-			"secret",
-			"privacy",
-			"hidden",
-			"anonymous",
-			"stealth",
-			"disguise",
-			"private"
-		],
-		"related": [
-			"incognito-2",
-			"eye-off",
-			"camera-off",
-			"eye-close",
-			"shield"
-		]
+		"keywords": ["hat", "undercover", "secret", "privacy", "hidden", "anonymous", "stealth", "disguise", "private"],
+		"categories": ["security", "users-and-people"]
 	},
 	"incognito-2": {
-		"tags": [
-			"hat",
-			"undercover",
-			"secret",
-			"moustache",
-			"mustache",
-			"privacy",
-			"disguise",
-			"hidden",
-			"anonymous",
-			"mask"
-		],
-		"related": [
-			"incognito",
-			"camera-off",
-			"eye-close",
-			"eye-off"
-		]
+		"keywords": ["hat", "undercover", "secret", "moustache", "mustache", "privacy", "disguise", "hidden", "anonymous", "mask"],
+		"categories": ["security", "users-and-people"]
 	},
 	"info": {
-		"tags": [
-			"information",
-			"details",
-			"data",
-			"knowledge",
-			"facts",
-			"help",
-			"assistance",
-			"guidance",
-			"advice"
-		],
-		"related": [
-			"info-circle",
-			"chart",
-			"cloud",
-			"folder",
-			"pie-chart"
-		]
+		"keywords": ["information", "details", "data", "knowledge", "facts", "help", "assistance", "guidance", "advice"],
+		"categories": ["ui"]
 	},
 	"info-circle": {
-		"tags": [
-			"information",
-			"details",
-			"data",
-			"knowledge",
-			"facts",
-			"help",
-			"assistance",
-			"guidance",
-			"advice"
-		],
-		"related": [
-			"info",
-			"chart",
-			"cloud",
-			"folder",
-			"pie-chart"
-		]
+		"keywords": ["information", "details", "data", "knowledge", "facts", "help", "assistance", "guidance", "advice"],
+		"categories": ["ui"]
 	},
 	"italic": {
-		"tags": [
-			"typo",
-			"format",
-			"style",
-			"text",
-			"emphasis",
-			"slant",
-			"oblique",
-			"cursive",
-			"tilt"
-		],
-		"related": [
-			"bold",
-			"underline",
-			"heading",
-			"text",
-			"brush-big"
-		]
+		"keywords": ["typo", "format", "style", "text", "emphasis", "slant", "oblique", "cursive", "tilt"],
+		"categories": ["text-formatting", "ui"]
 	},
 	"key": {
-		"tags": [
-			"safe",
-			"lock",
-			"password",
-			"access",
-			"secret",
-			"private",
-			"secure",
-			"unlock",
-			"keyhole",
-			"security",
-			"entry",
-			"authorization"
-		],
-		"related": [
-			"lock",
-			"eye-off",
-			"incognito",
-			"shield",
-			"shield-check"
-		]
+		"keywords": ["safe", "lock", "password", "access", "secret", "private", "secure", "unlock", "keyhole", "security", "entry", "authorization"],
+		"categories": ["security", "objects"]
 	},
 	"location": {
-		"tags": [
-			"geo",
-			"gps",
-			"map",
-			"pin",
-			"place",
-			"position",
-			"address",
-			"marker",
-			"locale",
-			"spot",
-			"point",
-			"coordinates"
-		],
-		"related": [
-			"asterisk",
-			"at-symbol",
-			"bookmark"
-		]
+		"keywords": ["geo", "gps", "map", "pin", "place", "position", "address", "marker", "locale", "spot", "point", "coordinates"],
+		"categories": ["maps-and-location"]
 	},
 	"lock": {
-		"tags": [
-			"secure",
-			"password",
-			"private",
-			"security",
-			"locked",
-			"protected",
-			"safe",
-			"closed",
-			"padlock"
-		],
-		"related": [
-			"key",
-			"shield",
-			"shield-check",
-			"eye-off",
-			"incognito"
-		]
+		"keywords": ["secure", "password", "private", "security", "locked", "protected", "safe", "closed", "padlock"],
+		"categories": ["security", "objects"]
 	},
 	"mail": {
-		"tags": [
-			"envelope",
-			"message",
-			"email",
-			"send",
-			"post",
-			"letter",
-			"correspondence",
-			"communication",
-			"inbox"
-		],
-		"related": [
-			"at-symbol",
-			"brand-twitter",
-			"chat",
-			"mail-open",
-			"upload"
-		]
+		"keywords": ["envelope", "message", "email", "send", "post", "letter", "correspondence", "communication", "inbox"],
+		"categories": ["communication", "ui"]
 	},
 	"mail-open": {
-		"tags": [
-			"envelope",
-			"read",
-			"message",
-			"open",
-			"viewed",
-			"opened",
-			"revealed",
-			"received",
-			"checked"
-		],
-		"related": [
-			"mail",
-			"bookmark",
-			"brand-twitter",
-			"chat",
-			"external-link"
-		]
+		"keywords": ["envelope", "read", "message", "open", "viewed", "opened", "revealed", "received", "checked"],
+		"categories": ["communication", "ui"]
 	},
 	"maximize": {
-		"tags": [
-			"screen",
-			"fullscreen",
-			"expand",
-			"resize",
-			"enlarge",
-			"grow",
-			"increase",
-			"extend",
-			"amplify"
-		],
-		"related": [
-			"trending-up",
-			"chevron-down",
-			"chevron-up",
-			"arrow-up",
-			"desktop"
-		]
+		"keywords": ["screen", "fullscreen", "expand", "resize", "enlarge", "grow", "increase", "extend", "amplify"],
+		"categories": ["ui", "layout"]
 	},
 	"menu": {
-		"tags": [
-			"bars",
-			"navigation",
-			"list",
-			"burger",
-			"hamburger",
-			"options",
-			"items",
-			"selections",
-			"choices"
-		],
-		"related": [
-			"bars",
-			"view-list",
-			"chevron-left",
-			"chevron-right",
-			"settings"
-		]
+		"keywords": ["bars", "navigation", "list", "burger", "hamburger", "options", "items", "selections", "choices"],
+		"categories": ["ui", "layout"]
 	},
 	"minus": {
-		"tags": [
-			"dash",
-			"subtract",
-			"delete",
-			"remove",
-			"hide",
-			"minimize",
-			"less",
-			"reduce",
-			"decrease",
-			"deduct"
-		],
-		"related": [
-			"document-remove",
-			"folder-remove",
-			"times-circle",
-			"trending-down",
-			"user-remove"
-		]
+		"keywords": ["dash", "subtract", "delete", "remove", "hide", "minimize", "less", "reduce", "decrease", "deduct"],
+		"categories": ["ui", "math"]
 	},
 	"mobile": {
-		"tags": [
-			"screen",
-			"phone",
-			"cellphone",
-			"telephone",
-			"mobile",
-			"smartphone",
-			"device",
-			"handheld",
-			"portable"
-		],
-		"related": [
-			"phone",
-			"desktop",
-			"funnel",
-			"maximize",
-			"remote"
-		]
+		"keywords": ["screen", "phone", "cellphone", "telephone", "mobile", "smartphone", "device", "handheld", "portable"],
+		"categories": ["objects", "communication"]
 	},
 	"money": {
-		"tags": [
-			"coin",
-			"cash",
-			"dollar",
-			"euro",
-			"pound",
-			"yen",
-			"currency",
-			"finance",
-			"payment",
-			"wealth",
-			"funds"
-		],
-		"related": [
-			"coins",
-			"credit-card"
-		]
+		"keywords": ["coin", "cash", "dollar", "euro", "pound", "yen", "currency", "finance", "payment", "wealth", "funds"],
+		"categories": ["finance-and-money", "objects"]
 	},
 	"moon": {
-		"tags": [
-			"dark",
-			"night",
-			"sleep",
-			"lunar",
-			"crescent",
-			"evening",
-			"dusk",
-			"astronomy",
-			"space"
-		],
-		"related": [
-			"moon-stars",
-			"bulb-off",
-			"rocket"
-		]
+		"keywords": ["dark", "night", "sleep", "lunar", "crescent", "evening", "dusk", "astronomy", "space"],
+		"categories": ["weather", "objects"]
 	},
 	"moon-stars": {
-		"tags": [
-			"night",
-			"sleep",
-			"weather",
-			"dark",
-			"stars",
-			"astronomy",
-			"space",
-			"sky",
-			"evening"
-		],
-		"related": [
-			"moon",
-			"cloud-sun",
-			"cloud",
-			"bulb-off",
-			"sun"
-		]
+		"keywords": ["night", "sleep", "weather", "dark", "stars", "astronomy", "space", "sky", "evening"],
+		"categories": ["weather", "objects"]
 	},
 	"pencil": {
-		"tags": [
-			"edit",
-			"write",
-			"update",
-			"change",
-			"modify",
-			"draw",
-			"sketch",
-			"scribble",
-			"compose",
-			"create"
-		],
-		"related": [
-			"edit",
-			"document-add",
-			"folder-add",
-			"brush-big"
-		]
+		"keywords": ["edit", "write", "update", "change", "modify", "draw", "sketch", "scribble", "compose", "create"],
+		"categories": ["ui", "objects", "text-formatting"]
 	},
 	"phone": {
-		"tags": [
-			"call",
-			"ring",
-			"mobile",
-			"cellphone",
-			"telephone",
-			"dial",
-			"communicate",
-			"talk",
-			"conversation",
-			"contact"
-		],
-		"related": [
-			"phone-call",
-			"mobile",
-			"phone-outgoing",
-			"chat",
-			"chats"
-		]
+		"keywords": ["call", "ring", "mobile", "cellphone", "telephone", "dial", "communicate", "talk", "conversation", "contact"],
+		"categories": ["communication", "objects"]
 	},
 	"phone-call": {
-		"tags": [
-			"ring",
-			"call",
-			"communicate",
-			"talk",
-			"dial",
-			"answer",
-			"speak",
-			"conversation",
-			"contact"
-		],
-		"related": [
-			"phone",
-			"chat",
-			"chats",
-			"phone-incoming",
-			"phone-outgoing"
-		]
+		"keywords": ["ring", "call", "communicate", "talk", "dial", "answer", "speak", "conversation", "contact"],
+		"categories": ["communication"]
 	},
 	"phone-forward": {
-		"tags": [
-			"ring",
-			"call",
-			"forward",
-			"redirect",
-			"transfer",
-			"divert",
-			"reroute",
-			"switch",
-			"direct"
-		],
-		"related": [
-			"phone-call",
-			"phone-incoming",
-			"phone-missed",
-			"phone-outgoing",
-			"phone"
-		]
+		"keywords": ["ring", "call", "forward", "redirect", "transfer", "divert", "reroute", "switch", "direct"],
+		"categories": ["communication"]
 	},
 	"phone-incoming": {
-		"tags": [
-			"ring",
-			"call",
-			"incoming",
-			"receive",
-			"answer",
-			"accept",
-			"take",
-			"pickup",
-			"arrive"
-		],
-		"related": [
-			"phone-call",
-			"phone-forward",
-			"phone-missed",
-			"phone-outgoing",
-			"phone"
-		]
+		"keywords": ["ring", "call", "incoming", "receive", "answer", "accept", "take", "pickup", "arrive"],
+		"categories": ["communication"]
 	},
 	"phone-missed": {
-		"tags": [
-			"ring",
-			"call",
-			"missed",
-			"unanswered",
-			"ignored",
-			"lost",
-			"rejected",
-			"neglected",
-			"overlooked"
-		],
-		"related": [
-			"phone-call",
-			"phone-forward",
-			"phone-incoming",
-			"phone-outgoing",
-			"phone"
-		]
+		"keywords": ["ring", "call", "missed", "unanswered", "ignored", "lost", "rejected", "neglected", "overlooked"],
+		"categories": ["communication"]
 	},
 	"phone-outgoing": {
-		"tags": [
-			"ring",
-			"call",
-			"outgoing",
-			"dial",
-			"place",
-			"make",
-			"start",
-			"initiate",
-			"begin"
-		],
-		"related": [
-			"phone-call",
-			"phone",
-			"phone-forward",
-			"phone-incoming",
-			"phone-missed"
-		]
+		"keywords": ["ring", "call", "outgoing", "dial", "place", "make", "start", "initiate", "begin"],
+		"categories": ["communication"]
 	},
 	"pie-chart": {
-		"tags": [
-			"stat",
-			"graph",
-			"chart",
-			"diagram",
-			"stats",
-			"analytics",
-			"data",
-			"report",
-			"metrics",
-			"visualization"
-		],
-		"related": [
-			"chart",
-			"dashboard",
-			"cloud",
-			"document",
-			"folder"
-		]
+		"keywords": ["stat", "graph", "chart", "diagram", "stats", "analytics", "data", "report", "metrics", "visualization"],
+		"categories": ["data-and-analytics", "ui"]
 	},
 	"plane": {
-		"tags": [
-			"travel",
-			"flight",
-			"airplane",
-			"aeroplane",
-			"jet",
-			"aviation",
-			"aircraft",
-			"airport",
-			"flying",
-			"trip"
-		],
-		"related": [
-			"rocket",
-			"bike",
-			"car",
-			"ship",
-			"truck"
-		]
+		"keywords": ["travel", "flight", "airplane", "aeroplane", "jet", "aviation", "aircraft", "airport", "flying", "trip"],
+		"categories": ["transport", "objects"]
 	},
 	"prompt": {
-		"tags": [
-			"command",
-			"line",
-			"terminal",
-			"console",
-			"cmd",
-			"cli",
-			"shell",
-			"interface",
-			"input",
-			"code"
-		],
-		"related": [
-			"dashboard"
-		]
+		"keywords": ["command", "line", "terminal", "console", "cmd", "cli", "shell", "interface", "input", "code"],
+		"categories": ["development-and-code", "ui"]
 	},
 	"radio": {
-		"tags": [
-			"signal",
-			"sound",
-			"music",
-			"podcast",
-			"audio",
-			"listen",
-			"broadcast",
-			"tune",
-			"station",
-			"frequency"
-		],
-		"related": [
-			"volume",
-			"volume-1",
-			"volume-2",
-			"volume-off",
-			"bell"
-		]
+		"keywords": ["signal", "sound", "music", "podcast", "audio", "listen", "broadcast", "tune", "station", "frequency"],
+		"categories": ["media", "objects"]
 	},
 	"remote": {
-		"tags": [
-			"control",
-			"device",
-			"tv",
-			"television",
-			"clicker",
-			"commander",
-			"switch",
-			"wireless",
-			"channel"
-		],
-		"related": [
-			"dashboard",
-			"desktop",
-			"funnel",
-			"mobile",
-			"phone-forward"
-		]
+		"keywords": ["control", "device", "tv", "television", "clicker", "commander", "switch", "wireless", "channel"],
+		"categories": ["objects", "media"]
 	},
 	"restart": {
-		"tags": [
-			"reload",
-			"refresh",
-			"reset",
-			"renew",
-			"reboot",
-			"recycle",
-			"reinitiate",
-			"revive",
-			"regenerate"
-		],
-		"related": []
+		"keywords": ["reload", "refresh", "reset", "renew", "reboot", "recycle", "reinitiate", "revive", "regenerate"],
+		"categories": ["ui", "development-and-code"]
 	},
 	"rocket": {
-		"tags": [
-			"travel",
-			"launch",
-			"ship",
-			"transport",
-			"vehicle",
-			"space",
-			"missile",
-			"shuttle",
-			"spacecraft",
-			"flight"
-		],
-		"related": [
-			"truck",
-			"bike",
-			"car",
-			"ship",
-			"plane"
-		]
+		"keywords": ["travel", "launch", "ship", "transport", "vehicle", "space", "missile", "shuttle", "spacecraft", "flight"],
+		"categories": ["transport", "objects"]
 	},
 	"save": {
-		"tags": [
-			"floppy",
-			"disk",
-			"download",
-			"store",
-			"preserve",
-			"keep",
-			"record",
-			"maintain",
-			"retain"
-		],
-		"related": [
-			"arrow-circle-down",
-			"basket",
-			"camera",
-			"cart",
-			"document"
-		]
+		"keywords": ["floppy", "disk", "download", "store", "preserve", "keep", "record", "maintain", "retain"],
+		"categories": ["files-and-folders", "ui"]
 	},
 	"scissors": {
-		"tags": [
-			"cut",
-			"edit",
-			"trim",
-			"clip",
-			"crop",
-			"slice",
-			"snip",
-			"shear",
-			"carve",
-			"sever",
-			"divide"
-		],
-		"related": [
-			"arrow-split"
-		]
+		"keywords": ["cut", "edit", "trim", "clip", "crop", "slice", "snip", "shear", "carve", "sever", "divide"],
+		"categories": ["ui", "objects", "text-formatting"]
 	},
 	"search": {
-		"tags": [
-			"magnif",
-			"zoom",
-			"find",
-			"glass",
-			"loupe",
-			"explore",
-			"locate",
-			"seek",
-			"discover",
-			"hunt"
-		],
-		"related": [
-			"folder-open"
-		]
+		"keywords": ["magnif", "zoom", "find", "glass", "loupe", "explore", "locate", "seek", "discover", "hunt"],
+		"categories": ["ui"]
 	},
 	"settings": {
-		"tags": [
-			"cog",
-			"gear",
-			"preferences",
-			"options",
-			"tools",
-			"configuration",
-			"setup",
-			"customize",
-			"control"
-		],
-		"related": [
-			"cog",
-			"cog-2",
-			"adjustments",
-			"bars",
-			"dashboard"
-		]
+		"keywords": ["cog", "gear", "preferences", "options", "tools", "configuration", "setup", "customize", "control"],
+		"categories": ["settings-and-controls", "ui"]
 	},
 	"shield": {
-		"tags": [
-			"security",
-			"protection",
-			"safe",
-			"defense",
-			"guard",
-			"armor",
-			"cover",
-			"safeguard",
-			"barrier"
-		],
-		"related": [
-			"shield-check",
-			"lock",
-			"key",
-			"eye-close",
-			"eye-off"
-		]
+		"keywords": ["security", "protection", "safe", "defense", "guard", "armor", "cover", "safeguard", "barrier"],
+		"categories": ["security", "objects"]
 	},
 	"shield-check": {
-		"tags": [
-			"security",
-			"protection",
-			"safe",
-			"defense",
-			"verified",
-			"check",
-			"guard",
-			"approved",
-			"guaranteed"
-		],
-		"related": [
-			"shield",
-			"check",
-			"check-circle",
-			"lock",
-			"key"
-		]
+		"keywords": ["security", "protection", "safe", "defense", "verified", "check", "guard", "approved", "guaranteed"],
+		"categories": ["security", "objects"]
 	},
 	"ship": {
-		"tags": [
-			"travel",
-			"boat",
-			"transport",
-			"vehicle",
-			"cruise",
-			"voyage",
-			"sail",
-			"vessel",
-			"maritime",
-			"nautical"
-		],
-		"related": [
-			"bike",
-			"car",
-			"rocket",
-			"truck",
-			"plane"
-		]
+		"keywords": ["travel", "boat", "transport", "vehicle", "cruise", "voyage", "sail", "vessel", "maritime", "nautical"],
+		"categories": ["transport", "objects"]
 	},
 	"spade": {
-		"tags": [
-			"poker",
-			"card",
-			"game",
-			"casino",
-			"gambling",
-			"playing",
-			"suit",
-			"deck"
-		],
-		"related": [
-			"club"
-		]
+		"keywords": ["poker", "card", "game", "casino", "gambling", "playing", "suit", "deck"],
+		"categories": ["gaming", "objects"]
 	},
 	"spinner-dots": {
-		"tags": [
-			"loading",
-			"progress",
-			"loader",
-			"waiting",
-			"process",
-			"busy",
-			"working",
-			"activity",
-			"buffering"
-		],
-		"related": [
-			"spinner-earring",
-			"spinner-planet",
-			"cog",
-			"cog-2",
-			"arrow-right"
-		]
+		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
+		"categories": ["ui"]
 	},
 	"spinner-earring": {
-		"tags": [
-			"loading",
-			"progress",
-			"loader",
-			"waiting",
-			"process",
-			"busy",
-			"working",
-			"activity",
-			"buffering"
-		],
-		"related": [
-			"spinner-dots",
-			"spinner-planet",
-			"cog",
-			"cog-2",
-			"arrow-right"
-		]
+		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
+		"categories": ["ui"]
 	},
 	"spinner-planet": {
-		"tags": [
-			"loading",
-			"progress",
-			"loader",
-			"waiting",
-			"process",
-			"busy",
-			"working",
-			"activity",
-			"buffering"
-		],
-		"related": [
-			"spinner-dots",
-			"spinner-earring",
-			"cog",
-			"cog-2",
-			"arrow-right"
-		]
+		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
+		"categories": ["ui"]
 	},
 	"star": {
-		"tags": [
-			"favorite",
-			"rate",
-			"bookmark",
-			"highlight",
-			"important",
-			"feature",
-			"special",
-			"premium",
-			"mark"
-		],
-		"related": [
-			"asterisk",
-			"star-half",
-			"star-off",
-			"underline",
-			"bookmark"
-		]
+		"keywords": ["favorite", "rate", "bookmark", "highlight", "important", "feature", "special", "premium", "mark"],
+		"categories": ["ui", "objects"]
 	},
 	"star-half": {
-		"tags": [
-			"favorite",
-			"rate",
-			"bookmark",
-			"half",
-			"partial",
-			"incomplete",
-			"semi",
-			"medium",
-			"part"
-		],
-		"related": [
-			"star",
-			"star-off",
-			"bookmark",
-			"heart"
-		]
+		"keywords": ["favorite", "rate", "bookmark", "half", "partial", "incomplete", "semi", "medium", "part"],
+		"categories": ["ui", "objects"]
 	},
 	"star-off": {
-		"tags": [
-			"favorite",
-			"rate",
-			"bookmark",
-			"off",
-			"unfavorite",
-			"remove",
-			"unmark",
-			"deselect",
-			"clear"
-		],
-		"related": [
-			"star",
-			"star-half",
-			"folder-remove",
-			"times-circle",
-			"times"
-		]
+		"keywords": ["favorite", "rate", "bookmark", "off", "unfavorite", "remove", "unmark", "deselect", "clear"],
+		"categories": ["ui", "objects"]
 	},
 	"sun": {
-		"tags": [
-			"day",
-			"light",
-			"weather",
-			"bright",
-			"sunny",
-			"sunshine",
-			"solar",
-			"daylight",
-			"radiance"
-		],
-		"related": [
-			"cloud-sun",
-			"bulb",
-			"bulb-off",
-			"calendar",
-			"cloud"
-		]
+		"keywords": ["day", "light", "weather", "bright", "sunny", "sunshine", "solar", "daylight", "radiance"],
+		"categories": ["weather", "objects"]
 	},
 	"text": {
-		"tags": [
-			"format",
-			"style",
-			"typo",
-			"content",
-			"words",
-			"characters",
-			"letters",
-			"writing",
-			"font"
-		],
-		"related": [
-			"bold",
-			"heading",
-			"italic",
-			"underline",
-			"brush-big"
-		]
+		"keywords": ["format", "style", "typo", "content", "words", "characters", "letters", "writing", "font"],
+		"categories": ["text-formatting", "ui"]
 	},
 	"times": {
-		"tags": [
-			"close",
-			"delete",
-			"remove",
-			"cancel",
-			"exit",
-			"dismiss",
-			"cross",
-			"stop",
-			"clear",
-			"x"
-		],
-		"related": [
-			"times-circle",
-			"folder-remove",
-			"document-remove",
-			"star-off",
-			"user-remove"
-		]
+		"keywords": ["close", "delete", "remove", "cancel", "exit", "dismiss", "cross", "stop", "clear", "x"],
+		"categories": ["ui"]
 	},
 	"times-circle": {
-		"tags": [
-			"close",
-			"delete",
-			"remove",
-			"cancel",
-			"exit",
-			"dismiss",
-			"cross",
-			"stop",
-			"clear"
-		],
-		"related": [
-			"times",
-			"folder-remove",
-			"document-remove",
-			"star-off",
-			"user-remove"
-		]
+		"keywords": ["close", "delete", "remove", "cancel", "exit", "dismiss", "cross", "stop", "clear"],
+		"categories": ["ui"]
 	},
 	"trash": {
-		"tags": [
-			"bin",
-			"delete",
-			"remove",
-			"discard",
-			"waste",
-			"garbage",
-			"rubbish",
-			"junk",
-			"dispose",
-			"erase"
-		],
-		"related": [
-			"document-remove",
-			"folder-remove",
-			"user-remove",
-			"times-circle",
-			"minus"
-		]
+		"keywords": ["bin", "delete", "remove", "discard", "waste", "garbage", "rubbish", "junk", "dispose", "erase"],
+		"categories": ["ui", "objects"]
 	},
 	"trending-down": {
-		"tags": [
-			"stock",
-			"price",
-			"graph",
-			"decline",
-			"fall",
-			"decrease",
-			"drop",
-			"descend",
-			"reduce"
-		],
-		"related": [
-			"trending-up",
-			"arrow-down",
-			"minus",
-			"arrow-circle-down",
-			"chevron-down"
-		]
+		"keywords": ["stock", "price", "graph", "decline", "fall", "decrease", "drop", "descend", "reduce"],
+		"categories": ["data-and-analytics", "finance-and-money"]
 	},
 	"trending-up": {
-		"tags": [
-			"stock",
-			"price",
-			"graph",
-			"increase",
-			"rise",
-			"grow",
-			"ascend",
-			"climb",
-			"escalate"
-		],
-		"related": [
-			"arrow-up",
-			"trending-down",
-			"chevron-up",
-			"maximize",
-			"arrow-circle-up"
-		]
+		"keywords": ["stock", "price", "graph", "increase", "rise", "grow", "ascend", "climb", "escalate"],
+		"categories": ["data-and-analytics", "finance-and-money"]
 	},
 	"truck": {
-		"tags": [
-			"ship",
-			"travel",
-			"car",
-			"transport",
-			"vehicle",
-			"delivery",
-			"logistics",
-			"freight",
-			"cargo",
-			"shipment"
-		],
-		"related": [
-			"rocket",
-			"bike",
-			"car",
-			"ship",
-			"plane"
-		]
+		"keywords": ["ship", "travel", "car", "transport", "vehicle", "delivery", "logistics", "freight", "cargo", "shipment"],
+		"categories": ["transport", "objects"]
 	},
 	"underline": {
-		"tags": [
-			"format",
-			"style",
-			"typo",
-			"text",
-			"emphasis",
-			"underscore",
-			"highlight",
-			"accentuate",
-			"mark"
-		],
-		"related": [
-			"bold",
-			"italic",
-			"heading",
-			"text",
-			"star"
-		]
+		"keywords": ["format", "style", "typo", "text", "emphasis", "underscore", "highlight", "accentuate", "mark"],
+		"categories": ["text-formatting", "ui"]
 	},
 	"unlock": {
-		"tags": [
-			"open",
-			"access",
-			"unlocked",
-			"security",
-			"key",
-			"free",
-			"available",
-			"permit",
-			"unrestricted"
-		],
-		"related": [
-			"folder-open",
-			"key",
-			"external-link",
-			"lock",
-			"mail-open"
-		]
+		"keywords": ["open", "access", "unlocked", "security", "key", "free", "available", "permit", "unrestricted"],
+		"categories": ["security", "objects"]
 	},
 	"upload": {
-		"tags": [
-			"cloud",
-			"transfer",
-			"send",
-			"upload",
-			"share",
-			"publish",
-			"push",
-			"post",
-			"submit"
-		],
-		"related": [
-			"brand-twitter",
-			"download",
-			"mail",
-			"brand-facebook",
-			"arrow-circle-up"
-		]
+		"keywords": ["cloud", "transfer", "send", "upload", "share", "publish", "push", "post", "submit"],
+		"categories": ["ui", "files-and-folders", "arrows"]
 	},
 	"user": {
-		"tags": [
-			"person",
-			"account",
-			"profile",
-			"avatar",
-			"member",
-			"individual",
-			"human",
-			"client",
-			"customer"
-		],
-		"related": [
-			"user-add",
-			"user-remove"
-		]
+		"keywords": ["person", "account", "profile", "avatar", "member", "individual", "human", "client", "customer"],
+		"categories": ["users-and-people"]
 	},
 	"user-add": {
-		"tags": [
-			"person",
-			"account",
-			"profile",
-			"add",
-			"new",
-			"invite",
-			"register",
-			"join",
-			"enroll"
-		],
-		"related": [
-			"user",
-			"user-remove",
-			"document-add",
-			"folder-add",
-			"external-link"
-		]
+		"keywords": ["person", "account", "profile", "add", "new", "invite", "register", "join", "enroll"],
+		"categories": ["users-and-people", "ui"]
 	},
 	"user-remove": {
-		"tags": [
-			"person",
-			"account",
-			"profile",
-			"remove",
-			"delete",
-			"discard",
-			"exclude",
-			"eliminate",
-			"expel"
-		],
-		"related": [
-			"document-remove",
-			"folder-remove",
-			"user",
-			"user-add",
-			"trash"
-		]
+		"keywords": ["person", "account", "profile", "remove", "delete", "discard", "exclude", "eliminate", "expel"],
+		"categories": ["users-and-people", "ui"]
 	},
 	"users": {
-		"tags": [
-			"group",
-			"people",
-			"team",
-			"community",
-			"members",
-			"crowd",
-			"crew",
-			"staff",
-			"personnel"
-		],
-		"related": [
-			"brand-facebook",
-			"brand-x"
-		]
+		"keywords": ["group", "people", "team", "community", "members", "crowd", "crew", "staff", "personnel"],
+		"categories": ["users-and-people"]
 	},
 	"verified": {
-		"tags": [
-			"authorize",
-			"mark",
-			"tick",
-			"badge",
-			"approve",
-			"confirm",
-			"validate",
-			"certify",
-			"authenticate"
-		],
-		"related": [
-			"check",
-			"check-circle",
-			"certificate",
-			"star",
-			"underline"
-		]
+		"keywords": ["authorize", "mark", "tick", "badge", "approve", "confirm", "validate", "certify", "authenticate"],
+		"categories": ["security", "ui"]
 	},
 	"view-grid": {
-		"tags": [
-			"grid",
-			"table",
-			"layout",
-			"matrix",
-			"thumbnail",
-			"gallery",
-			"tiles",
-			"mosaic",
-			"array"
-		],
-		"related": [
-			"columns-one-two-thirds",
-			"columns-three-thirds",
-			"columns-two-halfs",
-			"view-list",
-			"dashboard"
-		]
+		"keywords": ["grid", "table", "layout", "matrix", "thumbnail", "gallery", "tiles", "mosaic", "array"],
+		"categories": ["layout", "ui"]
 	},
 	"view-list": {
-		"tags": [
-			"grid",
-			"table",
-			"layout",
-			"list",
-			"rows",
-			"items",
-			"lineup",
-			"series",
-			"sequence"
-		],
-		"related": [
-			"columns-one-two-thirds",
-			"columns-three-thirds",
-			"columns-two-halfs",
-			"view-grid",
-			"bars"
-		]
+		"keywords": ["grid", "table", "layout", "list", "rows", "items", "lineup", "series", "sequence"],
+		"categories": ["layout", "ui"]
 	},
 	"volume": {
-		"tags": [
-			"sound",
-			"music",
-			"speaker",
-			"audio",
-			"noise",
-			"level",
-			"loudness",
-			"intensity",
-			"amplitude"
-		],
-		"related": [
-			"volume-1",
-			"volume-2",
-			"volume-off",
-			"radio",
-			"bell"
-		]
+		"keywords": ["sound", "music", "speaker", "audio", "noise", "level", "loudness", "intensity", "amplitude"],
+		"categories": ["media", "ui"]
 	},
 	"volume-1": {
-		"tags": [
-			"sound",
-			"music",
-			"speaker",
-			"low",
-			"quiet",
-			"soft",
-			"reduce",
-			"minimal",
-			"subtle"
-		],
-		"related": [
-			"volume-off",
-			"volume",
-			"volume-2",
-			"radio",
-			"bell"
-		]
+		"keywords": ["sound", "music", "speaker", "low", "quiet", "soft", "reduce", "minimal", "subtle"],
+		"categories": ["media", "ui"]
 	},
 	"volume-2": {
-		"tags": [
-			"sound",
-			"music",
-			"speaker",
-			"high",
-			"loud",
-			"strong",
-			"increase",
-			"maximum",
-			"amplified"
-		],
-		"related": [
-			"volume",
-			"volume-1",
-			"volume-off",
-			"radio",
-			"bell"
-		]
+		"keywords": ["sound", "music", "speaker", "high", "loud", "strong", "increase", "maximum", "amplified"],
+		"categories": ["media", "ui"]
 	},
 	"volume-off": {
-		"tags": [
-			"sound",
-			"music",
-			"speaker",
-			"mute",
-			"silent",
-			"quiet",
-			"silence",
-			"disabled",
-			"deaf"
-		],
-		"related": [
-			"bell-off",
-			"volume-1",
-			"volume",
-			"volume-2",
-			"radio"
-		]
+		"keywords": ["sound", "music", "speaker", "mute", "silent", "quiet", "silence", "disabled", "deaf"],
+		"categories": ["media", "ui"]
 	},
 	"wifi": {
-		"tags": [
-			"signal",
-			"network",
-			"internet",
-			"wireless",
-			"connection",
-			"online",
-			"hotspot",
-			"web",
-			"connect"
-		],
-		"related": [
-			"wifi-off",
-			"at-symbol",
-			"brand-facebook",
-			"arrow-join",
-			"brand-x"
-		]
+		"keywords": ["signal", "network", "internet", "wireless", "connection", "online", "hotspot", "web", "connect"],
+		"categories": ["communication", "ui"]
 	},
 	"wifi-off": {
-		"tags": [
-			"signal",
-			"network",
-			"offline",
-			"disconnected",
-			"unavailable",
-			"disabled",
-			"no",
-			"connection",
-			"broken"
-		],
-		"related": [
-			"wifi",
-			"brand-facebook",
-			"brand-x",
-			"camera-off",
-			"alert"
-		]
+		"keywords": ["signal", "network", "offline", "disconnected", "unavailable", "disabled", "no", "connection", "broken"],
+		"categories": ["communication", "ui"]
 	}
 }
