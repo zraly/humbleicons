@@ -913,15 +913,15 @@
 	},
 	"spinner-dots": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui"]
+		"categories": ["ui", "spinners-and-loaders"]
 	},
 	"spinner-earring": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui"]
+		"categories": ["ui", "spinners-and-loaders"]
 	},
 	"spinner-planet": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui"]
+		"categories": ["ui", "spinners-and-loaders"]
 	},
 	"square": {
 		"keywords": ["shape", "box", "checkbox", "empty"],
