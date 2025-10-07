@@ -71,15 +71,18 @@
 	},
 	"arrow-down": {
 		"keywords": ["arrow", "down", "decrease", "bottom", "descend", "downward", "lower", "dropdown"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrow"
 	},
 	"arrow-go-back": {
 		"keywords": ["arrow", "back", "previous", "return", "undo", "revert", "history", "reply"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrow-go"
 	},
 	"arrow-go-forward": {
 		"keywords": ["arrow", "forward", "next", "redo", "advance", "proceed"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrow-go"
 	},
 	"arrow-join": {
 		"keywords": ["merge", "alias", "combine", "unite", "connect", "fusion", "junction", "converge"],
