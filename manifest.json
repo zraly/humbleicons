@@ -87,15 +87,18 @@
 	},
 	"arrow-left": {
 		"keywords": ["arrow", "left", "previous", "back", "return", "backward", "retreat", "revert"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrow"
 	},
 	"arrow-left-down": {
 		"keywords": ["arrow", "diagonal", "direction", "south-west"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "arrow"
 	},
 	"arrow-left-up": {
 		"keywords": ["arrow", "diagonal", "direction", "north-west"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "arrow"
 	},
 	"arrow-main-split-side": {
 		"keywords": ["arrow", "git", "branch", "fork", "separate", "split", "diverge"],
@@ -103,15 +106,18 @@
 	},
 	"arrow-right": {
 		"keywords": ["arrow", "right", "next", "forward", "advance", "proceed", "continue", "progress"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrow"
 	},
 	"arrow-right-down": {
 		"keywords": ["arrow", "diagonal", "direction", "south-east"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "arrow"
 	},
 	"arrow-right-up": {
 		"keywords": ["arrow", "diagonal", "direction", "north-east"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "arrow"
 	},
 	"arrow-side-join-main": {
 		"keywords": ["arrow", "git", "merge", "join", "combine", "unite", "connect"],
@@ -123,27 +129,33 @@
 	},
 	"arrow-up": {
 		"keywords": ["arrow", "up", "increase", "top", "ascend", "upward", "higher", "elevate", "rise"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrow"
 	},
 	"arrows": {
 		"keywords": ["move", "reorder", "drag", "all", "directions", "expand"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrows"
 	},
 	"arrows-horizontal": {
 		"keywords": ["resize", "horizontal", "width", "expand", "stretch", "arrows"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrows"
 	},
 	"arrows-right-left": {
 		"keywords": ["swap", "exchange", "transfer", "transaction", "arrows", "horizontal"],
-		"categories": ["arrows", "finance-and-money"]
+		"categories": ["arrows", "finance-and-money"],
+		"variant": "arrows"
 	},
 	"arrows-up-down": {
 		"keywords": ["sort", "reorder", "move", "arrows", "vertical"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrows"
 	},
 	"arrows-vertical": {
 		"keywords": ["resize", "vertical", "height", "expand", "stretch", "arrows"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "arrows"
 	},
 	"asterisk-simple": {
 		"keywords": ["star", "highlight", "special", "important", "reference", "footnote", "marker", "required"],
@@ -227,48 +239,39 @@
 	},
 	"brand-android": {
 		"keywords": ["brand", "logo", "mobile", "os", "google", "phone"],
-		"categories": ["brands"],
-		"variant": "brand"
+		"categories": ["brands"]
 	},
 	"brand-apple": {
 		"keywords": ["brand", "logo", "mobile", "os", "mac", "ios", "iphone"],
-		"categories": ["brands"],
-		"variant": "brand"
+		"categories": ["brands"]
 	},
 	"brand-facebook": {
 		"keywords": ["social", "network", "community", "fb", "meta", "connect", "platform", "share"],
-		"categories": ["brands", "social"],
-		"variant": "brand"
+		"categories": ["brands", "social"]
 	},
 	"brand-github": {
 		"keywords": ["brand", "logo", "git", "code", "repository", "development", "version-control"],
-		"categories": ["brands", "development-and-code"],
-		"variant": "brand"
+		"categories": ["brands", "development-and-code"]
 	},
 	"brand-home-assistant": {
 		"keywords": ["brand", "logo", "smarthome", "automation", "iot"],
-		"categories": ["brands"],
-		"variant": "brand"
+		"categories": ["brands"]
 	},
 	"brand-instagram": {
 		"keywords": ["social", "photo", "picture", "ig", "gram", "filter", "camera", "share", "stories"],
-		"categories": ["brands", "social"],
-		"variant": "brand"
+		"categories": ["brands", "social"]
 	},
 	"brand-php": {
 		"keywords": ["brand", "logo", "code", "development", "programming", "web"],
-		"categories": ["brands", "development-and-code"],
-		"variant": "brand"
+		"categories": ["brands", "development-and-code"]
 	},
 	"brand-twitter": {
 		"keywords": ["social", "tweet", "bird", "microblog", "post", "feed", "message", "share"],
-		"categories": ["brands", "social"],
-		"variant": "brand"
+		"categories": ["brands", "social"]
 	},
 	"brand-x": {
 		"keywords": ["social", "twitter", "network", "community", "elon", "musk", "platform", "microblog"],
-		"categories": ["brands", "social"],
-		"variant": "brand"
+		"categories": ["brands", "social"]
 	},
 	"briefcase": {
 		"keywords": ["work", "business", "job", "office", "portfolio", "case", "bag", "career"],
@@ -353,27 +356,33 @@
 	},
 	"check": {
 		"keywords": ["tick", "confirm", "ok", "done", "accept", "verified", "approved", "completed", "success"],
-		"categories": ["ui"]
+		"categories": ["ui"],
+		"variant": "check"
 	},
 	"check-circle": {
 		"keywords": ["tick", "confirm", "ok", "done", "accept", "circle", "verified", "approved", "completed"],
-		"categories": ["ui"]
+		"categories": ["ui"],
+		"variant": "check"
 	},
 	"chevron-down": {
 		"keywords": ["arrow", "down", "expand", "dropdown", "collapse", "downward", "descend", "lower"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "chevron"
 	},
 	"chevron-left": {
 		"keywords": ["arrow", "left", "previous", "back", "backward", "return", "retreat", "navigation"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "chevron"
 	},
 	"chevron-right": {
 		"keywords": ["arrow", "right", "next", "forward", "advance", "proceed", "continue", "navigation"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "chevron"
 	},
 	"chevron-up": {
 		"keywords": ["arrow", "up", "collapse", "expand", "upward", "ascend", "higher", "rise"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "chevron"
 	},
 	"circle": {
 		"keywords": ["shape", "round", "dot", "radio-button", "empty"],
@@ -409,13 +418,11 @@
 	},
 	"cog": {
 		"keywords": ["settings", "gear", "preferences", "options", "working", "mechanism", "system", "loading", "progress", "loader", "waiting", "configure", "wheel", "setup"],
-		"categories": ["settings-and-controls", "ui"],
-		"variant": "cog"
+		"categories": ["settings-and-controls", "ui"]
 	},
 	"cog-2": {
 		"keywords": ["settings", "gear", "preferences", "options", "working", "mechanism", "system", "loading", "progress", "loader", "waiting", "configure", "wheel", "setup", "double"],
-		"categories": ["settings-and-controls", "ui"],
-		"variant": "cog"
+		"categories": ["settings-and-controls", "ui"]
 	},
 	"coins": {
 		"keywords": ["money", "cash", "currency", "coinage", "finance", "payment", "wealth", "token", "crypto", "dollar"],
@@ -482,23 +489,19 @@
 	},
 	"creative-commons": {
 		"keywords": ["license", "copyright", "creative", "commons", "cc"],
-		"categories": ["objects"],
-		"variant": "creative-commons"
+		"categories": ["objects"]
 	},
 	"creative-commons-by": {
 		"keywords": ["license", "copyright", "creative", "commons", "cc", "attribution"],
-		"categories": ["objects"],
-		"variant": "creative-commons"
+		"categories": ["objects"]
 	},
 	"creative-commons-nd": {
 		"keywords": ["license", "copyright", "creative", "commons", "cc", "no-derivatives"],
-		"categories": ["objects"],
-		"variant": "creative-commons"
+		"categories": ["objects"]
 	},
 	"creative-commons-sa": {
 		"keywords": ["license", "copyright", "creative", "commons", "cc", "share-alike"],
-		"categories": ["objects"],
-		"variant": "creative-commons"
+		"categories": ["objects"]
 	},
 	"credit-card": {
 		"keywords": ["pay", "money", "payment", "transaction", "banking", "finance", "purchase", "checkout", "debit"],
@@ -514,18 +517,15 @@
 	},
 	"currency-dollar-circle": {
 		"keywords": ["money", "finance", "payment", "cash", "usd", "dollar"],
-		"categories": ["finance-and-money"],
-		"variant": "currency"
+		"categories": ["finance-and-money"]
 	},
 	"currency-euro-circle": {
 		"keywords": ["money", "finance", "payment", "cash", "eur", "euro"],
-		"categories": ["finance-and-money"],
-		"variant": "currency"
+		"categories": ["finance-and-money"]
 	},
 	"currency-pound-circle": {
 		"keywords": ["money", "finance", "payment", "cash", "gbp", "pound"],
-		"categories": ["finance-and-money"],
-		"variant": "currency"
+		"categories": ["finance-and-money"]
 	},
 	"cursor": {
 		"keywords": ["pointer", "mouse", "select", "click", "arrow"],
@@ -572,13 +572,11 @@
 	},
 	"download": {
 		"keywords": ["cloud", "save", "transfer", "get", "arrow", "obtain", "retrieve", "fetch", "acquire"],
-		"categories": ["ui", "files-and-folders", "arrows"],
-		"variant": "download"
+		"categories": ["ui", "files-and-folders", "arrows"]
 	},
 	"download-alt": {
 		"keywords": ["cloud", "save", "transfer", "get", "arrow", "obtain", "local", "disk"],
-		"categories": ["ui", "files-and-folders", "arrows"],
-		"variant": "download"
+		"categories": ["ui", "files-and-folders", "arrows"]
 	},
 	"droplet": {
 		"keywords": ["color", "water", "liquid", "drop", "tear", "rain", "wet", "fluid", "paint"],
@@ -590,19 +588,23 @@
 	},
 	"exchange-horizontal": {
 		"keywords": ["swap", "replace", "transfer", "arrows", "transaction", "switch"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "exchange"
 	},
 	"exchange-vertical": {
 		"keywords": ["swap", "replace", "transfer", "arrows", "transaction", "switch"],
-		"categories": ["arrows", "ui"]
+		"categories": ["arrows", "ui"],
+		"variant": "exchange"
 	},
 	"exclamation": {
 		"keywords": ["warning", "alert", "error", "danger", "attention", "important"],
-		"categories": ["ui", "notifications"]
+		"categories": ["ui", "notifications"],
+		"variant": "exclamation"
 	},
 	"exclamation-triangle": {
 		"keywords": ["warning", "alert", "error", "danger", "attention", "caution"],
-		"categories": ["ui", "notifications"]
+		"categories": ["ui", "notifications"],
+		"variant": "exclamation"
 	},
 	"expand": {
 		"keywords": ["resize", "fullscreen", "maximize", "enlarge", "scale", "arrows"],
@@ -709,13 +711,11 @@
 	},
 	"incognito": {
 		"keywords": ["hat", "undercover", "secret", "privacy", "hidden", "anonymous", "stealth", "disguise", "private"],
-		"categories": ["security", "users-and-people"],
-		"variant": "incognito"
+		"categories": ["security", "users-and-people"]
 	},
 	"incognito-2": {
 		"keywords": ["hat", "undercover", "secret", "moustache", "mustache", "privacy", "disguise", "hidden", "anonymous", "mask"],
-		"categories": ["security", "users-and-people"],
-		"variant": "incognito"
+		"categories": ["security", "users-and-people"]
 	},
 	"info": {
 		"keywords": ["information", "details", "data", "knowledge", "facts", "help", "assistance", "guidance", "advice"],
@@ -772,8 +772,7 @@
 	},
 	"mail-multi": {
 		"keywords": ["bulk", "email", "newsletter", "marketing", "multiple", "send-all"],
-		"categories": ["communication"],
-		"variant": "mail"
+		"categories": ["communication"]
 	},
 	"mail-open": {
 		"keywords": ["envelope", "read", "message", "open", "viewed", "opened", "revealed", "received", "checked"],
@@ -963,13 +962,11 @@
 	},
 	"share": {
 		"keywords": ["send", "network", "connect", "social", "export", "forward"],
-		"categories": ["ui", "social"],
-		"variant": "share"
+		"categories": ["ui", "social"]
 	},
 	"share-alt": {
 		"keywords": ["send", "network", "connect", "social", "export", "forward", "nodes"],
-		"categories": ["ui", "social"],
-		"variant": "share"
+		"categories": ["ui", "social"]
 	},
 	"shield": {
 		"keywords": ["security", "protection", "safe", "defense", "guard", "armor", "cover", "safeguard", "barrier"],
@@ -992,11 +989,13 @@
 	},
 	"skip-backward": {
 		"keywords": ["media", "music", "video", "previous", "start", "rewind"],
-		"categories": ["media", "ui"]
+		"categories": ["media", "ui"],
+		"variant": "skip"
 	},
 	"skip-forward": {
 		"keywords": ["media", "music", "video", "next", "end", "fast-forward"],
-		"categories": ["media", "ui"]
+		"categories": ["media", "ui"],
+		"variant": "skip"
 	},
 	"snow": {
 		"keywords": ["weather", "winter", "cold", "blizzard", "snowflake", "freeze"],
@@ -1008,18 +1007,15 @@
 	},
 	"spinner-dots": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"],
-		"variant": "spinner"
+		"categories": ["ui", "spinners-and-loaders"]
 	},
 	"spinner-earring": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"],
-		"variant": "spinner"
+		"categories": ["ui", "spinners-and-loaders"]
 	},
 	"spinner-planet": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"],
-		"variant": "spinner"
+		"categories": ["ui", "spinners-and-loaders"]
 	},
 	"square": {
 		"keywords": ["shape", "box", "checkbox", "empty"],
@@ -1053,13 +1049,11 @@
 	},
 	"tag": {
 		"keywords": ["label", "category", "keyword", "price", "mark", "badge"],
-		"categories": ["ui", "objects"],
-		"variant": "tag"
+		"categories": ["ui", "objects"]
 	},
 	"tags": {
 		"keywords": ["labels", "categories", "keywords", "multiple"],
-		"categories": ["ui", "objects"],
-		"variant": "tag"
+		"categories": ["ui", "objects"]
 	},
 	"text": {
 		"keywords": ["format", "style", "typo", "content", "words", "characters", "letters", "writing", "font"],
@@ -1081,11 +1075,13 @@
 	},
 	"trending-down": {
 		"keywords": ["stock", "price", "graph", "decline", "fall", "decrease", "drop", "descend", "reduce"],
-		"categories": ["data-and-analytics", "finance-and-money"]
+		"categories": ["data-and-analytics", "finance-and-money"],
+		"variant": "trending"
 	},
 	"trending-up": {
 		"keywords": ["stock", "price", "graph", "increase", "rise", "grow", "ascend", "climb", "escalate"],
-		"categories": ["data-and-analytics", "finance-and-money"]
+		"categories": ["data-and-analytics", "finance-and-money"],
+		"variant": "trending"
 	},
 	"triangle": {
 		"keywords": ["shape", "warning", "delta", "pyramid"],
@@ -1137,11 +1133,13 @@
 	},
 	"view-grid": {
 		"keywords": ["grid", "table", "layout", "matrix", "thumbnail", "gallery", "tiles", "mosaic", "array"],
-		"categories": ["layout", "ui"]
+		"categories": ["layout", "ui"],
+		"variant": "view"
 	},
 	"view-list": {
 		"keywords": ["grid", "table", "layout", "list", "rows", "items", "lineup", "series", "sequence"],
-		"categories": ["layout", "ui"]
+		"categories": ["layout", "ui"],
+		"variant": "view"
 	},
 	"volume": {
 		"keywords": ["sound", "music", "speaker", "audio", "noise", "level", "loudness", "intensity", "amplitude"],
