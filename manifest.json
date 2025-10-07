@@ -17,43 +17,53 @@
 	},
 	"align-objects-bottom": {
 		"keywords": ["align", "arrange", "distribute", "layout", "format", "bottom", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"]
+		"categories": ["layout", "ui", "text-formatting"],
+		"variant": "align-objects"
 	},
 	"align-objects-center": {
 		"keywords": ["align", "arrange", "distribute", "layout", "format", "center", "horizontal", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"]
+		"categories": ["layout", "ui", "text-formatting"],
+		"variant": "align-objects"
 	},
 	"align-objects-left": {
 		"keywords": ["align", "arrange", "distribute", "layout", "format", "left", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"]
+		"categories": ["layout", "ui", "text-formatting"],
+		"variant": "align-objects"
 	},
 	"align-objects-middle": {
 		"keywords": ["align", "arrange", "distribute", "layout", "format", "middle", "vertical", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"]
+		"categories": ["layout", "ui", "text-formatting"],
+		"variant": "align-objects"
 	},
 	"align-objects-right": {
 		"keywords": ["align", "arrange", "distribute", "layout", "format", "right", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"]
+		"categories": ["layout", "ui", "text-formatting"],
+		"variant": "align-objects"
 	},
 	"align-objects-top": {
 		"keywords": ["align", "arrange", "distribute", "layout", "format", "top", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"]
+		"categories": ["layout", "ui", "text-formatting"],
+		"variant": "align-objects"
 	},
 	"align-text-center": {
 		"keywords": ["align", "text", "format", "center", "middle", "layout", "paragraph"],
-		"categories": ["text-formatting", "ui"]
+		"categories": ["text-formatting", "ui"],
+		"variant": "align-text"
 	},
 	"align-text-justify": {
 		"keywords": ["align", "text", "format", "justify", "layout", "paragraph", "block"],
-		"categories": ["text-formatting", "ui"]
+		"categories": ["text-formatting", "ui"],
+		"variant": "align-text"
 	},
 	"align-text-left": {
 		"keywords": ["align", "text", "format", "left", "layout", "paragraph"],
-		"categories": ["text-formatting", "ui"]
+		"categories": ["text-formatting", "ui"],
+		"variant": "align-text"
 	},
 	"align-text-right": {
 		"keywords": ["align", "text", "format", "right", "layout", "paragraph"],
-		"categories": ["text-formatting", "ui"]
+		"categories": ["text-formatting", "ui"],
+		"variant": "align-text"
 	},
 	"archive": {
 		"keywords": ["box", "storage", "store", "save", "backup", "compress", "history", "records"],
@@ -161,27 +171,33 @@
 	},
 	"battery": {
 		"keywords": ["power", "energy", "charge", "status", "empty"],
-		"categories": ["objects", "ui"]
+		"categories": ["objects", "ui"],
+		"variant": "battery"
 	},
 	"battery-charging": {
 		"keywords": ["power", "energy", "charge", "charging", "lightning", "flash"],
-		"categories": ["objects", "ui"]
+		"categories": ["objects", "ui"],
+		"variant": "battery"
 	},
 	"battery-full": {
 		"keywords": ["power", "energy", "charge", "status", "full", "100%"],
-		"categories": ["objects", "ui"]
+		"categories": ["objects", "ui"],
+		"variant": "battery"
 	},
 	"battery-half": {
 		"keywords": ["power", "energy", "charge", "status", "half", "medium", "50%"],
-		"categories": ["objects", "ui"]
+		"categories": ["objects", "ui"],
+		"variant": "battery"
 	},
 	"bell": {
 		"keywords": ["notification", "alert", "ring", "alarm", "reminder", "chime", "sound", "notice"],
-		"categories": ["time-and-notifications", "ui"]
+		"categories": ["time-and-notifications", "ui"],
+		"variant": "bell"
 	},
 	"bell-off": {
 		"keywords": ["notification", "alert", "silent", "quiet", "mute", "disable", "deactivate", "silence"],
-		"categories": ["time-and-notifications", "ui"]
+		"categories": ["time-and-notifications", "ui"],
+		"variant": "bell"
 	},
 	"bike": {
 		"keywords": ["travel", "transport", "vehicle", "cycle", "ride", "bicycle", "pedal", "cycling", "biking"],
@@ -193,11 +209,13 @@
 	},
 	"book": {
 		"keywords": ["read", "learn", "study", "knowledge", "education", "library", "documentation", "guide"],
-		"categories": ["objects", "text-formatting"]
+		"categories": ["objects", "text-formatting"],
+		"variant": "book"
 	},
 	"book-open": {
 		"keywords": ["read", "learn", "study", "knowledge", "education", "library", "open"],
-		"categories": ["objects", "text-formatting"]
+		"categories": ["objects", "text-formatting"],
+		"variant": "book"
 	},
 	"bookmark": {
 		"keywords": ["favorite", "save", "marker", "read", "label", "tag", "flag", "remember"],
@@ -209,39 +227,48 @@
 	},
 	"brand-android": {
 		"keywords": ["brand", "logo", "mobile", "os", "google", "phone"],
-		"categories": ["brands"]
+		"categories": ["brands"],
+		"variant": "brand"
 	},
 	"brand-apple": {
 		"keywords": ["brand", "logo", "mobile", "os", "mac", "ios", "iphone"],
-		"categories": ["brands"]
+		"categories": ["brands"],
+		"variant": "brand"
 	},
 	"brand-facebook": {
 		"keywords": ["social", "network", "community", "fb", "meta", "connect", "platform", "share"],
-		"categories": ["brands", "social"]
+		"categories": ["brands", "social"],
+		"variant": "brand"
 	},
 	"brand-github": {
 		"keywords": ["brand", "logo", "git", "code", "repository", "development", "version-control"],
-		"categories": ["brands", "development-and-code"]
+		"categories": ["brands", "development-and-code"],
+		"variant": "brand"
 	},
 	"brand-home-assistant": {
 		"keywords": ["brand", "logo", "smarthome", "automation", "iot"],
-		"categories": ["brands"]
+		"categories": ["brands"],
+		"variant": "brand"
 	},
 	"brand-instagram": {
 		"keywords": ["social", "photo", "picture", "ig", "gram", "filter", "camera", "share", "stories"],
-		"categories": ["brands", "social"]
+		"categories": ["brands", "social"],
+		"variant": "brand"
 	},
 	"brand-php": {
 		"keywords": ["brand", "logo", "code", "development", "programming", "web"],
-		"categories": ["brands", "development-and-code"]
+		"categories": ["brands", "development-and-code"],
+		"variant": "brand"
 	},
 	"brand-twitter": {
 		"keywords": ["social", "tweet", "bird", "microblog", "post", "feed", "message", "share"],
-		"categories": ["brands", "social"]
+		"categories": ["brands", "social"],
+		"variant": "brand"
 	},
 	"brand-x": {
 		"keywords": ["social", "twitter", "network", "community", "elon", "musk", "platform", "microblog"],
-		"categories": ["brands", "social"]
+		"categories": ["brands", "social"],
+		"variant": "brand"
 	},
 	"briefcase": {
 		"keywords": ["work", "business", "job", "office", "portfolio", "case", "bag", "career"],
@@ -257,11 +284,13 @@
 	},
 	"bulb": {
 		"keywords": ["light", "idea", "innovation", "inspiration", "bright", "smart", "creative", "concept", "thought"],
-		"categories": ["objects", "ui"]
+		"categories": ["objects", "ui"],
+		"variant": "bulb"
 	},
 	"bulb-off": {
 		"keywords": ["light", "idea", "dark", "off", "inactive", "unlit", "extinguished", "darkness"],
-		"categories": ["objects", "ui"]
+		"categories": ["objects", "ui"],
+		"variant": "bulb"
 	},
 	"calendar": {
 		"keywords": ["date", "time", "event", "schedule", "appointment", "day", "month", "year", "planner"],
@@ -269,19 +298,23 @@
 	},
 	"camera": {
 		"keywords": ["photo", "picture", "capture", "shoot", "image", "lens", "snapshot", "photography", "record"],
-		"categories": ["media", "objects"]
+		"categories": ["media", "objects"],
+		"variant": "camera"
 	},
 	"camera-off": {
 		"keywords": ["photo", "picture", "capture", "off", "disabled", "inactive", "privacy", "hidden"],
-		"categories": ["media", "objects"]
+		"categories": ["media", "objects"],
+		"variant": "camera"
 	},
 	"camera-video": {
 		"keywords": ["record", "video", "movie", "film", "webcam", "meeting", "live"],
-		"categories": ["media", "objects"]
+		"categories": ["media", "objects"],
+		"variant": "camera-video"
 	},
 	"camera-video-off": {
 		"keywords": ["record", "video", "off", "disabled", "privacy", "webcam", "meeting"],
-		"categories": ["media", "objects"]
+		"categories": ["media", "objects"],
+		"variant": "camera-video"
 	},
 	"car": {
 		"keywords": ["drive", "travel", "transport", "vehicle", "automobile", "auto", "sedan", "transportation", "journey"],
@@ -293,15 +326,18 @@
 	},
 	"certificate": {
 		"keywords": ["award", "diploma", "achievement", "badge", "honor", "credential", "recognition", "degree", "qualification"],
-		"categories": ["objects"]
+		"categories": ["objects"],
+		"variant": "certificate"
 	},
 	"certificate-check": {
 		"keywords": ["award", "verified", "approved", "secure", "badge", "credential", "guarantee"],
-		"categories": ["objects", "security"]
+		"categories": ["objects", "security"],
+		"variant": "certificate"
 	},
 	"certificate-off": {
 		"keywords": ["award", "unverified", "insecure", "badge", "revoked"],
-		"categories": ["objects", "security"]
+		"categories": ["objects", "security"],
+		"variant": "certificate"
 	},
 	"chart": {
 		"keywords": ["signal", "graph", "stats", "data", "analytics", "report", "metrics", "diagram", "visualization"],
@@ -373,11 +409,13 @@
 	},
 	"cog": {
 		"keywords": ["settings", "gear", "preferences", "options", "working", "mechanism", "system", "loading", "progress", "loader", "waiting", "configure", "wheel", "setup"],
-		"categories": ["settings-and-controls", "ui"]
+		"categories": ["settings-and-controls", "ui"],
+		"variant": "cog"
 	},
 	"cog-2": {
 		"keywords": ["settings", "gear", "preferences", "options", "working", "mechanism", "system", "loading", "progress", "loader", "waiting", "configure", "wheel", "setup", "double"],
-		"categories": ["settings-and-controls", "ui"]
+		"categories": ["settings-and-controls", "ui"],
+		"variant": "cog"
 	},
 	"coins": {
 		"keywords": ["money", "cash", "currency", "coinage", "finance", "payment", "wealth", "token", "crypto", "dollar"],
@@ -385,47 +423,58 @@
 	},
 	"columns-one-two-thirds": {
 		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
-		"categories": ["layout", "ui"]
+		"categories": ["layout", "ui"],
+		"variant": "columns"
 	},
 	"columns-three-thirds": {
 		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
-		"categories": ["layout", "ui"]
+		"categories": ["layout", "ui"],
+		"variant": "columns"
 	},
 	"columns-two-halfs": {
 		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
-		"categories": ["layout", "ui"]
+		"categories": ["layout", "ui"],
+		"variant": "columns"
 	},
 	"corner-down-left": {
 		"keywords": ["arrow", "corner", "turn", "direction", "down", "left"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "corner"
 	},
 	"corner-down-right": {
 		"keywords": ["arrow", "corner", "turn", "direction", "down", "right"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "corner"
 	},
 	"corner-left-down": {
 		"keywords": ["arrow", "corner", "turn", "direction", "left", "down"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "corner"
 	},
 	"corner-left-up": {
 		"keywords": ["arrow", "corner", "turn", "direction", "left", "up"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "corner"
 	},
 	"corner-right-down": {
 		"keywords": ["arrow", "corner", "turn", "direction", "right", "down"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "corner"
 	},
 	"corner-right-up": {
 		"keywords": ["arrow", "corner", "turn", "direction", "right", "up"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "corner"
 	},
 	"corner-top-left": {
 		"keywords": ["arrow", "corner", "turn", "direction", "top", "left"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "corner"
 	},
 	"corner-up-right": {
 		"keywords": ["arrow", "corner", "turn", "direction", "up", "right"],
-		"categories": ["arrows"]
+		"categories": ["arrows"],
+		"variant": "corner"
 	},
 	"cpu": {
 		"keywords": ["processor", "chip", "computer", "hardware", "memory", "technology", "microchip"],
@@ -433,19 +482,23 @@
 	},
 	"creative-commons": {
 		"keywords": ["license", "copyright", "creative", "commons", "cc"],
-		"categories": ["objects"]
+		"categories": ["objects"],
+		"variant": "creative-commons"
 	},
 	"creative-commons-by": {
 		"keywords": ["license", "copyright", "creative", "commons", "cc", "attribution"],
-		"categories": ["objects"]
+		"categories": ["objects"],
+		"variant": "creative-commons"
 	},
 	"creative-commons-nd": {
 		"keywords": ["license", "copyright", "creative", "commons", "cc", "no-derivatives"],
-		"categories": ["objects"]
+		"categories": ["objects"],
+		"variant": "creative-commons"
 	},
 	"creative-commons-sa": {
 		"keywords": ["license", "copyright", "creative", "commons", "cc", "share-alike"],
-		"categories": ["objects"]
+		"categories": ["objects"],
+		"variant": "creative-commons"
 	},
 	"credit-card": {
 		"keywords": ["pay", "money", "payment", "transaction", "banking", "finance", "purchase", "checkout", "debit"],
@@ -461,15 +514,18 @@
 	},
 	"currency-dollar-circle": {
 		"keywords": ["money", "finance", "payment", "cash", "usd", "dollar"],
-		"categories": ["finance-and-money"]
+		"categories": ["finance-and-money"],
+		"variant": "currency"
 	},
 	"currency-euro-circle": {
 		"keywords": ["money", "finance", "payment", "cash", "eur", "euro"],
-		"categories": ["finance-and-money"]
+		"categories": ["finance-and-money"],
+		"variant": "currency"
 	},
 	"currency-pound-circle": {
 		"keywords": ["money", "finance", "payment", "cash", "gbp", "pound"],
-		"categories": ["finance-and-money"]
+		"categories": ["finance-and-money"],
+		"variant": "currency"
 	},
 	"cursor": {
 		"keywords": ["pointer", "mouse", "select", "click", "arrow"],
@@ -489,15 +545,18 @@
 	},
 	"document": {
 		"keywords": ["file", "paper", "record", "report", "page", "text", "sheet", "note", "doc"],
-		"categories": ["files-and-folders", "text-formatting"]
+		"categories": ["files-and-folders", "text-formatting"],
+		"variant": "document"
 	},
 	"document-add": {
 		"keywords": ["file", "new", "create", "add", "page", "sheet", "generate", "produce", "compose"],
-		"categories": ["files-and-folders", "ui"]
+		"categories": ["files-and-folders", "ui"],
+		"variant": "document"
 	},
 	"document-remove": {
 		"keywords": ["file", "delete", "remove", "discard", "page", "sheet", "eliminate", "erase", "trash"],
-		"categories": ["files-and-folders", "ui"]
+		"categories": ["files-and-folders", "ui"],
+		"variant": "document"
 	},
 	"documents": {
 		"keywords": ["files", "stack", "copy", "multiple", "collection", "paperwork"],
@@ -513,11 +572,13 @@
 	},
 	"download": {
 		"keywords": ["cloud", "save", "transfer", "get", "arrow", "obtain", "retrieve", "fetch", "acquire"],
-		"categories": ["ui", "files-and-folders", "arrows"]
+		"categories": ["ui", "files-and-folders", "arrows"],
+		"variant": "download"
 	},
 	"download-alt": {
 		"keywords": ["cloud", "save", "transfer", "get", "arrow", "obtain", "local", "disk"],
-		"categories": ["ui", "files-and-folders", "arrows"]
+		"categories": ["ui", "files-and-folders", "arrows"],
+		"variant": "download"
 	},
 	"droplet": {
 		"keywords": ["color", "water", "liquid", "drop", "tear", "rain", "wet", "fluid", "paint"],
@@ -553,15 +614,18 @@
 	},
 	"eye": {
 		"keywords": ["show", "visible", "view", "see", "look", "watch", "vision", "sight", "visible"],
-		"categories": ["ui", "security"]
+		"categories": ["ui", "security"],
+		"variant": "eye"
 	},
 	"eye-close": {
 		"keywords": ["hide", "humble", "conceal", "invisible", "privacy", "unseen", "hidden", "blind", "cover"],
-		"categories": ["ui", "security"]
+		"categories": ["ui", "security"],
+		"variant": "eye"
 	},
 	"eye-off": {
 		"keywords": ["hide", "invisible", "unseen", "hidden", "conceal", "blind", "private", "secret", "cover"],
-		"categories": ["ui", "security"]
+		"categories": ["ui", "security"],
+		"variant": "eye"
 	},
 	"fast-forward": {
 		"keywords": ["media", "music", "video", "next", "skip", "speed", "fast"],
@@ -585,19 +649,23 @@
 	},
 	"folder": {
 		"keywords": ["directory", "file", "organize", "container", "storage", "data", "collection", "documents", "archive"],
-		"categories": ["files-and-folders", "objects"]
+		"categories": ["files-and-folders", "objects"],
+		"variant": "folder"
 	},
 	"folder-add": {
 		"keywords": ["directory", "new", "add", "create", "make", "generate", "produce", "establish", "compose"],
-		"categories": ["files-and-folders", "ui"]
+		"categories": ["files-and-folders", "ui"],
+		"variant": "folder"
 	},
 	"folder-open": {
 		"keywords": ["directory", "access", "open", "view", "examine", "explore", "browse", "inspect", "check"],
-		"categories": ["files-and-folders", "ui"]
+		"categories": ["files-and-folders", "ui"],
+		"variant": "folder"
 	},
 	"folder-remove": {
 		"keywords": ["directory", "delete", "remove", "discard", "eliminate", "erase", "trash", "destroy", "clear"],
-		"categories": ["files-and-folders", "ui"]
+		"categories": ["files-and-folders", "ui"],
+		"variant": "folder"
 	},
 	"fork-knife": {
 		"keywords": ["food", "cutlery", "spoon", "eat", "dinner", "lunch", "breakfast", "meal", "restaurant", "dining", "utensils", "cuisine"],
@@ -641,19 +709,23 @@
 	},
 	"incognito": {
 		"keywords": ["hat", "undercover", "secret", "privacy", "hidden", "anonymous", "stealth", "disguise", "private"],
-		"categories": ["security", "users-and-people"]
+		"categories": ["security", "users-and-people"],
+		"variant": "incognito"
 	},
 	"incognito-2": {
 		"keywords": ["hat", "undercover", "secret", "moustache", "mustache", "privacy", "disguise", "hidden", "anonymous", "mask"],
-		"categories": ["security", "users-and-people"]
+		"categories": ["security", "users-and-people"],
+		"variant": "incognito"
 	},
 	"info": {
 		"keywords": ["information", "details", "data", "knowledge", "facts", "help", "assistance", "guidance", "advice"],
-		"categories": ["ui"]
+		"categories": ["ui"],
+		"variant": "info"
 	},
 	"info-circle": {
 		"keywords": ["information", "details", "data", "knowledge", "facts", "help", "assistance", "guidance", "advice"],
-		"categories": ["ui"]
+		"categories": ["ui"],
+		"variant": "info"
 	},
 	"injection": {
 		"keywords": ["medical", "health", "vaccine", "needle", "syringe", "shot", "doctor"],
@@ -681,11 +753,13 @@
 	},
 	"lock": {
 		"keywords": ["secure", "password", "private", "security", "locked", "protected", "safe", "closed", "padlock"],
-		"categories": ["security", "objects"]
+		"categories": ["security", "objects"],
+		"variant": "lock"
 	},
 	"lock-open": {
 		"keywords": ["open", "access", "unlocked", "security", "key", "free", "available", "permit", "unrestricted"],
-		"categories": ["security", "objects"]
+		"categories": ["security", "objects"],
+		"variant": "lock"
 	},
 	"logout": {
 		"keywords": ["exit", "sign-out", "leave", "disconnect", "arrow", "door", "log-off"],
@@ -693,15 +767,18 @@
 	},
 	"mail": {
 		"keywords": ["envelope", "message", "email", "send", "post", "letter", "correspondence", "communication", "inbox"],
-		"categories": ["communication", "ui"]
+		"categories": ["communication", "ui"],
+		"variant": "mail"
 	},
 	"mail-multi": {
 		"keywords": ["bulk", "email", "newsletter", "marketing", "multiple", "send-all"],
-		"categories": ["communication"]
+		"categories": ["communication"],
+		"variant": "mail"
 	},
 	"mail-open": {
 		"keywords": ["envelope", "read", "message", "open", "viewed", "opened", "revealed", "received", "checked"],
-		"categories": ["communication", "ui"]
+		"categories": ["communication", "ui"],
+		"variant": "mail"
 	},
 	"map": {
 		"keywords": ["location", "geo", "pin", "navigation", "travel", "directions", "route", "atlas"],
@@ -713,19 +790,23 @@
 	},
 	"microphone": {
 		"keywords": ["record", "sound", "audio", "voice", "mic", "speak"],
-		"categories": ["media", "communication"]
+		"categories": ["media", "communication"],
+		"variant": "microphone"
 	},
 	"microphone-off": {
 		"keywords": ["mute", "sound", "audio", "voice", "mic", "silent"],
-		"categories": ["media", "communication"]
+		"categories": ["media", "communication"],
+		"variant": "microphone"
 	},
 	"minus": {
 		"keywords": ["dash", "subtract", "delete", "remove", "hide", "minimize", "less", "reduce", "decrease", "deduct"],
-		"categories": ["ui", "math"]
+		"categories": ["ui", "math"],
+		"variant": "minus"
 	},
 	"minus-circle": {
 		"keywords": ["delete", "remove", "subtract", "block", "hide"],
-		"categories": ["ui", "math"]
+		"categories": ["ui", "math"],
+		"variant": "minus"
 	},
 	"mobile": {
 		"keywords": ["screen", "phone", "cellphone", "telephone", "mobile", "smartphone", "device", "handheld", "portable"],
@@ -765,31 +846,38 @@
 	},
 	"phone": {
 		"keywords": ["call", "ring", "mobile", "cellphone", "telephone", "dial", "communicate", "talk", "conversation", "contact"],
-		"categories": ["communication", "objects"]
+		"categories": ["communication", "objects"],
+		"variant": "phone"
 	},
 	"phone-call": {
 		"keywords": ["ring", "call", "communicate", "talk", "dial", "answer", "speak", "conversation", "contact"],
-		"categories": ["communication"]
+		"categories": ["communication"],
+		"variant": "phone"
 	},
 	"phone-forward": {
 		"keywords": ["ring", "call", "forward", "redirect", "transfer", "divert", "reroute", "switch", "direct"],
-		"categories": ["communication"]
+		"categories": ["communication"],
+		"variant": "phone"
 	},
 	"phone-incoming": {
 		"keywords": ["ring", "call", "incoming", "receive", "answer", "accept", "take", "pickup", "arrive"],
-		"categories": ["communication"]
+		"categories": ["communication"],
+		"variant": "phone"
 	},
 	"phone-missed": {
 		"keywords": ["ring", "call", "missed", "unanswered", "ignored", "lost", "rejected", "neglected", "overlooked"],
-		"categories": ["communication"]
+		"categories": ["communication"],
+		"variant": "phone"
 	},
 	"phone-off": {
 		"keywords": ["hang-up", "end-call", "disconnect", "decline"],
-		"categories": ["communication"]
+		"categories": ["communication"],
+		"variant": "phone"
 	},
 	"phone-outgoing": {
 		"keywords": ["ring", "call", "outgoing", "dial", "place", "make", "start", "initiate", "begin"],
-		"categories": ["communication"]
+		"categories": ["communication"],
+		"variant": "phone"
 	},
 	"pie-chart": {
 		"keywords": ["stat", "graph", "chart", "diagram", "stats", "analytics", "data", "report", "metrics", "visualization"],
@@ -805,11 +893,13 @@
 	},
 	"plus": {
 		"keywords": ["add", "new", "create", "increase", "expand", "more"],
-		"categories": ["ui", "math"]
+		"categories": ["ui", "math"],
+		"variant": "plus"
 	},
 	"plus-circle": {
 		"keywords": ["add", "new", "create", "increase", "more"],
-		"categories": ["ui", "math"]
+		"categories": ["ui", "math"],
+		"variant": "plus"
 	},
 	"power": {
 		"keywords": ["on", "off", "switch", "toggle", "shutdown", "start", "button", "reboot"],
@@ -873,23 +963,28 @@
 	},
 	"share": {
 		"keywords": ["send", "network", "connect", "social", "export", "forward"],
-		"categories": ["ui", "social"]
+		"categories": ["ui", "social"],
+		"variant": "share"
 	},
 	"share-alt": {
 		"keywords": ["send", "network", "connect", "social", "export", "forward", "nodes"],
-		"categories": ["ui", "social"]
+		"categories": ["ui", "social"],
+		"variant": "share"
 	},
 	"shield": {
 		"keywords": ["security", "protection", "safe", "defense", "guard", "armor", "cover", "safeguard", "barrier"],
-		"categories": ["security", "objects"]
+		"categories": ["security", "objects"],
+		"variant": "shield"
 	},
 	"shield-check": {
 		"keywords": ["security", "protection", "safe", "defense", "verified", "check", "guard", "approved", "guaranteed"],
-		"categories": ["security", "objects"]
+		"categories": ["security", "objects"],
+		"variant": "shield"
 	},
 	"shield-off": {
 		"keywords": ["security", "unprotected", "vulnerable", "insecure", "unverified", "breach"],
-		"categories": ["security", "objects"]
+		"categories": ["security", "objects"],
+		"variant": "shield"
 	},
 	"ship": {
 		"keywords": ["travel", "boat", "transport", "vehicle", "cruise", "voyage", "sail", "vessel", "maritime", "nautical"],
@@ -913,15 +1008,18 @@
 	},
 	"spinner-dots": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"]
+		"categories": ["ui", "spinners-and-loaders"],
+		"variant": "spinner"
 	},
 	"spinner-earring": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"]
+		"categories": ["ui", "spinners-and-loaders"],
+		"variant": "spinner"
 	},
 	"spinner-planet": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"]
+		"categories": ["ui", "spinners-and-loaders"],
+		"variant": "spinner"
 	},
 	"square": {
 		"keywords": ["shape", "box", "checkbox", "empty"],
@@ -945,19 +1043,23 @@
 	},
 	"switch-off": {
 		"keywords": ["toggle", "disable", "inactive", "off", "button"],
-		"categories": ["ui"]
+		"categories": ["ui"],
+		"variant": "switch"
 	},
 	"switch-on": {
 		"keywords": ["toggle", "enable", "active", "on", "button"],
-		"categories": ["ui"]
+		"categories": ["ui"],
+		"variant": "switch"
 	},
 	"tag": {
 		"keywords": ["label", "category", "keyword", "price", "mark", "badge"],
-		"categories": ["ui", "objects"]
+		"categories": ["ui", "objects"],
+		"variant": "tag"
 	},
 	"tags": {
 		"keywords": ["labels", "categories", "keywords", "multiple"],
-		"categories": ["ui", "objects"]
+		"categories": ["ui", "objects"],
+		"variant": "tag"
 	},
 	"text": {
 		"keywords": ["format", "style", "typo", "content", "words", "characters", "letters", "writing", "font"],
@@ -965,11 +1067,13 @@
 	},
 	"times": {
 		"keywords": ["close", "delete", "remove", "cancel", "exit", "dismiss", "cross", "stop", "clear", "x"],
-		"categories": ["ui"]
+		"categories": ["ui"],
+		"variant": "times"
 	},
 	"times-circle": {
 		"keywords": ["close", "delete", "remove", "cancel", "exit", "dismiss", "cross", "stop", "clear"],
-		"categories": ["ui"]
+		"categories": ["ui"],
+		"variant": "times"
 	},
 	"trash": {
 		"keywords": ["bin", "delete", "remove", "discard", "waste", "garbage", "rubbish", "junk", "dispose", "erase"],
@@ -1005,19 +1109,23 @@
 	},
 	"user": {
 		"keywords": ["person", "account", "profile", "avatar", "member", "individual", "human", "client", "customer"],
-		"categories": ["users-and-people"]
+		"categories": ["users-and-people"],
+		"variant": "user"
 	},
 	"user-add": {
 		"keywords": ["person", "account", "profile", "add", "new", "invite", "register", "join", "enroll"],
-		"categories": ["users-and-people", "ui"]
+		"categories": ["users-and-people", "ui"],
+		"variant": "user"
 	},
 	"user-asking": {
 		"keywords": ["help", "question", "support", "faq", "unknown", "person"],
-		"categories": ["users-and-people", "communication"]
+		"categories": ["users-and-people", "communication"],
+		"variant": "user"
 	},
 	"user-remove": {
 		"keywords": ["person", "account", "profile", "remove", "delete", "discard", "exclude", "eliminate", "expel"],
-		"categories": ["users-and-people", "ui"]
+		"categories": ["users-and-people", "ui"],
+		"variant": "user"
 	},
 	"users": {
 		"keywords": ["group", "people", "team", "community", "members", "crowd", "crew", "staff", "personnel"],
@@ -1037,27 +1145,33 @@
 	},
 	"volume": {
 		"keywords": ["sound", "music", "speaker", "audio", "noise", "level", "loudness", "intensity", "amplitude"],
-		"categories": ["media", "ui"]
+		"categories": ["media", "ui"],
+		"variant": "volume"
 	},
 	"volume-1": {
 		"keywords": ["sound", "music", "speaker", "low", "quiet", "soft", "reduce", "minimal", "subtle"],
-		"categories": ["media", "ui"]
+		"categories": ["media", "ui"],
+		"variant": "volume"
 	},
 	"volume-2": {
 		"keywords": ["sound", "music", "speaker", "high", "loud", "strong", "increase", "maximum", "amplified"],
-		"categories": ["media", "ui"]
+		"categories": ["media", "ui"],
+		"variant": "volume"
 	},
 	"volume-off": {
 		"keywords": ["sound", "music", "speaker", "mute", "silent", "quiet", "silence", "disabled", "deaf"],
-		"categories": ["media", "ui"]
+		"categories": ["media", "ui"],
+		"variant": "volume"
 	},
 	"wifi": {
 		"keywords": ["signal", "network", "internet", "wireless", "connection", "online", "hotspot", "web", "connect"],
-		"categories": ["communication", "ui"]
+		"categories": ["communication", "ui"],
+		"variant": "wifi"
 	},
 	"wifi-off": {
 		"keywords": ["signal", "network", "offline", "disconnected", "unavailable", "disabled", "no", "connection", "broken"],
-		"categories": ["communication", "ui"]
+		"categories": ["communication", "ui"],
+		"variant": "wifi"
 	},
 	"wind": {
 		"keywords": ["weather", "breeze", "air", "gale", "flow"],
@@ -1065,10 +1179,12 @@
 	},
 	"zoom-in": {
 		"keywords": ["magnify", "enlarge", "plus", "bigger", "increase", "scale", "view"],
-		"categories": ["ui", "media"]
+		"categories": ["ui", "media"],
+		"variant": "zoom"
 	},
 	"zoom-out": {
 		"keywords": ["minify", "shrink", "minus", "smaller", "decrease", "scale", "view"],
-		"categories": ["ui", "media"]
+		"categories": ["ui", "media"],
+		"variant": "zoom"
 	}
 }
