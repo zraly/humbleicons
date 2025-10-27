@@ -1000,6 +1000,10 @@
 		"categories": ["media", "ui"],
 		"variant": "skip"
 	},
+	"skull": {
+		"keywords": ["danger", "death", "pirate", "bones", "warning", "toxic", "poison", "threat", "hazard"],
+		"categories": ["objects", "notifications", "medical"]
+	},
 	"snow": {
 		"keywords": ["weather", "winter", "cold", "blizzard", "snowflake", "freeze"],
 		"categories": ["weather"]
