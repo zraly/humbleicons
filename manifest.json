@@ -7,10 +7,6 @@
 		"keywords": ["tune", "balance", "modulate", "modify", "settings", "preferences", "options", "controls", "calibrate", "configure", "customize", "tweak"],
 		"categories": ["ui", "settings-and-controls"]
 	},
-	"ai": {
-		"keywords": ["artificial", "intelligence", "machine", "learning", "neural", "network", "smart", "magic", "generate", "spark", "star", "algorithm", "robot", "automation", "cognitive"],
-		"categories": ["development-and-code"]
-	},
 	"aid": {
 		"keywords": ["help", "support", "lifebuoy", "lifesaver", "rescue", "assistance", "medical", "sos"],
 		"categories": ["medical", "ui", "objects"]
@@ -838,6 +834,10 @@
 		"keywords": ["box", "container", "delivery", "shipping", "product", "module"],
 		"categories": ["objects", "development-and-code"]
 	},
+	"paperclip": {
+		"keywords": ["attach", "file", "document", "clip"],
+		"categories": ["objects", "files-and-folders"]
+	},
 	"pause": {
 		"keywords": ["stop", "hold", "wait", "media", "music", "video"],
 		"categories": ["media", "ui"]
@@ -1012,6 +1012,10 @@
 		"keywords": ["poker", "card", "game", "casino", "gambling", "playing", "suit", "deck"],
 		"categories": ["gaming", "objects"]
 	},
+	"sparks": {
+		"keywords": ["artificial", "intelligence", "machine", "learning", "neural", "network", "smart", "magic", "generate", "ai", "star", "algorithm", "robot", "automation", "cognitive"],
+		"categories": ["development-and-code"]
+	},
 	"spinner-dots": {
 		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
 		"categories": ["ui", "spinners-and-loaders"]
@@ -1064,6 +1068,10 @@
 	},
 	"text": {
 		"keywords": ["format", "style", "typo", "content", "words", "characters", "letters", "writing", "font"],
+		"categories": ["text-formatting", "ui"]
+	},
+	"text-aa": {
+		"keywords": ["format", "style", "typo", "content", "words", "characters", "letters", "writing", "font", "accessibility"],
 		"categories": ["text-formatting", "ui"]
 	},
 	"times": {
