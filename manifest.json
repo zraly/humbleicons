@@ -200,6 +200,10 @@
 		"categories": ["objects", "ui"],
 		"variant": "battery"
 	},
+	"beer": {
+		"keywords": ["drink", "beverage", "alcohol", "lager", "pint", "pub", "bar", "cheers", "party", "celebration"],
+		"categories": ["food-and-drink", "objects"]
+	},
 	"bell": {
 		"keywords": ["notification", "alert", "ring", "alarm", "reminder", "chime", "sound", "notice"],
 		"categories": ["time-and-notifications", "ui"],
@@ -884,6 +888,14 @@
 	"pie-chart": {
 		"keywords": ["stat", "graph", "chart", "diagram", "stats", "analytics", "data", "report", "metrics", "visualization"],
 		"categories": ["data-and-analytics", "ui"]
+	},
+	"pill": {
+		"keywords": ["medicine", "drug", "tablet", "capsule", "health", "pharmacy", "prescription", "pill", "vitamin", "supplement"],
+		"categories": ["medical", "objects"]
+	},
+	"pill-off": {
+		"keywords": ["medicine", "drug", "tablet", "capsule", "health", "pharmacy", "prescription", "pill", "vitamin", "supplement", "disabled"],
+		"categories": ["medical", "objects"]
 	},
 	"plane": {
 		"keywords": ["travel", "flight", "airplane", "aeroplane", "jet", "aviation", "aircraft", "airport", "flying", "trip"],
