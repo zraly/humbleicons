@@ -172,6 +172,10 @@
 		"keywords": ["medical", "health", "injury", "wound", "fix", "patch", "heal"],
 		"categories": ["medical", "objects"]
 	},
+	"bar-chart": {
+		"keywords": ["signal", "graph", "stats", "data", "analytics", "report", "metrics", "diagram", "visualization"],
+		"categories": ["data-and-analytics", "ui"]
+	},
 	"bars": {
 		"keywords": ["menu", "burger", "navigation", "list", "options", "items", "hamburger", "stack"],
 		"categories": ["ui", "layout"]
@@ -345,10 +349,7 @@
 		"categories": ["objects", "security"],
 		"variant": "certificate"
 	},
-	"chart": {
-		"keywords": ["signal", "graph", "stats", "data", "analytics", "report", "metrics", "diagram", "visualization"],
-		"categories": ["data-and-analytics", "ui"]
-	},
+
 	"chat": {
 		"keywords": ["speak", "talk", "conversation", "message", "dialog", "communication", "discussion", "converse"],
 		"categories": ["communication", "ui"]
@@ -745,6 +746,10 @@
 	"layers": {
 		"keywords": ["stack", "arrange", "levels", "order", "design", "depth"],
 		"categories": ["layout", "ui"]
+	},
+	"line-chart": {
+		"keywords": ["graph", "data", "analytics", "statistics", "metrics", "trend", "performance", "report"],
+		"categories": ["data-and-analytics", "ui"]
 	},
 	"link": {
 		"keywords": ["url", "chain", "connect", "hyperlink", "attach", "anchor"],
