@@ -847,6 +847,10 @@
 		"keywords": ["attach", "file", "document", "clip"],
 		"categories": ["objects", "files-and-folders"]
 	},
+	"paperclip-off": {
+		"keywords": ["detach", "file", "document", "unclip"],
+		"categories": ["objects", "files-and-folders"]
+	},
 	"pause": {
 		"keywords": ["stop", "hold", "wait", "media", "music", "video"],
 		"categories": ["media", "ui"]
@@ -1006,6 +1010,10 @@
 	"ship": {
 		"keywords": ["travel", "boat", "transport", "vehicle", "cruise", "voyage", "sail", "vessel", "maritime", "nautical"],
 		"categories": ["transport", "objects"]
+	},
+	"sign-direction": {
+		"keywords": ["arrow", "guide", "location", "map", "navigation", "pointer", "route", "travel", "redirection"],
+		"categories": ["maps-and-location", "objects"]
 	},
 	"skip-backward": {
 		"keywords": ["media", "music", "video", "previous", "start", "rewind"],
