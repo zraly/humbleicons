@@ -1,6 +1,6 @@
 {
   "name": "humbleicons",
-  "version": "1.25.1",
+  "version": "1.26.0",
   "description": "Set of crafted icons for your better UI",
   "author": "zraly",
   "license": "MIT",
@@ -13,6 +13,7 @@
     "icons"
   ],
   "scripts": {
-    "compile": "svg-sprite --config compile.json 'icons/*.svg'"
+    "compile": "svg-sprite --config compile.json 'icons/*.svg'",
+    "message": "node scripts/generate-commit-msg.js"
   }
 }
