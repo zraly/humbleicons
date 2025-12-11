@@ -701,6 +701,10 @@
 		"keywords": ["health", "like", "love", "favorite", "emotion", "affection", "romance", "passion", "care", "adore"],
 		"categories": ["medical", "ui"]
 	},
+	"history": {
+		"keywords": ["time", "date", "timeline", "log", "record", "track", "progress", "development", "evolution"],
+		"categories": ["data-and-analytics", "ui"]
+	},
 	"home": {
 		"keywords": ["house", "building", "residence", "habitat", "domicile", "dwelling", "abode", "property", "apartment"],
 		"categories": ["objects", "ui", "maps-and-location"]
