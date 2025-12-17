@@ -1,1232 +1,4524 @@
 {
 	"activity": {
-		"keywords": ["pulse", "oscilator", "rhythm", "vibration", "heartbeat", "movement", "action", "exercise"],
-		"categories": ["medical", "data-and-analytics"]
+		"keywords": [
+			"pulse",
+			"oscilator",
+			"rhythm",
+			"vibration",
+			"heartbeat",
+			"movement",
+			"action",
+			"exercise"
+		],
+		"categories": [
+			"medical",
+			"data-and-analytics"
+		]
 	},
 	"adjustments": {
-		"keywords": ["tune", "balance", "modulate", "modify", "settings", "preferences", "options", "controls", "calibrate", "configure", "customize", "tweak"],
-		"categories": ["ui", "settings-and-controls"]
+		"keywords": [
+			"tune",
+			"balance",
+			"modulate",
+			"modify",
+			"settings",
+			"preferences",
+			"options",
+			"controls",
+			"calibrate",
+			"configure",
+			"customize",
+			"tweak"
+		],
+		"categories": [
+			"ui",
+			"settings-and-controls"
+		]
 	},
 	"aid": {
-		"keywords": ["help", "support", "lifebuoy", "lifesaver", "rescue", "assistance", "medical", "sos"],
-		"categories": ["medical", "ui", "objects"]
+		"keywords": [
+			"help",
+			"support",
+			"lifebuoy",
+			"lifesaver",
+			"rescue",
+			"assistance",
+			"medical",
+			"sos"
+		],
+		"categories": [
+			"medical",
+			"ui",
+			"objects"
+		]
 	},
 	"align-objects-bottom": {
-		"keywords": ["align", "arrange", "distribute", "layout", "format", "bottom", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"],
+		"keywords": [
+			"align",
+			"arrange",
+			"distribute",
+			"layout",
+			"format",
+			"bottom",
+			"object",
+			"design"
+		],
+		"categories": [
+			"layout",
+			"ui",
+			"text-formatting"
+		],
 		"variant": "align-objects"
 	},
 	"align-objects-center": {
-		"keywords": ["align", "arrange", "distribute", "layout", "format", "center", "horizontal", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"],
+		"keywords": [
+			"align",
+			"arrange",
+			"distribute",
+			"layout",
+			"format",
+			"center",
+			"horizontal",
+			"object",
+			"design"
+		],
+		"categories": [
+			"layout",
+			"ui",
+			"text-formatting"
+		],
 		"variant": "align-objects"
 	},
 	"align-objects-left": {
-		"keywords": ["align", "arrange", "distribute", "layout", "format", "left", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"],
+		"keywords": [
+			"align",
+			"arrange",
+			"distribute",
+			"layout",
+			"format",
+			"left",
+			"object",
+			"design"
+		],
+		"categories": [
+			"layout",
+			"ui",
+			"text-formatting"
+		],
 		"variant": "align-objects"
 	},
 	"align-objects-middle": {
-		"keywords": ["align", "arrange", "distribute", "layout", "format", "middle", "vertical", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"],
+		"keywords": [
+			"align",
+			"arrange",
+			"distribute",
+			"layout",
+			"format",
+			"middle",
+			"vertical",
+			"object",
+			"design"
+		],
+		"categories": [
+			"layout",
+			"ui",
+			"text-formatting"
+		],
 		"variant": "align-objects"
 	},
 	"align-objects-right": {
-		"keywords": ["align", "arrange", "distribute", "layout", "format", "right", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"],
+		"keywords": [
+			"align",
+			"arrange",
+			"distribute",
+			"layout",
+			"format",
+			"right",
+			"object",
+			"design"
+		],
+		"categories": [
+			"layout",
+			"ui",
+			"text-formatting"
+		],
 		"variant": "align-objects"
 	},
 	"align-objects-top": {
-		"keywords": ["align", "arrange", "distribute", "layout", "format", "top", "object", "design"],
-		"categories": ["layout", "ui", "text-formatting"],
+		"keywords": [
+			"align",
+			"arrange",
+			"distribute",
+			"layout",
+			"format",
+			"top",
+			"object",
+			"design"
+		],
+		"categories": [
+			"layout",
+			"ui",
+			"text-formatting"
+		],
 		"variant": "align-objects"
 	},
 	"align-text-center": {
-		"keywords": ["align", "text", "format", "center", "middle", "layout", "paragraph"],
-		"categories": ["text-formatting", "ui"],
+		"keywords": [
+			"align",
+			"text",
+			"format",
+			"center",
+			"middle",
+			"layout",
+			"paragraph"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		],
 		"variant": "align-text"
 	},
 	"align-text-justify": {
-		"keywords": ["align", "text", "format", "justify", "layout", "paragraph", "block"],
-		"categories": ["text-formatting", "ui"],
+		"keywords": [
+			"align",
+			"text",
+			"format",
+			"justify",
+			"layout",
+			"paragraph",
+			"block"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		],
 		"variant": "align-text"
 	},
 	"align-text-left": {
-		"keywords": ["align", "text", "format", "left", "layout", "paragraph"],
-		"categories": ["text-formatting", "ui"],
+		"keywords": [
+			"align",
+			"text",
+			"format",
+			"left",
+			"layout",
+			"paragraph"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		],
 		"variant": "align-text"
 	},
 	"align-text-right": {
-		"keywords": ["align", "text", "format", "right", "layout", "paragraph"],
-		"categories": ["text-formatting", "ui"],
+		"keywords": [
+			"align",
+			"text",
+			"format",
+			"right",
+			"layout",
+			"paragraph"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		],
 		"variant": "align-text"
 	},
 	"archive": {
-		"keywords": ["box", "storage", "store", "save", "backup", "compress", "history", "records"],
-		"categories": ["files-and-folders", "objects"]
+		"keywords": [
+			"box",
+			"storage",
+			"store",
+			"save",
+			"backup",
+			"compress",
+			"history",
+			"records"
+		],
+		"categories": [
+			"files-and-folders",
+			"objects"
+		]
 	},
 	"arrow-down": {
-		"keywords": ["arrow", "down", "decrease", "bottom", "descend", "downward", "lower", "dropdown"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"down",
+			"decrease",
+			"bottom",
+			"descend",
+			"downward",
+			"lower",
+			"dropdown"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrow"
 	},
 	"arrow-go-back": {
-		"keywords": ["arrow", "back", "previous", "return", "undo", "revert", "history", "reply"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"back",
+			"previous",
+			"return",
+			"undo",
+			"revert",
+			"history",
+			"reply"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrow-go"
 	},
 	"arrow-go-forward": {
-		"keywords": ["arrow", "forward", "next", "redo", "advance", "proceed"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"forward",
+			"next",
+			"redo",
+			"advance",
+			"proceed"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrow-go"
 	},
 	"arrow-join": {
-		"keywords": ["merge", "alias", "combine", "unite", "connect", "fusion", "junction", "converge"],
-		"categories": ["arrows", "development-and-code"]
+		"keywords": [
+			"merge",
+			"alias",
+			"combine",
+			"unite",
+			"connect",
+			"fusion",
+			"junction",
+			"converge"
+		],
+		"categories": [
+			"arrows",
+			"development-and-code"
+		]
 	},
 	"arrow-left": {
-		"keywords": ["arrow", "left", "previous", "back", "return", "backward", "retreat", "revert"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"left",
+			"previous",
+			"back",
+			"return",
+			"backward",
+			"retreat",
+			"revert"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrow"
 	},
 	"arrow-left-down": {
-		"keywords": ["arrow", "diagonal", "direction", "south-west"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"diagonal",
+			"direction",
+			"south-west"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "arrow"
 	},
 	"arrow-left-up": {
-		"keywords": ["arrow", "diagonal", "direction", "north-west"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"diagonal",
+			"direction",
+			"north-west"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "arrow"
 	},
 	"arrow-main-split-side": {
-		"keywords": ["arrow", "git", "branch", "fork", "separate", "split", "diverge"],
-		"categories": ["arrows", "development-and-code"]
+		"keywords": [
+			"arrow",
+			"git",
+			"branch",
+			"fork",
+			"separate",
+			"split",
+			"diverge"
+		],
+		"categories": [
+			"arrows",
+			"development-and-code"
+		]
 	},
 	"arrow-right": {
-		"keywords": ["arrow", "right", "next", "forward", "advance", "proceed", "continue", "progress"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"right",
+			"next",
+			"forward",
+			"advance",
+			"proceed",
+			"continue",
+			"progress"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrow"
 	},
 	"arrow-right-down": {
-		"keywords": ["arrow", "diagonal", "direction", "south-east"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"diagonal",
+			"direction",
+			"south-east"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "arrow"
 	},
 	"arrow-right-up": {
-		"keywords": ["arrow", "diagonal", "direction", "north-east"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"diagonal",
+			"direction",
+			"north-east"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "arrow"
 	},
 	"arrow-side-join-main": {
-		"keywords": ["arrow", "git", "merge", "join", "combine", "unite", "connect"],
-		"categories": ["arrows", "development-and-code"]
+		"keywords": [
+			"arrow",
+			"git",
+			"merge",
+			"join",
+			"combine",
+			"unite",
+			"connect"
+		],
+		"categories": [
+			"arrows",
+			"development-and-code"
+		]
 	},
 	"arrow-split": {
-		"keywords": ["fork", "divide", "separate", "branch", "diverge", "bifurcate", "partition", "disconnect"],
-		"categories": ["arrows", "development-and-code"]
+		"keywords": [
+			"fork",
+			"divide",
+			"separate",
+			"branch",
+			"diverge",
+			"bifurcate",
+			"partition",
+			"disconnect"
+		],
+		"categories": [
+			"arrows",
+			"development-and-code"
+		]
 	},
 	"arrow-up": {
-		"keywords": ["arrow", "up", "increase", "top", "ascend", "upward", "higher", "elevate", "rise"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"up",
+			"increase",
+			"top",
+			"ascend",
+			"upward",
+			"higher",
+			"elevate",
+			"rise"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrow"
 	},
 	"arrows": {
-		"keywords": ["move", "reorder", "drag", "all", "directions", "expand"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"move",
+			"reorder",
+			"drag",
+			"all",
+			"directions",
+			"expand"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrows"
 	},
 	"arrows-horizontal": {
-		"keywords": ["resize", "horizontal", "width", "expand", "stretch", "arrows"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"resize",
+			"horizontal",
+			"width",
+			"expand",
+			"stretch",
+			"arrows"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrows"
 	},
 	"arrows-right-left": {
-		"keywords": ["swap", "exchange", "transfer", "transaction", "arrows", "horizontal"],
-		"categories": ["arrows", "finance-and-money"],
+		"keywords": [
+			"swap",
+			"exchange",
+			"transfer",
+			"transaction",
+			"arrows",
+			"horizontal"
+		],
+		"categories": [
+			"arrows",
+			"finance-and-money"
+		],
 		"variant": "arrows"
 	},
 	"arrows-up-down": {
-		"keywords": ["sort", "reorder", "move", "arrows", "vertical"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"sort",
+			"reorder",
+			"move",
+			"arrows",
+			"vertical"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrows"
 	},
 	"arrows-vertical": {
-		"keywords": ["resize", "vertical", "height", "expand", "stretch", "arrows"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"resize",
+			"vertical",
+			"height",
+			"expand",
+			"stretch",
+			"arrows"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "arrows"
 	},
 	"asterisk-simple": {
-		"keywords": ["star", "highlight", "special", "important", "reference", "footnote", "marker", "required"],
-		"categories": ["text-formatting", "ui"]
+		"keywords": [
+			"star",
+			"highlight",
+			"special",
+			"important",
+			"reference",
+			"footnote",
+			"marker",
+			"required"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		]
 	},
 	"at-symbol": {
-		"keywords": ["mail", "email", "at", "address", "contact", "communication", "internet", "online"],
-		"categories": ["communication", "ui"]
+		"keywords": [
+			"mail",
+			"email",
+			"at",
+			"address",
+			"contact",
+			"communication",
+			"internet",
+			"online"
+		],
+		"categories": [
+			"communication",
+			"ui"
+		]
 	},
 	"ban": {
-		"keywords": ["forbidden", "stop", "prohibited", "cancel", "no", "restrict", "block", "not-allowed"],
-		"categories": ["ui", "security"]
+		"keywords": [
+			"forbidden",
+			"stop",
+			"prohibited",
+			"cancel",
+			"no",
+			"restrict",
+			"block",
+			"not-allowed"
+		],
+		"categories": [
+			"ui",
+			"security"
+		]
 	},
 	"bandage": {
-		"keywords": ["medical", "health", "injury", "wound", "fix", "patch", "heal"],
-		"categories": ["medical", "objects"]
+		"keywords": [
+			"medical",
+			"health",
+			"injury",
+			"wound",
+			"fix",
+			"patch",
+			"heal"
+		],
+		"categories": [
+			"medical",
+			"objects"
+		]
 	},
 	"bar-chart": {
-		"keywords": ["signal", "graph", "stats", "data", "analytics", "report", "metrics", "diagram", "visualization"],
-		"categories": ["data-and-analytics", "ui"]
+		"keywords": [
+			"signal",
+			"graph",
+			"stats",
+			"data",
+			"analytics",
+			"report",
+			"metrics",
+			"diagram",
+			"visualization"
+		],
+		"categories": [
+			"data-and-analytics",
+			"ui"
+		]
 	},
 	"bars": {
-		"keywords": ["menu", "burger", "navigation", "list", "options", "items", "hamburger", "stack"],
-		"categories": ["ui", "layout"]
+		"keywords": [
+			"menu",
+			"burger",
+			"navigation",
+			"list",
+			"options",
+			"items",
+			"hamburger",
+			"stack"
+		],
+		"categories": [
+			"ui",
+			"layout"
+		]
 	},
 	"basket": {
-		"keywords": ["cart", "shop", "buy", "grocery", "container", "shopping", "purchase", "store", "market"],
-		"categories": ["objects", "finance-and-money"]
+		"keywords": [
+			"cart",
+			"shop",
+			"buy",
+			"grocery",
+			"container",
+			"shopping",
+			"purchase",
+			"store",
+			"market"
+		],
+		"categories": [
+			"objects",
+			"finance-and-money"
+		]
 	},
 	"battery": {
-		"keywords": ["power", "energy", "charge", "status", "empty"],
-		"categories": ["objects", "ui"],
+		"keywords": [
+			"power",
+			"energy",
+			"charge",
+			"status",
+			"empty"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		],
 		"variant": "battery"
 	},
 	"battery-charging": {
-		"keywords": ["power", "energy", "charge", "charging", "lightning", "flash"],
-		"categories": ["objects", "ui"],
+		"keywords": [
+			"power",
+			"energy",
+			"charge",
+			"charging",
+			"lightning",
+			"flash"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		],
 		"variant": "battery"
 	},
 	"battery-full": {
-		"keywords": ["power", "energy", "charge", "status", "full", "100%"],
-		"categories": ["objects", "ui"],
+		"keywords": [
+			"power",
+			"energy",
+			"charge",
+			"status",
+			"full",
+			"100%"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		],
 		"variant": "battery"
 	},
 	"battery-half": {
-		"keywords": ["power", "energy", "charge", "status", "half", "medium", "50%"],
-		"categories": ["objects", "ui"],
+		"keywords": [
+			"power",
+			"energy",
+			"charge",
+			"status",
+			"half",
+			"medium",
+			"50%"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		],
 		"variant": "battery"
 	},
 	"beer": {
-		"keywords": ["drink", "beverage", "alcohol", "lager", "pint", "pub", "bar", "cheers", "party", "celebration"],
-		"categories": ["food-and-drink", "objects"]
+		"keywords": [
+			"drink",
+			"beverage",
+			"alcohol",
+			"lager",
+			"pint",
+			"pub",
+			"bar",
+			"cheers",
+			"party",
+			"celebration"
+		],
+		"categories": [
+			"food-and-drink",
+			"objects"
+		]
 	},
 	"bell": {
-		"keywords": ["notification", "alert", "ring", "alarm", "reminder", "chime", "sound", "notice"],
-		"categories": ["time-and-notifications", "ui"],
+		"keywords": [
+			"notification",
+			"alert",
+			"ring",
+			"alarm",
+			"reminder",
+			"chime",
+			"sound",
+			"notice"
+		],
+		"categories": [
+			"time-and-notifications",
+			"ui"
+		],
 		"variant": "bell"
 	},
 	"bell-off": {
-		"keywords": ["notification", "alert", "silent", "quiet", "mute", "disable", "deactivate", "silence"],
-		"categories": ["time-and-notifications", "ui"],
+		"keywords": [
+			"notification",
+			"alert",
+			"silent",
+			"quiet",
+			"mute",
+			"disable",
+			"deactivate",
+			"silence"
+		],
+		"categories": [
+			"time-and-notifications",
+			"ui"
+		],
 		"variant": "bell"
 	},
 	"bike": {
-		"keywords": ["travel", "transport", "vehicle", "cycle", "ride", "bicycle", "pedal", "cycling", "biking"],
-		"categories": ["transport", "objects"]
+		"keywords": [
+			"travel",
+			"transport",
+			"vehicle",
+			"cycle",
+			"ride",
+			"bicycle",
+			"pedal",
+			"cycling",
+			"biking"
+		],
+		"categories": [
+			"transport",
+			"objects"
+		]
 	},
 	"bold": {
-		"keywords": ["format", "style", "typo", "text", "emphasis", "strong", "thick", "heavy", "prominent"],
-		"categories": ["text-formatting", "ui"]
+		"keywords": [
+			"format",
+			"style",
+			"typo",
+			"text",
+			"emphasis",
+			"strong",
+			"thick",
+			"heavy",
+			"prominent"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		]
 	},
 	"book": {
-		"keywords": ["read", "learn", "study", "knowledge", "education", "library", "documentation", "guide"],
-		"categories": ["objects", "text-formatting"],
+		"keywords": [
+			"read",
+			"learn",
+			"study",
+			"knowledge",
+			"education",
+			"library",
+			"documentation",
+			"guide"
+		],
+		"categories": [
+			"objects",
+			"text-formatting"
+		],
 		"variant": "book"
 	},
 	"book-open": {
-		"keywords": ["read", "learn", "study", "knowledge", "education", "library", "open"],
-		"categories": ["objects", "text-formatting"],
+		"keywords": [
+			"read",
+			"learn",
+			"study",
+			"knowledge",
+			"education",
+			"library",
+			"open"
+		],
+		"categories": [
+			"objects",
+			"text-formatting"
+		],
 		"variant": "book"
 	},
 	"bookmark": {
-		"keywords": ["favorite", "save", "marker", "read", "label", "tag", "flag", "remember"],
-		"categories": ["ui", "objects"]
+		"keywords": [
+			"favorite",
+			"save",
+			"marker",
+			"read",
+			"label",
+			"tag",
+			"flag",
+			"remember"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"box": {
-		"keywords": ["package", "container", "storage", "archive", "delivery", "product"],
-		"categories": ["objects"]
+		"keywords": [
+			"package",
+			"container",
+			"storage",
+			"archive",
+			"delivery",
+			"product"
+		],
+		"categories": [
+			"objects"
+		]
 	},
 	"brand-android": {
-		"keywords": ["brand", "logo", "mobile", "os", "google", "phone"],
-		"categories": ["brands"]
+		"keywords": [
+			"brand",
+			"logo",
+			"mobile",
+			"os",
+			"google",
+			"phone"
+		],
+		"categories": [
+			"brands"
+		]
 	},
 	"brand-apple": {
-		"keywords": ["brand", "logo", "mobile", "os", "mac", "ios", "iphone"],
-		"categories": ["brands"]
+		"keywords": [
+			"brand",
+			"logo",
+			"mobile",
+			"os",
+			"mac",
+			"ios",
+			"iphone"
+		],
+		"categories": [
+			"brands"
+		]
 	},
 	"brand-facebook": {
-		"keywords": ["social", "network", "community", "fb", "meta", "connect", "platform", "share"],
-		"categories": ["brands", "social"]
+		"keywords": [
+			"social",
+			"network",
+			"community",
+			"fb",
+			"meta",
+			"connect",
+			"platform",
+			"share"
+		],
+		"categories": [
+			"brands",
+			"social"
+		]
 	},
 	"brand-github": {
-		"keywords": ["brand", "logo", "git", "code", "repository", "development", "version-control"],
-		"categories": ["brands", "development-and-code"]
+		"keywords": [
+			"brand",
+			"logo",
+			"git",
+			"code",
+			"repository",
+			"development",
+			"version-control"
+		],
+		"categories": [
+			"brands",
+			"development-and-code"
+		]
 	},
 	"brand-home-assistant": {
-		"keywords": ["brand", "logo", "smarthome", "automation", "iot"],
-		"categories": ["brands"]
+		"keywords": [
+			"brand",
+			"logo",
+			"smarthome",
+			"automation",
+			"iot"
+		],
+		"categories": [
+			"brands"
+		]
 	},
 	"brand-instagram": {
-		"keywords": ["social", "photo", "picture", "ig", "gram", "filter", "camera", "share", "stories"],
-		"categories": ["brands", "social"]
+		"keywords": [
+			"social",
+			"photo",
+			"picture",
+			"ig",
+			"gram",
+			"filter",
+			"camera",
+			"share",
+			"stories"
+		],
+		"categories": [
+			"brands",
+			"social"
+		]
 	},
 	"brand-php": {
-		"keywords": ["brand", "logo", "code", "development", "programming", "web"],
-		"categories": ["brands", "development-and-code"]
+		"keywords": [
+			"brand",
+			"logo",
+			"code",
+			"development",
+			"programming",
+			"web"
+		],
+		"categories": [
+			"brands",
+			"development-and-code"
+		]
 	},
 	"brand-twitter": {
-		"keywords": ["social", "tweet", "bird", "microblog", "post", "feed", "message", "share"],
-		"categories": ["brands", "social"]
+		"keywords": [
+			"social",
+			"tweet",
+			"bird",
+			"microblog",
+			"post",
+			"feed",
+			"message",
+			"share"
+		],
+		"categories": [
+			"brands",
+			"social"
+		]
 	},
 	"brand-x": {
-		"keywords": ["social", "twitter", "network", "community", "elon", "musk", "platform", "microblog"],
-		"categories": ["brands", "social"]
+		"keywords": [
+			"social",
+			"twitter",
+			"network",
+			"community",
+			"elon",
+			"musk",
+			"platform",
+			"microblog"
+		],
+		"categories": [
+			"brands",
+			"social"
+		]
 	},
 	"briefcase": {
-		"keywords": ["work", "business", "job", "office", "portfolio", "case", "bag", "career"],
-		"categories": ["objects"]
+		"keywords": [
+			"work",
+			"business",
+			"job",
+			"office",
+			"portfolio",
+			"case",
+			"bag",
+			"career"
+		],
+		"categories": [
+			"objects"
+		]
 	},
 	"brush-big": {
-		"keywords": ["paint", "style", "theme", "color", "draw", "art", "design", "creative", "artistic"],
-		"categories": ["ui", "objects"]
+		"keywords": [
+			"paint",
+			"style",
+			"theme",
+			"color",
+			"draw",
+			"art",
+			"design",
+			"creative",
+			"artistic"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"building": {
-		"keywords": ["house", "residence", "habitat", "structure", "property", "home", "office", "workplace", "architecture", "apartment", "construction", "tower"],
-		"categories": ["objects", "maps-and-location"]
+		"keywords": [
+			"house",
+			"residence",
+			"habitat",
+			"structure",
+			"property",
+			"home",
+			"office",
+			"workplace",
+			"architecture",
+			"apartment",
+			"construction",
+			"tower"
+		],
+		"categories": [
+			"objects",
+			"maps-and-location"
+		]
 	},
 	"bulb": {
-		"keywords": ["light", "idea", "innovation", "inspiration", "bright", "smart", "creative", "concept", "thought"],
-		"categories": ["objects", "ui"],
+		"keywords": [
+			"light",
+			"idea",
+			"innovation",
+			"inspiration",
+			"bright",
+			"smart",
+			"creative",
+			"concept",
+			"thought"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		],
 		"variant": "bulb"
 	},
 	"bulb-off": {
-		"keywords": ["light", "idea", "dark", "off", "inactive", "unlit", "extinguished", "darkness"],
-		"categories": ["objects", "ui"],
+		"keywords": [
+			"light",
+			"idea",
+			"dark",
+			"off",
+			"inactive",
+			"unlit",
+			"extinguished",
+			"darkness"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		],
 		"variant": "bulb"
 	},
 	"calendar": {
-		"keywords": ["date", "time", "event", "schedule", "appointment", "day", "month", "year", "planner"],
-		"categories": ["time-and-notifications", "ui"]
+		"keywords": [
+			"date",
+			"time",
+			"event",
+			"schedule",
+			"appointment",
+			"day",
+			"month",
+			"year",
+			"planner"
+		],
+		"categories": [
+			"time-and-notifications",
+			"ui"
+		]
 	},
 	"camera": {
-		"keywords": ["photo", "picture", "capture", "shoot", "image", "lens", "snapshot", "photography", "record"],
-		"categories": ["media", "objects"],
+		"keywords": [
+			"photo",
+			"picture",
+			"capture",
+			"shoot",
+			"image",
+			"lens",
+			"snapshot",
+			"photography",
+			"record"
+		],
+		"categories": [
+			"media",
+			"objects"
+		],
 		"variant": "camera"
 	},
 	"camera-off": {
-		"keywords": ["photo", "picture", "capture", "off", "disabled", "inactive", "privacy", "hidden"],
-		"categories": ["media", "objects"],
+		"keywords": [
+			"photo",
+			"picture",
+			"capture",
+			"off",
+			"disabled",
+			"inactive",
+			"privacy",
+			"hidden"
+		],
+		"categories": [
+			"media",
+			"objects"
+		],
 		"variant": "camera"
 	},
 	"camera-video": {
-		"keywords": ["record", "video", "movie", "film", "webcam", "meeting", "live"],
-		"categories": ["media", "objects"],
+		"keywords": [
+			"record",
+			"video",
+			"movie",
+			"film",
+			"webcam",
+			"meeting",
+			"live"
+		],
+		"categories": [
+			"media",
+			"objects"
+		],
 		"variant": "camera-video"
 	},
 	"camera-video-off": {
-		"keywords": ["record", "video", "off", "disabled", "privacy", "webcam", "meeting"],
-		"categories": ["media", "objects"],
+		"keywords": [
+			"record",
+			"video",
+			"off",
+			"disabled",
+			"privacy",
+			"webcam",
+			"meeting"
+		],
+		"categories": [
+			"media",
+			"objects"
+		],
 		"variant": "camera-video"
 	},
 	"car": {
-		"keywords": ["drive", "travel", "transport", "vehicle", "automobile", "auto", "sedan", "transportation", "journey"],
-		"categories": ["transport", "objects"]
+		"keywords": [
+			"drive",
+			"travel",
+			"transport",
+			"vehicle",
+			"automobile",
+			"auto",
+			"sedan",
+			"transportation",
+			"journey"
+		],
+		"categories": [
+			"transport",
+			"objects"
+		]
 	},
 	"cart": {
-		"keywords": ["basket", "shop", "buy", "purchase", "shopping", "trolley", "checkout", "ecommerce", "store"],
-		"categories": ["objects", "finance-and-money"]
+		"keywords": [
+			"basket",
+			"shop",
+			"buy",
+			"purchase",
+			"shopping",
+			"trolley",
+			"checkout",
+			"ecommerce",
+			"store"
+		],
+		"categories": [
+			"objects",
+			"finance-and-money"
+		]
 	},
 	"certificate": {
-		"keywords": ["award", "diploma", "achievement", "badge", "honor", "credential", "recognition", "degree", "qualification"],
-		"categories": ["objects"],
+		"keywords": [
+			"award",
+			"diploma",
+			"achievement",
+			"badge",
+			"honor",
+			"credential",
+			"recognition",
+			"degree",
+			"qualification"
+		],
+		"categories": [
+			"objects"
+		],
 		"variant": "certificate"
 	},
 	"certificate-check": {
-		"keywords": ["award", "verified", "approved", "secure", "badge", "credential", "guarantee"],
-		"categories": ["objects", "security"],
+		"keywords": [
+			"award",
+			"verified",
+			"approved",
+			"secure",
+			"badge",
+			"credential",
+			"guarantee"
+		],
+		"categories": [
+			"objects",
+			"security"
+		],
 		"variant": "certificate"
 	},
 	"certificate-off": {
-		"keywords": ["award", "unverified", "insecure", "badge", "revoked"],
-		"categories": ["objects", "security"],
+		"keywords": [
+			"award",
+			"unverified",
+			"insecure",
+			"badge",
+			"revoked"
+		],
+		"categories": [
+			"objects",
+			"security"
+		],
 		"variant": "certificate"
 	},
-
 	"chat": {
-		"keywords": ["speak", "talk", "conversation", "message", "dialog", "communication", "discussion", "converse"],
-		"categories": ["communication", "ui"]
+		"keywords": [
+			"speak",
+			"talk",
+			"conversation",
+			"message",
+			"dialog",
+			"communication",
+			"discussion",
+			"converse"
+		],
+		"categories": [
+			"communication",
+			"ui"
+		]
 	},
 	"chats": {
-		"keywords": ["speak", "dialog", "conversation", "talk", "discussion", "messages", "communication", "threads", "bubbles"],
-		"categories": ["communication", "ui"]
+		"keywords": [
+			"speak",
+			"dialog",
+			"conversation",
+			"talk",
+			"discussion",
+			"messages",
+			"communication",
+			"threads",
+			"bubbles"
+		],
+		"categories": [
+			"communication",
+			"ui"
+		]
 	},
 	"check": {
-		"keywords": ["tick", "confirm", "ok", "done", "accept", "verified", "approved", "completed", "success"],
-		"categories": ["ui"],
+		"keywords": [
+			"tick",
+			"confirm",
+			"ok",
+			"done",
+			"accept",
+			"verified",
+			"approved",
+			"completed",
+			"success"
+		],
+		"categories": [
+			"ui"
+		],
 		"variant": "check"
 	},
 	"check-circle": {
-		"keywords": ["tick", "confirm", "ok", "done", "accept", "circle", "verified", "approved", "completed"],
-		"categories": ["ui"],
+		"keywords": [
+			"tick",
+			"confirm",
+			"ok",
+			"done",
+			"accept",
+			"circle",
+			"verified",
+			"approved",
+			"completed"
+		],
+		"categories": [
+			"ui"
+		],
 		"variant": "check"
 	},
 	"chevron-down": {
-		"keywords": ["arrow", "down", "expand", "dropdown", "collapse", "downward", "descend", "lower"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"down",
+			"expand",
+			"dropdown",
+			"collapse",
+			"downward",
+			"descend",
+			"lower"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "chevron"
 	},
 	"chevron-left": {
-		"keywords": ["arrow", "left", "previous", "back", "backward", "return", "retreat", "navigation"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"left",
+			"previous",
+			"back",
+			"backward",
+			"return",
+			"retreat",
+			"navigation"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "chevron"
 	},
 	"chevron-right": {
-		"keywords": ["arrow", "right", "next", "forward", "advance", "proceed", "continue", "navigation"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"right",
+			"next",
+			"forward",
+			"advance",
+			"proceed",
+			"continue",
+			"navigation"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "chevron"
 	},
 	"chevron-up": {
-		"keywords": ["arrow", "up", "collapse", "expand", "upward", "ascend", "higher", "rise"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"arrow",
+			"up",
+			"collapse",
+			"expand",
+			"upward",
+			"ascend",
+			"higher",
+			"rise"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "chevron"
 	},
 	"circle": {
-		"keywords": ["shape", "round", "dot", "radio-button", "empty"],
-		"categories": ["objects", "ui"]
+		"keywords": [
+			"shape",
+			"round",
+			"dot",
+			"radio-button",
+			"empty"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		]
 	},
 	"clipboard": {
-		"keywords": ["copy", "paste", "notes", "tasks", "checklist", "document"],
-		"categories": ["objects", "ui"]
+		"keywords": [
+			"copy",
+			"paste",
+			"notes",
+			"tasks",
+			"checklist",
+			"document"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		]
 	},
 	"clock": {
-		"keywords": ["time", "date", "hour", "minute", "watch", "timer", "schedule", "alarm", "chronometer"],
-		"categories": ["time-and-notifications", "objects"]
+		"keywords": [
+			"time",
+			"date",
+			"hour",
+			"minute",
+			"watch",
+			"timer",
+			"schedule",
+			"alarm",
+			"chronometer"
+		],
+		"categories": [
+			"time-and-notifications",
+			"objects"
+		]
 	},
 	"cloud": {
-		"keywords": ["weather", "sky", "storage", "online", "server", "data", "save", "upload", "service"],
-		"categories": ["weather", "development-and-code"]
+		"keywords": [
+			"weather",
+			"sky",
+			"storage",
+			"online",
+			"server",
+			"data",
+			"save",
+			"upload",
+			"service"
+		],
+		"categories": [
+			"weather",
+			"development-and-code"
+		]
 	},
 	"cloud-sun": {
-		"keywords": ["weather", "sky", "sunny", "partly", "cloudy", "forecast", "climate", "meteorology"],
-		"categories": ["weather"]
+		"keywords": [
+			"weather",
+			"sky",
+			"sunny",
+			"partly",
+			"cloudy",
+			"forecast",
+			"climate",
+			"meteorology"
+		],
+		"categories": [
+			"weather"
+		]
 	},
 	"club": {
-		"keywords": ["poker", "card", "game", "casino", "gambling", "playing", "clover", "suit"],
-		"categories": ["gaming", "objects"]
+		"keywords": [
+			"poker",
+			"card",
+			"game",
+			"casino",
+			"gambling",
+			"playing",
+			"clover",
+			"suit"
+		],
+		"categories": [
+			"gaming",
+			"objects"
+		]
 	},
 	"code": {
-		"keywords": ["development", "programming", "html", "css", "script", "source", "embed", "tags"],
-		"categories": ["development-and-code"]
+		"keywords": [
+			"development",
+			"programming",
+			"html",
+			"css",
+			"script",
+			"source",
+			"embed",
+			"tags"
+		],
+		"categories": [
+			"development-and-code"
+		]
 	},
 	"coffee": {
-		"keywords": ["drink", "cup", "mug", "cafe", "break", "beverage", "hot"],
-		"categories": ["food-and-drink", "objects"]
+		"keywords": [
+			"drink",
+			"cup",
+			"mug",
+			"cafe",
+			"break",
+			"beverage",
+			"hot"
+		],
+		"categories": [
+			"food-and-drink",
+			"objects"
+		]
 	},
 	"cog": {
-		"keywords": ["settings", "gear", "preferences", "options", "working", "mechanism", "system", "loading", "progress", "loader", "waiting", "configure", "wheel", "setup"],
-		"categories": ["settings-and-controls", "ui"]
+		"keywords": [
+			"settings",
+			"gear",
+			"preferences",
+			"options",
+			"working",
+			"mechanism",
+			"system",
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"configure",
+			"wheel",
+			"setup"
+		],
+		"categories": [
+			"settings-and-controls",
+			"ui"
+		]
 	},
 	"cog-2": {
-		"keywords": ["settings", "gear", "preferences", "options", "working", "mechanism", "system", "loading", "progress", "loader", "waiting", "configure", "wheel", "setup", "double"],
-		"categories": ["settings-and-controls", "ui"]
+		"keywords": [
+			"settings",
+			"gear",
+			"preferences",
+			"options",
+			"working",
+			"mechanism",
+			"system",
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"configure",
+			"wheel",
+			"setup",
+			"double"
+		],
+		"categories": [
+			"settings-and-controls",
+			"ui"
+		]
 	},
 	"coins": {
-		"keywords": ["money", "cash", "currency", "coinage", "finance", "payment", "wealth", "token", "crypto", "dollar"],
-		"categories": ["finance-and-money", "objects"]
+		"keywords": [
+			"money",
+			"cash",
+			"currency",
+			"coinage",
+			"finance",
+			"payment",
+			"wealth",
+			"token",
+			"crypto",
+			"dollar"
+		],
+		"categories": [
+			"finance-and-money",
+			"objects"
+		]
 	},
 	"columns-one-two-thirds": {
-		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
-		"categories": ["layout", "ui"],
+		"keywords": [
+			"layout",
+			"grid",
+			"table",
+			"structure",
+			"design",
+			"template",
+			"format",
+			"organization",
+			"arrangement"
+		],
+		"categories": [
+			"layout",
+			"ui"
+		],
 		"variant": "columns"
 	},
 	"columns-three-thirds": {
-		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
-		"categories": ["layout", "ui"],
+		"keywords": [
+			"layout",
+			"grid",
+			"table",
+			"structure",
+			"design",
+			"template",
+			"format",
+			"organization",
+			"arrangement"
+		],
+		"categories": [
+			"layout",
+			"ui"
+		],
 		"variant": "columns"
 	},
 	"columns-two-halfs": {
-		"keywords": ["layout", "grid", "table", "structure", "design", "template", "format", "organization", "arrangement"],
-		"categories": ["layout", "ui"],
+		"keywords": [
+			"layout",
+			"grid",
+			"table",
+			"structure",
+			"design",
+			"template",
+			"format",
+			"organization",
+			"arrangement"
+		],
+		"categories": [
+			"layout",
+			"ui"
+		],
 		"variant": "columns"
 	},
 	"corner-down-left": {
-		"keywords": ["arrow", "corner", "turn", "direction", "down", "left"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"corner",
+			"turn",
+			"direction",
+			"down",
+			"left"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "corner"
 	},
 	"corner-down-right": {
-		"keywords": ["arrow", "corner", "turn", "direction", "down", "right"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"corner",
+			"turn",
+			"direction",
+			"down",
+			"right"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "corner"
 	},
 	"corner-left-down": {
-		"keywords": ["arrow", "corner", "turn", "direction", "left", "down"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"corner",
+			"turn",
+			"direction",
+			"left",
+			"down"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "corner"
 	},
 	"corner-left-up": {
-		"keywords": ["arrow", "corner", "turn", "direction", "left", "up"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"corner",
+			"turn",
+			"direction",
+			"left",
+			"up"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "corner"
 	},
 	"corner-right-down": {
-		"keywords": ["arrow", "corner", "turn", "direction", "right", "down"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"corner",
+			"turn",
+			"direction",
+			"right",
+			"down"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "corner"
 	},
 	"corner-right-up": {
-		"keywords": ["arrow", "corner", "turn", "direction", "right", "up"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"corner",
+			"turn",
+			"direction",
+			"right",
+			"up"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "corner"
 	},
 	"corner-top-left": {
-		"keywords": ["arrow", "corner", "turn", "direction", "top", "left"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"corner",
+			"turn",
+			"direction",
+			"top",
+			"left"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "corner"
 	},
 	"corner-up-right": {
-		"keywords": ["arrow", "corner", "turn", "direction", "up", "right"],
-		"categories": ["arrows"],
+		"keywords": [
+			"arrow",
+			"corner",
+			"turn",
+			"direction",
+			"up",
+			"right"
+		],
+		"categories": [
+			"arrows"
+		],
 		"variant": "corner"
 	},
 	"cpu": {
-		"keywords": ["processor", "chip", "computer", "hardware", "memory", "technology", "microchip"],
-		"categories": ["objects", "development-and-code"]
+		"keywords": [
+			"processor",
+			"chip",
+			"computer",
+			"hardware",
+			"memory",
+			"technology",
+			"microchip"
+		],
+		"categories": [
+			"objects",
+			"development-and-code"
+		]
 	},
 	"creative-commons": {
-		"keywords": ["license", "copyright", "creative", "commons", "cc"],
-		"categories": ["objects"]
+		"keywords": [
+			"license",
+			"copyright",
+			"creative",
+			"commons",
+			"cc"
+		],
+		"categories": [
+			"objects"
+		]
 	},
 	"creative-commons-by": {
-		"keywords": ["license", "copyright", "creative", "commons", "cc", "attribution"],
-		"categories": ["objects"]
+		"keywords": [
+			"license",
+			"copyright",
+			"creative",
+			"commons",
+			"cc",
+			"attribution"
+		],
+		"categories": [
+			"objects"
+		]
 	},
 	"creative-commons-nd": {
-		"keywords": ["license", "copyright", "creative", "commons", "cc", "no-derivatives"],
-		"categories": ["objects"]
+		"keywords": [
+			"license",
+			"copyright",
+			"creative",
+			"commons",
+			"cc",
+			"no-derivatives"
+		],
+		"categories": [
+			"objects"
+		]
 	},
 	"creative-commons-sa": {
-		"keywords": ["license", "copyright", "creative", "commons", "cc", "share-alike"],
-		"categories": ["objects"]
+		"keywords": [
+			"license",
+			"copyright",
+			"creative",
+			"commons",
+			"cc",
+			"share-alike"
+		],
+		"categories": [
+			"objects"
+		]
 	},
 	"credit-card": {
-		"keywords": ["pay", "money", "payment", "transaction", "banking", "finance", "purchase", "checkout", "debit"],
-		"categories": ["finance-and-money", "objects"]
+		"keywords": [
+			"pay",
+			"money",
+			"payment",
+			"transaction",
+			"banking",
+			"finance",
+			"purchase",
+			"checkout",
+			"debit"
+		],
+		"categories": [
+			"finance-and-money",
+			"objects"
+		]
 	},
 	"crop": {
-		"keywords": ["edit", "image", "photo", "resize", "cut", "trim", "frame"],
-		"categories": ["media", "ui"]
+		"keywords": [
+			"edit",
+			"image",
+			"photo",
+			"resize",
+			"cut",
+			"trim",
+			"frame"
+		],
+		"categories": [
+			"media",
+			"ui"
+		]
 	},
 	"crown": {
-		"keywords": ["king", "queen", "royal", "admin", "premium", "leader", "winner"],
-		"categories": ["objects"]
+		"keywords": [
+			"king",
+			"queen",
+			"royal",
+			"admin",
+			"premium",
+			"leader",
+			"winner"
+		],
+		"categories": [
+			"objects"
+		]
 	},
 	"currency-dollar-circle": {
-		"keywords": ["money", "finance", "payment", "cash", "usd", "dollar"],
-		"categories": ["finance-and-money"]
+		"keywords": [
+			"money",
+			"finance",
+			"payment",
+			"cash",
+			"usd",
+			"dollar"
+		],
+		"categories": [
+			"finance-and-money"
+		]
 	},
 	"currency-euro-circle": {
-		"keywords": ["money", "finance", "payment", "cash", "eur", "euro"],
-		"categories": ["finance-and-money"]
+		"keywords": [
+			"money",
+			"finance",
+			"payment",
+			"cash",
+			"eur",
+			"euro"
+		],
+		"categories": [
+			"finance-and-money"
+		]
 	},
 	"currency-pound-circle": {
-		"keywords": ["money", "finance", "payment", "cash", "gbp", "pound"],
-		"categories": ["finance-and-money"]
+		"keywords": [
+			"money",
+			"finance",
+			"payment",
+			"cash",
+			"gbp",
+			"pound"
+		],
+		"categories": [
+			"finance-and-money"
+		]
 	},
 	"cursor": {
-		"keywords": ["pointer", "mouse", "select", "click", "arrow"],
-		"categories": ["ui"]
+		"keywords": [
+			"pointer",
+			"mouse",
+			"select",
+			"click",
+			"arrow"
+		],
+		"categories": [
+			"ui"
+		]
 	},
 	"dashboard": {
-		"keywords": ["layout", "interface", "control", "panel", "overview", "analytics", "metrics", "summary", "monitor"],
-		"categories": ["layout", "data-and-analytics", "ui"]
+		"keywords": [
+			"layout",
+			"interface",
+			"control",
+			"panel",
+			"overview",
+			"analytics",
+			"metrics",
+			"summary",
+			"monitor"
+		],
+		"categories": [
+			"layout",
+			"data-and-analytics",
+			"ui"
+		]
 	},
 	"database": {
-		"keywords": ["data", "storage", "server", "sql", "stack", "records"],
-		"categories": ["data-and-analytics", "development-and-code"]
+		"keywords": [
+			"data",
+			"storage",
+			"server",
+			"sql",
+			"stack",
+			"records"
+		],
+		"categories": [
+			"data-and-analytics",
+			"development-and-code"
+		]
 	},
 	"desktop": {
-		"keywords": ["monitor", "screen", "computer", "display", "pc", "workstation", "desktop", "machine", "device"],
-		"categories": ["objects", "development-and-code"]
+		"keywords": [
+			"monitor",
+			"screen",
+			"computer",
+			"display",
+			"pc",
+			"workstation",
+			"desktop",
+			"machine",
+			"device"
+		],
+		"categories": [
+			"objects",
+			"development-and-code"
+		]
 	},
 	"document": {
-		"keywords": ["file", "paper", "record", "report", "page", "text", "sheet", "note", "doc"],
-		"categories": ["files-and-folders", "text-formatting"],
+		"keywords": [
+			"file",
+			"paper",
+			"record",
+			"report",
+			"page",
+			"text",
+			"sheet",
+			"note",
+			"doc"
+		],
+		"categories": [
+			"files-and-folders",
+			"text-formatting"
+		],
 		"variant": "document"
 	},
 	"document-add": {
-		"keywords": ["file", "new", "create", "add", "page", "sheet", "generate", "produce", "compose"],
-		"categories": ["files-and-folders", "ui"],
+		"keywords": [
+			"file",
+			"new",
+			"create",
+			"add",
+			"page",
+			"sheet",
+			"generate",
+			"produce",
+			"compose"
+		],
+		"categories": [
+			"files-and-folders",
+			"ui"
+		],
 		"variant": "document"
 	},
 	"document-remove": {
-		"keywords": ["file", "delete", "remove", "discard", "page", "sheet", "eliminate", "erase", "trash"],
-		"categories": ["files-and-folders", "ui"],
+		"keywords": [
+			"file",
+			"delete",
+			"remove",
+			"discard",
+			"page",
+			"sheet",
+			"eliminate",
+			"erase",
+			"trash"
+		],
+		"categories": [
+			"files-and-folders",
+			"ui"
+		],
 		"variant": "document"
 	},
 	"documents": {
-		"keywords": ["files", "stack", "copy", "multiple", "collection", "paperwork"],
-		"categories": ["files-and-folders"]
+		"keywords": [
+			"files",
+			"stack",
+			"copy",
+			"multiple",
+			"collection",
+			"paperwork"
+		],
+		"categories": [
+			"files-and-folders"
+		]
 	},
 	"dots-horizontal": {
-		"keywords": ["more", "options", "menu", "kebab", "settings", "extra", "list"],
-		"categories": ["ui"]
+		"keywords": [
+			"more",
+			"options",
+			"menu",
+			"kebab",
+			"settings",
+			"extra",
+			"list"
+		],
+		"categories": [
+			"ui"
+		]
 	},
 	"dots-vertical": {
-		"keywords": ["more", "options", "menu", "kebab", "settings", "extra", "list", "vertical"],
-		"categories": ["ui"]
+		"keywords": [
+			"more",
+			"options",
+			"menu",
+			"kebab",
+			"settings",
+			"extra",
+			"list",
+			"vertical"
+		],
+		"categories": [
+			"ui"
+		]
 	},
 	"download": {
-		"keywords": ["cloud", "save", "transfer", "get", "arrow", "obtain", "retrieve", "fetch", "acquire"],
-		"categories": ["ui", "files-and-folders", "arrows"]
+		"keywords": [
+			"cloud",
+			"save",
+			"transfer",
+			"get",
+			"arrow",
+			"obtain",
+			"retrieve",
+			"fetch",
+			"acquire"
+		],
+		"categories": [
+			"ui",
+			"files-and-folders",
+			"arrows"
+		]
 	},
 	"download-alt": {
-		"keywords": ["cloud", "save", "transfer", "get", "arrow", "obtain", "local", "disk"],
-		"categories": ["ui", "files-and-folders", "arrows"]
+		"keywords": [
+			"cloud",
+			"save",
+			"transfer",
+			"get",
+			"arrow",
+			"obtain",
+			"local",
+			"disk"
+		],
+		"categories": [
+			"ui",
+			"files-and-folders",
+			"arrows"
+		]
 	},
 	"droplet": {
-		"keywords": ["color", "water", "liquid", "drop", "tear", "rain", "wet", "fluid", "paint"],
-		"categories": ["weather", "objects", "ui"]
+		"keywords": [
+			"color",
+			"water",
+			"liquid",
+			"drop",
+			"tear",
+			"rain",
+			"wet",
+			"fluid",
+			"paint"
+		],
+		"categories": [
+			"weather",
+			"objects",
+			"ui"
+		]
 	},
 	"duplicate": {
-		"keywords": ["copy", "clone", "replicate", "files", "layers", "paste"],
-		"categories": ["ui", "files-and-folders"]
+		"keywords": [
+			"copy",
+			"clone",
+			"replicate",
+			"files",
+			"layers",
+			"paste"
+		],
+		"categories": [
+			"ui",
+			"files-and-folders"
+		]
 	},
 	"exchange-horizontal": {
-		"keywords": ["swap", "replace", "transfer", "arrows", "transaction", "switch"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"swap",
+			"replace",
+			"transfer",
+			"arrows",
+			"transaction",
+			"switch"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "exchange"
 	},
 	"exchange-vertical": {
-		"keywords": ["swap", "replace", "transfer", "arrows", "transaction", "switch"],
-		"categories": ["arrows", "ui"],
+		"keywords": [
+			"swap",
+			"replace",
+			"transfer",
+			"arrows",
+			"transaction",
+			"switch"
+		],
+		"categories": [
+			"arrows",
+			"ui"
+		],
 		"variant": "exchange"
 	},
 	"exclamation": {
-		"keywords": ["warning", "alert", "error", "danger", "attention", "important"],
-		"categories": ["ui", "notifications"],
+		"keywords": [
+			"warning",
+			"alert",
+			"error",
+			"danger",
+			"attention",
+			"important"
+		],
+		"categories": [
+			"ui",
+			"notifications"
+		],
 		"variant": "exclamation"
 	},
 	"exclamation-triangle": {
-		"keywords": ["warning", "alert", "error", "danger", "attention", "caution"],
-		"categories": ["ui", "notifications"],
+		"keywords": [
+			"warning",
+			"alert",
+			"error",
+			"danger",
+			"attention",
+			"caution"
+		],
+		"categories": [
+			"ui",
+			"notifications"
+		],
 		"variant": "exclamation"
 	},
 	"expand": {
-		"keywords": ["resize", "fullscreen", "maximize", "enlarge", "scale", "arrows"],
-		"categories": ["ui", "layout"]
+		"keywords": [
+			"resize",
+			"fullscreen",
+			"maximize",
+			"enlarge",
+			"scale",
+			"arrows"
+		],
+		"categories": [
+			"ui",
+			"layout"
+		]
 	},
 	"external-link": {
-		"keywords": ["out", "open", "new", "window", "external", "redirect", "outbound", "goto", "visit"],
-		"categories": ["ui", "arrows"]
+		"keywords": [
+			"out",
+			"open",
+			"new",
+			"window",
+			"external",
+			"redirect",
+			"outbound",
+			"goto",
+			"visit"
+		],
+		"categories": [
+			"ui",
+			"arrows"
+		]
 	},
 	"eye": {
-		"keywords": ["show", "visible", "view", "see", "look", "watch", "vision", "sight", "visible"],
-		"categories": ["ui", "security"],
+		"keywords": [
+			"show",
+			"visible",
+			"view",
+			"see",
+			"look",
+			"watch",
+			"vision",
+			"sight",
+			"visible"
+		],
+		"categories": [
+			"ui",
+			"security"
+		],
 		"variant": "eye"
 	},
 	"eye-close": {
-		"keywords": ["hide", "humble", "conceal", "invisible", "privacy", "unseen", "hidden", "blind", "cover"],
-		"categories": ["ui", "security"],
+		"keywords": [
+			"hide",
+			"humble",
+			"conceal",
+			"invisible",
+			"privacy",
+			"unseen",
+			"hidden",
+			"blind",
+			"cover"
+		],
+		"categories": [
+			"ui",
+			"security"
+		],
 		"variant": "eye"
 	},
 	"eye-off": {
-		"keywords": ["hide", "invisible", "unseen", "hidden", "conceal", "blind", "private", "secret", "cover"],
-		"categories": ["ui", "security"],
+		"keywords": [
+			"hide",
+			"invisible",
+			"unseen",
+			"hidden",
+			"conceal",
+			"blind",
+			"private",
+			"secret",
+			"cover"
+		],
+		"categories": [
+			"ui",
+			"security"
+		],
 		"variant": "eye"
 	},
 	"fast-forward": {
-		"keywords": ["media", "music", "video", "next", "skip", "speed", "fast"],
-		"categories": ["media", "ui"]
+		"keywords": [
+			"media",
+			"music",
+			"video",
+			"next",
+			"skip",
+			"speed",
+			"fast"
+		],
+		"categories": [
+			"media",
+			"ui"
+		]
 	},
 	"fingerprint": {
-		"keywords": ["touch", "id", "security", "scan", "biometric", "thumb", "identity", "unique", "authentication", "verify"],
-		"categories": ["security", "users-and-people"]
+		"keywords": [
+			"touch",
+			"id",
+			"security",
+			"scan",
+			"biometric",
+			"thumb",
+			"identity",
+			"unique",
+			"authentication",
+			"verify"
+		],
+		"categories": [
+			"security",
+			"users-and-people"
+		]
 	},
 	"flag": {
-		"keywords": ["report", "mark", "country", "nation", "goal", "milestone"],
-		"categories": ["objects", "maps-and-location"]
+		"keywords": [
+			"report",
+			"mark",
+			"country",
+			"nation",
+			"goal",
+			"milestone"
+		],
+		"categories": [
+			"objects",
+			"maps-and-location"
+		]
 	},
 	"flash": {
-		"keywords": ["lightning", "bolt", "electricity", "power", "energy", "speed", "thunder", "fast", "charge", "electric"],
-		"categories": ["weather", "objects"]
+		"keywords": [
+			"lightning",
+			"bolt",
+			"electricity",
+			"power",
+			"energy",
+			"speed",
+			"thunder",
+			"fast",
+			"charge",
+			"electric"
+		],
+		"categories": [
+			"weather",
+			"objects"
+		]
 	},
 	"flask": {
-		"keywords": ["lab", "experiment", "test", "science", "chemistry", "chemical", "mixture", "reaction", "research", "laboratory", "beaker"],
-		"categories": ["objects", "medical"]
+		"keywords": [
+			"lab",
+			"experiment",
+			"test",
+			"science",
+			"chemistry",
+			"chemical",
+			"mixture",
+			"reaction",
+			"research",
+			"laboratory",
+			"beaker"
+		],
+		"categories": [
+			"objects",
+			"medical"
+		]
 	},
 	"folder": {
-		"keywords": ["directory", "file", "organize", "container", "storage", "data", "collection", "documents", "archive"],
-		"categories": ["files-and-folders", "objects"],
+		"keywords": [
+			"directory",
+			"file",
+			"organize",
+			"container",
+			"storage",
+			"data",
+			"collection",
+			"documents",
+			"archive"
+		],
+		"categories": [
+			"files-and-folders",
+			"objects"
+		],
 		"variant": "folder"
 	},
 	"folder-add": {
-		"keywords": ["directory", "new", "add", "create", "make", "generate", "produce", "establish", "compose"],
-		"categories": ["files-and-folders", "ui"],
+		"keywords": [
+			"directory",
+			"new",
+			"add",
+			"create",
+			"make",
+			"generate",
+			"produce",
+			"establish",
+			"compose"
+		],
+		"categories": [
+			"files-and-folders",
+			"ui"
+		],
 		"variant": "folder"
 	},
 	"folder-open": {
-		"keywords": ["directory", "access", "open", "view", "examine", "explore", "browse", "inspect", "check"],
-		"categories": ["files-and-folders", "ui"],
+		"keywords": [
+			"directory",
+			"access",
+			"open",
+			"view",
+			"examine",
+			"explore",
+			"browse",
+			"inspect",
+			"check"
+		],
+		"categories": [
+			"files-and-folders",
+			"ui"
+		],
 		"variant": "folder"
 	},
 	"folder-remove": {
-		"keywords": ["directory", "delete", "remove", "discard", "eliminate", "erase", "trash", "destroy", "clear"],
-		"categories": ["files-and-folders", "ui"],
+		"keywords": [
+			"directory",
+			"delete",
+			"remove",
+			"discard",
+			"eliminate",
+			"erase",
+			"trash",
+			"destroy",
+			"clear"
+		],
+		"categories": [
+			"files-and-folders",
+			"ui"
+		],
 		"variant": "folder"
 	},
 	"fork-knife": {
-		"keywords": ["food", "cutlery", "spoon", "eat", "dinner", "lunch", "breakfast", "meal", "restaurant", "dining", "utensils", "cuisine"],
-		"categories": ["food-and-drink", "objects"]
+		"keywords": [
+			"food",
+			"cutlery",
+			"spoon",
+			"eat",
+			"dinner",
+			"lunch",
+			"breakfast",
+			"meal",
+			"restaurant",
+			"dining",
+			"utensils",
+			"cuisine"
+		],
+		"categories": [
+			"food-and-drink",
+			"objects"
+		]
 	},
 	"funnel": {
-		"keywords": ["filter", "sort", "flow", "channel", "sieve", "strain", "refine", "screen", "purify"],
-		"categories": ["ui", "objects"]
+		"keywords": [
+			"filter",
+			"sort",
+			"flow",
+			"channel",
+			"sieve",
+			"strain",
+			"refine",
+			"screen",
+			"purify"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"gift": {
-		"keywords": ["present", "box", "surprise", "birthday", "christmas", "reward", "package", "offering", "donation", "present", "wrap"],
-		"categories": ["objects"]
+		"keywords": [
+			"present",
+			"box",
+			"surprise",
+			"birthday",
+			"christmas",
+			"reward",
+			"package",
+			"offering",
+			"donation",
+			"present",
+			"wrap"
+		],
+		"categories": [
+			"objects"
+		]
 	},
 	"git": {
-		"keywords": ["version", "control", "code", "repository", "branch", "commit", "push", "pull", "merge", "development", "source"],
-		"categories": ["development-and-code", "brands"]
+		"keywords": [
+			"version",
+			"control",
+			"code",
+			"repository",
+			"branch",
+			"commit",
+			"push",
+			"pull",
+			"merge",
+			"development",
+			"source"
+		],
+		"categories": [
+			"development-and-code",
+			"brands"
+		]
 	},
 	"globe": {
-		"keywords": ["language", "geo", "world", "translate", "earth", "planet", "global", "international", "worldwide", "universal"],
-		"categories": ["maps-and-location", "objects"]
+		"keywords": [
+			"language",
+			"geo",
+			"world",
+			"translate",
+			"earth",
+			"planet",
+			"global",
+			"international",
+			"worldwide",
+			"universal"
+		],
+		"categories": [
+			"maps-and-location",
+			"objects"
+		]
 	},
 	"heading": {
-		"keywords": ["typo", "format", "style", "text", "header", "title", "headline", "caption", "subject"],
-		"categories": ["text-formatting", "ui"]
+		"keywords": [
+			"typo",
+			"format",
+			"style",
+			"text",
+			"header",
+			"title",
+			"headline",
+			"caption",
+			"subject"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		]
 	},
 	"heart": {
-		"keywords": ["health", "like", "love", "favorite", "emotion", "affection", "romance", "passion", "care", "adore"],
-		"categories": ["medical", "ui"]
+		"keywords": [
+			"health",
+			"like",
+			"love",
+			"favorite",
+			"emotion",
+			"affection",
+			"romance",
+			"passion",
+			"care",
+			"adore"
+		],
+		"categories": [
+			"medical",
+			"ui"
+		]
 	},
 	"history": {
-		"keywords": ["time", "date", "timeline", "log", "record", "track", "progress", "development", "evolution"],
-		"categories": ["data-and-analytics", "ui"]
+		"keywords": [
+			"time",
+			"date",
+			"timeline",
+			"log",
+			"record",
+			"track",
+			"progress",
+			"development",
+			"evolution"
+		],
+		"categories": [
+			"data-and-analytics",
+			"ui"
+		]
 	},
 	"home": {
-		"keywords": ["house", "building", "residence", "habitat", "domicile", "dwelling", "abode", "property", "apartment"],
-		"categories": ["objects", "ui", "maps-and-location"]
+		"keywords": [
+			"house",
+			"building",
+			"residence",
+			"habitat",
+			"domicile",
+			"dwelling",
+			"abode",
+			"property",
+			"apartment"
+		],
+		"categories": [
+			"objects",
+			"ui",
+			"maps-and-location"
+		]
 	},
 	"image": {
-		"keywords": ["picture", "photo", "illustration", "snapshot", "graphic", "visual", "artwork", "portrait", "drawing"],
-		"categories": ["media"]
+		"keywords": [
+			"picture",
+			"photo",
+			"illustration",
+			"snapshot",
+			"graphic",
+			"visual",
+			"artwork",
+			"portrait",
+			"drawing"
+		],
+		"categories": [
+			"media"
+		]
 	},
 	"images": {
-		"keywords": ["picture", "photo", "gallery", "album", "collection", "pics", "photographs", "portfolio", "library", "archive"],
-		"categories": ["media"]
+		"keywords": [
+			"picture",
+			"photo",
+			"gallery",
+			"album",
+			"collection",
+			"pics",
+			"photographs",
+			"portfolio",
+			"library",
+			"archive"
+		],
+		"categories": [
+			"media"
+		]
 	},
 	"incognito": {
-		"keywords": ["hat", "undercover", "secret", "privacy", "hidden", "anonymous", "stealth", "disguise", "private"],
-		"categories": ["security", "users-and-people"]
+		"keywords": [
+			"hat",
+			"undercover",
+			"secret",
+			"privacy",
+			"hidden",
+			"anonymous",
+			"stealth",
+			"disguise",
+			"private"
+		],
+		"categories": [
+			"security",
+			"users-and-people"
+		]
 	},
 	"incognito-2": {
-		"keywords": ["hat", "undercover", "secret", "moustache", "mustache", "privacy", "disguise", "hidden", "anonymous", "mask"],
-		"categories": ["security", "users-and-people"]
+		"keywords": [
+			"hat",
+			"undercover",
+			"secret",
+			"moustache",
+			"mustache",
+			"privacy",
+			"disguise",
+			"hidden",
+			"anonymous",
+			"mask"
+		],
+		"categories": [
+			"security",
+			"users-and-people"
+		]
 	},
 	"info": {
-		"keywords": ["information", "details", "data", "knowledge", "facts", "help", "assistance", "guidance", "advice"],
-		"categories": ["ui"],
+		"keywords": [
+			"information",
+			"details",
+			"data",
+			"knowledge",
+			"facts",
+			"help",
+			"assistance",
+			"guidance",
+			"advice"
+		],
+		"categories": [
+			"ui"
+		],
 		"variant": "info"
 	},
 	"info-circle": {
-		"keywords": ["information", "details", "data", "knowledge", "facts", "help", "assistance", "guidance", "advice"],
-		"categories": ["ui"],
+		"keywords": [
+			"information",
+			"details",
+			"data",
+			"knowledge",
+			"facts",
+			"help",
+			"assistance",
+			"guidance",
+			"advice"
+		],
+		"categories": [
+			"ui"
+		],
 		"variant": "info"
 	},
 	"injection": {
-		"keywords": ["medical", "health", "vaccine", "needle", "syringe", "shot", "doctor"],
-		"categories": ["medical", "objects"]
+		"keywords": [
+			"medical",
+			"health",
+			"vaccine",
+			"needle",
+			"syringe",
+			"shot",
+			"doctor"
+		],
+		"categories": [
+			"medical",
+			"objects"
+		]
 	},
 	"italic": {
-		"keywords": ["typo", "format", "style", "text", "emphasis", "slant", "oblique", "cursive", "tilt"],
-		"categories": ["text-formatting", "ui"]
+		"keywords": [
+			"typo",
+			"format",
+			"style",
+			"text",
+			"emphasis",
+			"slant",
+			"oblique",
+			"cursive",
+			"tilt"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		]
 	},
 	"key": {
-		"keywords": ["safe", "lock", "password", "access", "secret", "private", "secure", "unlock", "keyhole", "security", "entry", "authorization"],
-		"categories": ["security", "objects"]
+		"keywords": [
+			"safe",
+			"lock",
+			"password",
+			"access",
+			"secret",
+			"private",
+			"secure",
+			"unlock",
+			"keyhole",
+			"security",
+			"entry",
+			"authorization"
+		],
+		"categories": [
+			"security",
+			"objects"
+		]
 	},
 	"layers": {
-		"keywords": ["stack", "arrange", "levels", "order", "design", "depth"],
-		"categories": ["layout", "ui"]
+		"keywords": [
+			"stack",
+			"arrange",
+			"levels",
+			"order",
+			"design",
+			"depth"
+		],
+		"categories": [
+			"layout",
+			"ui"
+		]
 	},
 	"line-chart": {
-		"keywords": ["graph", "data", "analytics", "statistics", "metrics", "trend", "performance", "report"],
-		"categories": ["data-and-analytics", "ui"]
+		"keywords": [
+			"graph",
+			"data",
+			"analytics",
+			"statistics",
+			"metrics",
+			"trend",
+			"performance",
+			"report"
+		],
+		"categories": [
+			"data-and-analytics",
+			"ui"
+		]
 	},
 	"link": {
-		"keywords": ["url", "chain", "connect", "hyperlink", "attach", "anchor"],
-		"categories": ["ui", "text-formatting"]
+		"keywords": [
+			"url",
+			"chain",
+			"connect",
+			"hyperlink",
+			"attach",
+			"anchor"
+		],
+		"categories": [
+			"ui",
+			"text-formatting"
+		]
 	},
 	"location": {
-		"keywords": ["geo", "gps", "map", "pin", "place", "position", "address", "marker", "locale", "spot", "point", "coordinates"],
-		"categories": ["maps-and-location"]
+		"keywords": [
+			"geo",
+			"gps",
+			"map",
+			"pin",
+			"place",
+			"position",
+			"address",
+			"marker",
+			"locale",
+			"spot",
+			"point",
+			"coordinates"
+		],
+		"categories": [
+			"maps-and-location"
+		]
 	},
 	"lock": {
-		"keywords": ["secure", "password", "private", "security", "locked", "protected", "safe", "closed", "padlock"],
-		"categories": ["security", "objects"],
+		"keywords": [
+			"secure",
+			"password",
+			"private",
+			"security",
+			"locked",
+			"protected",
+			"safe",
+			"closed",
+			"padlock"
+		],
+		"categories": [
+			"security",
+			"objects"
+		],
 		"variant": "lock"
 	},
 	"lock-open": {
-		"keywords": ["open", "access", "unlocked", "security", "key", "free", "available", "permit", "unrestricted"],
-		"categories": ["security", "objects"],
+		"keywords": [
+			"open",
+			"access",
+			"unlocked",
+			"security",
+			"key",
+			"free",
+			"available",
+			"permit",
+			"unrestricted"
+		],
+		"categories": [
+			"security",
+			"objects"
+		],
 		"variant": "lock"
 	},
 	"logout": {
-		"keywords": ["exit", "sign-out", "leave", "disconnect", "arrow", "door", "log-off"],
-		"categories": ["ui", "users-and-people"]
+		"keywords": [
+			"exit",
+			"sign-out",
+			"leave",
+			"disconnect",
+			"arrow",
+			"door",
+			"log-off"
+		],
+		"categories": [
+			"ui",
+			"users-and-people"
+		]
 	},
 	"mail": {
-		"keywords": ["envelope", "message", "email", "send", "post", "letter", "correspondence", "communication", "inbox"],
-		"categories": ["communication", "ui"],
+		"keywords": [
+			"envelope",
+			"message",
+			"email",
+			"send",
+			"post",
+			"letter",
+			"correspondence",
+			"communication",
+			"inbox"
+		],
+		"categories": [
+			"communication",
+			"ui"
+		],
 		"variant": "mail"
 	},
 	"mail-multi": {
-		"keywords": ["bulk", "email", "newsletter", "marketing", "multiple", "send-all"],
-		"categories": ["communication"]
+		"keywords": [
+			"bulk",
+			"email",
+			"newsletter",
+			"marketing",
+			"multiple",
+			"send-all"
+		],
+		"categories": [
+			"communication"
+		]
 	},
 	"mail-open": {
-		"keywords": ["envelope", "read", "message", "open", "viewed", "opened", "revealed", "received", "checked"],
-		"categories": ["communication", "ui"],
+		"keywords": [
+			"envelope",
+			"read",
+			"message",
+			"open",
+			"viewed",
+			"opened",
+			"revealed",
+			"received",
+			"checked"
+		],
+		"categories": [
+			"communication",
+			"ui"
+		],
 		"variant": "mail"
 	},
 	"map": {
-		"keywords": ["location", "geo", "pin", "navigation", "travel", "directions", "route", "atlas"],
-		"categories": ["maps-and-location"]
+		"keywords": [
+			"location",
+			"geo",
+			"pin",
+			"navigation",
+			"travel",
+			"directions",
+			"route",
+			"atlas"
+		],
+		"categories": [
+			"maps-and-location"
+		]
 	},
 	"maximize": {
-		"keywords": ["screen", "fullscreen", "expand", "resize", "enlarge", "grow", "increase", "extend", "amplify"],
-		"categories": ["ui", "layout"]
+		"keywords": [
+			"screen",
+			"fullscreen",
+			"expand",
+			"resize",
+			"enlarge",
+			"grow",
+			"increase",
+			"extend",
+			"amplify"
+		],
+		"categories": [
+			"ui",
+			"layout"
+		]
 	},
 	"microphone": {
-		"keywords": ["record", "sound", "audio", "voice", "mic", "speak"],
-		"categories": ["media", "communication"],
+		"keywords": [
+			"record",
+			"sound",
+			"audio",
+			"voice",
+			"mic",
+			"speak"
+		],
+		"categories": [
+			"media",
+			"communication"
+		],
 		"variant": "microphone"
 	},
 	"microphone-off": {
-		"keywords": ["mute", "sound", "audio", "voice", "mic", "silent"],
-		"categories": ["media", "communication"],
+		"keywords": [
+			"mute",
+			"sound",
+			"audio",
+			"voice",
+			"mic",
+			"silent"
+		],
+		"categories": [
+			"media",
+			"communication"
+		],
 		"variant": "microphone"
 	},
 	"minus": {
-		"keywords": ["dash", "subtract", "delete", "remove", "hide", "minimize", "less", "reduce", "decrease", "deduct"],
-		"categories": ["ui", "math"],
+		"keywords": [
+			"dash",
+			"subtract",
+			"delete",
+			"remove",
+			"hide",
+			"minimize",
+			"less",
+			"reduce",
+			"decrease",
+			"deduct"
+		],
+		"categories": [
+			"ui",
+			"math"
+		],
 		"variant": "minus"
 	},
 	"minus-circle": {
-		"keywords": ["delete", "remove", "subtract", "block", "hide"],
-		"categories": ["ui", "math"],
+		"keywords": [
+			"delete",
+			"remove",
+			"subtract",
+			"block",
+			"hide"
+		],
+		"categories": [
+			"ui",
+			"math"
+		],
 		"variant": "minus"
 	},
 	"mobile": {
-		"keywords": ["screen", "phone", "cellphone", "telephone", "mobile", "smartphone", "device", "handheld", "portable"],
-		"categories": ["objects", "communication"]
+		"keywords": [
+			"screen",
+			"phone",
+			"cellphone",
+			"telephone",
+			"mobile",
+			"smartphone",
+			"device",
+			"handheld",
+			"portable"
+		],
+		"categories": [
+			"objects",
+			"communication"
+		]
 	},
 	"money": {
-		"keywords": ["coin", "cash", "dollar", "euro", "pound", "yen", "currency", "finance", "payment", "wealth", "funds"],
-		"categories": ["finance-and-money", "objects"]
+		"keywords": [
+			"coin",
+			"cash",
+			"dollar",
+			"euro",
+			"pound",
+			"yen",
+			"currency",
+			"finance",
+			"payment",
+			"wealth",
+			"funds"
+		],
+		"categories": [
+			"finance-and-money",
+			"objects"
+		]
 	},
 	"moon": {
-		"keywords": ["dark", "night", "sleep", "lunar", "crescent", "evening", "dusk", "astronomy", "space"],
-		"categories": ["weather", "objects"]
+		"keywords": [
+			"dark",
+			"night",
+			"sleep",
+			"lunar",
+			"crescent",
+			"evening",
+			"dusk",
+			"astronomy",
+			"space"
+		],
+		"categories": [
+			"weather",
+			"objects"
+		]
 	},
 	"moustache": {
-		"keywords": ["mustache", "face", "hair", "incognito", "disguise"],
-		"categories": ["objects", "users-and-people"]
+		"keywords": [
+			"mustache",
+			"face",
+			"hair",
+			"incognito",
+			"disguise"
+		],
+		"categories": [
+			"objects",
+			"users-and-people"
+		]
 	},
 	"music-note": {
-		"keywords": ["sound", "audio", "song", "melody", "tune", "listen"],
-		"categories": ["media"]
+		"keywords": [
+			"sound",
+			"audio",
+			"song",
+			"melody",
+			"tune",
+			"listen"
+		],
+		"categories": [
+			"media"
+		]
 	},
 	"navigation": {
-		"keywords": ["location", "gps", "travel", "route", "direction", "map", "arrow"],
-		"categories": ["maps-and-location", "transport"]
+		"keywords": [
+			"location",
+			"gps",
+			"travel",
+			"route",
+			"direction",
+			"map",
+			"arrow"
+		],
+		"categories": [
+			"maps-and-location",
+			"transport"
+		]
 	},
 	"package": {
-		"keywords": ["box", "container", "delivery", "shipping", "product", "module"],
-		"categories": ["objects", "development-and-code"]
+		"keywords": [
+			"box",
+			"container",
+			"delivery",
+			"shipping",
+			"product",
+			"module"
+		],
+		"categories": [
+			"objects",
+			"development-and-code"
+		]
 	},
 	"paperclip": {
-		"keywords": ["attach", "file", "document", "clip"],
-		"categories": ["objects", "files-and-folders"]
+		"keywords": [
+			"attach",
+			"file",
+			"document",
+			"clip"
+		],
+		"categories": [
+			"objects",
+			"files-and-folders"
+		]
 	},
 	"paperclip-off": {
-		"keywords": ["detach", "file", "document", "unclip"],
-		"categories": ["objects", "files-and-folders"]
+		"keywords": [
+			"detach",
+			"file",
+			"document",
+			"unclip"
+		],
+		"categories": [
+			"objects",
+			"files-and-folders"
+		]
 	},
 	"pause": {
-		"keywords": ["stop", "hold", "wait", "media", "music", "video"],
-		"categories": ["media", "ui"]
+		"keywords": [
+			"stop",
+			"hold",
+			"wait",
+			"media",
+			"music",
+			"video"
+		],
+		"categories": [
+			"media",
+			"ui"
+		]
 	},
 	"pencil": {
-		"keywords": ["edit", "write", "update", "change", "modify", "draw", "sketch", "scribble", "compose", "create"],
-		"categories": ["ui", "objects", "text-formatting"]
+		"keywords": [
+			"edit",
+			"write",
+			"update",
+			"change",
+			"modify",
+			"draw",
+			"sketch",
+			"scribble",
+			"compose",
+			"create"
+		],
+		"categories": [
+			"ui",
+			"objects",
+			"text-formatting"
+		]
 	},
 	"phone": {
-		"keywords": ["call", "ring", "mobile", "cellphone", "telephone", "dial", "communicate", "talk", "conversation", "contact"],
-		"categories": ["communication", "objects"],
+		"keywords": [
+			"call",
+			"ring",
+			"mobile",
+			"cellphone",
+			"telephone",
+			"dial",
+			"communicate",
+			"talk",
+			"conversation",
+			"contact"
+		],
+		"categories": [
+			"communication",
+			"objects"
+		],
 		"variant": "phone"
 	},
 	"phone-call": {
-		"keywords": ["ring", "call", "communicate", "talk", "dial", "answer", "speak", "conversation", "contact"],
-		"categories": ["communication"],
+		"keywords": [
+			"ring",
+			"call",
+			"communicate",
+			"talk",
+			"dial",
+			"answer",
+			"speak",
+			"conversation",
+			"contact"
+		],
+		"categories": [
+			"communication"
+		],
 		"variant": "phone"
 	},
 	"phone-forward": {
-		"keywords": ["ring", "call", "forward", "redirect", "transfer", "divert", "reroute", "switch", "direct"],
-		"categories": ["communication"],
+		"keywords": [
+			"ring",
+			"call",
+			"forward",
+			"redirect",
+			"transfer",
+			"divert",
+			"reroute",
+			"switch",
+			"direct"
+		],
+		"categories": [
+			"communication"
+		],
 		"variant": "phone"
 	},
 	"phone-incoming": {
-		"keywords": ["ring", "call", "incoming", "receive", "answer", "accept", "take", "pickup", "arrive"],
-		"categories": ["communication"],
+		"keywords": [
+			"ring",
+			"call",
+			"incoming",
+			"receive",
+			"answer",
+			"accept",
+			"take",
+			"pickup",
+			"arrive"
+		],
+		"categories": [
+			"communication"
+		],
 		"variant": "phone"
 	},
 	"phone-missed": {
-		"keywords": ["ring", "call", "missed", "unanswered", "ignored", "lost", "rejected", "neglected", "overlooked"],
-		"categories": ["communication"],
+		"keywords": [
+			"ring",
+			"call",
+			"missed",
+			"unanswered",
+			"ignored",
+			"lost",
+			"rejected",
+			"neglected",
+			"overlooked"
+		],
+		"categories": [
+			"communication"
+		],
 		"variant": "phone"
 	},
 	"phone-off": {
-		"keywords": ["hang-up", "end-call", "disconnect", "decline"],
-		"categories": ["communication"],
+		"keywords": [
+			"hang-up",
+			"end-call",
+			"disconnect",
+			"decline"
+		],
+		"categories": [
+			"communication"
+		],
 		"variant": "phone"
 	},
 	"phone-outgoing": {
-		"keywords": ["ring", "call", "outgoing", "dial", "place", "make", "start", "initiate", "begin"],
-		"categories": ["communication"],
+		"keywords": [
+			"ring",
+			"call",
+			"outgoing",
+			"dial",
+			"place",
+			"make",
+			"start",
+			"initiate",
+			"begin"
+		],
+		"categories": [
+			"communication"
+		],
 		"variant": "phone"
 	},
 	"pie-chart": {
-		"keywords": ["stat", "graph", "chart", "diagram", "stats", "analytics", "data", "report", "metrics", "visualization"],
-		"categories": ["data-and-analytics", "ui"]
+		"keywords": [
+			"stat",
+			"graph",
+			"chart",
+			"diagram",
+			"stats",
+			"analytics",
+			"data",
+			"report",
+			"metrics",
+			"visualization"
+		],
+		"categories": [
+			"data-and-analytics",
+			"ui"
+		]
 	},
 	"pill": {
-		"keywords": ["medicine", "drug", "tablet", "capsule", "health", "pharmacy", "prescription", "pill", "vitamin", "supplement"],
-		"categories": ["medical", "objects"]
+		"keywords": [
+			"medicine",
+			"drug",
+			"tablet",
+			"capsule",
+			"health",
+			"pharmacy",
+			"prescription",
+			"pill",
+			"vitamin",
+			"supplement"
+		],
+		"categories": [
+			"medical",
+			"objects"
+		]
 	},
 	"pill-off": {
-		"keywords": ["medicine", "drug", "tablet", "capsule", "health", "pharmacy", "prescription", "pill", "vitamin", "supplement", "disabled"],
-		"categories": ["medical", "objects"]
+		"keywords": [
+			"medicine",
+			"drug",
+			"tablet",
+			"capsule",
+			"health",
+			"pharmacy",
+			"prescription",
+			"pill",
+			"vitamin",
+			"supplement",
+			"disabled"
+		],
+		"categories": [
+			"medical",
+			"objects"
+		]
 	},
 	"plane": {
-		"keywords": ["travel", "flight", "airplane", "aeroplane", "jet", "aviation", "aircraft", "airport", "flying", "trip"],
-		"categories": ["transport", "objects"]
+		"keywords": [
+			"travel",
+			"flight",
+			"airplane",
+			"aeroplane",
+			"jet",
+			"aviation",
+			"aircraft",
+			"airport",
+			"flying",
+			"trip"
+		],
+		"categories": [
+			"transport",
+			"objects"
+		]
 	},
 	"play": {
-		"keywords": ["start", "run", "music", "video", "media", "begin", "execute"],
-		"categories": ["media", "ui"]
+		"keywords": [
+			"start",
+			"run",
+			"music",
+			"video",
+			"media",
+			"begin",
+			"execute"
+		],
+		"categories": [
+			"media",
+			"ui"
+		]
 	},
 	"plus": {
-		"keywords": ["add", "new", "create", "increase", "expand", "more"],
-		"categories": ["ui", "math"],
+		"keywords": [
+			"add",
+			"new",
+			"create",
+			"increase",
+			"expand",
+			"more"
+		],
+		"categories": [
+			"ui",
+			"math"
+		],
 		"variant": "plus"
 	},
 	"plus-circle": {
-		"keywords": ["add", "new", "create", "increase", "more"],
-		"categories": ["ui", "math"],
+		"keywords": [
+			"add",
+			"new",
+			"create",
+			"increase",
+			"more"
+		],
+		"categories": [
+			"ui",
+			"math"
+		],
 		"variant": "plus"
 	},
 	"power": {
-		"keywords": ["on", "off", "switch", "toggle", "shutdown", "start", "button", "reboot"],
-		"categories": ["ui", "objects"]
+		"keywords": [
+			"on",
+			"off",
+			"switch",
+			"toggle",
+			"shutdown",
+			"start",
+			"button",
+			"reboot"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"print": {
-		"keywords": ["printer", "paper", "document", "copy", "publish"],
-		"categories": ["objects", "files-and-folders"]
+		"keywords": [
+			"printer",
+			"paper",
+			"document",
+			"copy",
+			"publish"
+		],
+		"categories": [
+			"objects",
+			"files-and-folders"
+		]
 	},
 	"prompt": {
-		"keywords": ["command", "line", "terminal", "console", "cmd", "cli", "shell", "interface", "input", "code"],
-		"categories": ["development-and-code", "ui"]
+		"keywords": [
+			"command",
+			"line",
+			"terminal",
+			"console",
+			"cmd",
+			"cli",
+			"shell",
+			"interface",
+			"input",
+			"code"
+		],
+		"categories": [
+			"development-and-code",
+			"ui"
+		]
 	},
 	"pulse": {
-		"keywords": ["health", "medical", "heartbeat", "ecg", "rate", "rhythm"],
-		"categories": ["medical", "data-and-analytics"]
+		"keywords": [
+			"health",
+			"medical",
+			"heartbeat",
+			"ecg",
+			"rate",
+			"rhythm"
+		],
+		"categories": [
+			"medical",
+			"data-and-analytics"
+		]
 	},
 	"radio": {
-		"keywords": ["signal", "sound", "music", "podcast", "audio", "listen", "broadcast", "tune", "station", "frequency"],
-		"categories": ["media", "objects"]
+		"keywords": [
+			"signal",
+			"sound",
+			"music",
+			"podcast",
+			"audio",
+			"listen",
+			"broadcast",
+			"tune",
+			"station",
+			"frequency"
+		],
+		"categories": [
+			"media",
+			"objects"
+		]
 	},
 	"rain": {
-		"keywords": ["weather", "rainy", "drizzle", "precipitation", "storm", "wet"],
-		"categories": ["weather"]
+		"keywords": [
+			"weather",
+			"rainy",
+			"drizzle",
+			"precipitation",
+			"storm",
+			"wet"
+		],
+		"categories": [
+			"weather"
+		]
 	},
 	"refresh": {
-		"keywords": ["reload", "sync", "update", "renew", "rotate", "arrow"],
-		"categories": ["ui", "arrows"]
+		"keywords": [
+			"reload",
+			"sync",
+			"update",
+			"renew",
+			"rotate",
+			"arrow"
+		],
+		"categories": [
+			"ui",
+			"arrows"
+		]
 	},
 	"remote": {
-		"keywords": ["control", "device", "tv", "television", "clicker", "commander", "switch", "wireless", "channel"],
-		"categories": ["objects", "media"]
+		"keywords": [
+			"control",
+			"device",
+			"tv",
+			"television",
+			"clicker",
+			"commander",
+			"switch",
+			"wireless",
+			"channel"
+		],
+		"categories": [
+			"objects",
+			"media"
+		]
 	},
 	"restart": {
-		"keywords": ["reload", "refresh", "reset", "renew", "reboot", "recycle", "reinitiate", "revive", "regenerate"],
-		"categories": ["ui", "development-and-code"]
+		"keywords": [
+			"reload",
+			"refresh",
+			"reset",
+			"renew",
+			"reboot",
+			"recycle",
+			"reinitiate",
+			"revive",
+			"regenerate"
+		],
+		"categories": [
+			"ui",
+			"development-and-code"
+		]
 	},
 	"rewind": {
-		"keywords": ["media", "music", "video", "previous", "back", "speed"],
-		"categories": ["media", "ui"]
+		"keywords": [
+			"media",
+			"music",
+			"video",
+			"previous",
+			"back",
+			"speed"
+		],
+		"categories": [
+			"media",
+			"ui"
+		]
 	},
 	"rocket": {
-		"keywords": ["travel", "launch", "ship", "transport", "vehicle", "space", "missile", "shuttle", "spacecraft", "flight"],
-		"categories": ["transport", "objects"]
+		"keywords": [
+			"travel",
+			"launch",
+			"ship",
+			"transport",
+			"vehicle",
+			"space",
+			"missile",
+			"shuttle",
+			"spacecraft",
+			"flight"
+		],
+		"categories": [
+			"transport",
+			"objects"
+		]
 	},
 	"rss": {
-		"keywords": ["feed", "news", "blog", "subscribe", "syndication", "web"],
-		"categories": ["communication", "social"]
+		"keywords": [
+			"feed",
+			"news",
+			"blog",
+			"subscribe",
+			"syndication",
+			"web"
+		],
+		"categories": [
+			"communication",
+			"social"
+		]
 	},
 	"save": {
-		"keywords": ["floppy", "disk", "download", "store", "preserve", "keep", "record", "maintain", "retain"],
-		"categories": ["files-and-folders", "ui"]
+		"keywords": [
+			"floppy",
+			"disk",
+			"download",
+			"store",
+			"preserve",
+			"keep",
+			"record",
+			"maintain",
+			"retain"
+		],
+		"categories": [
+			"files-and-folders",
+			"ui"
+		]
 	},
 	"scissors": {
-		"keywords": ["cut", "edit", "trim", "clip", "crop", "slice", "snip", "shear", "carve", "sever", "divide"],
-		"categories": ["ui", "objects", "text-formatting"]
+		"keywords": [
+			"cut",
+			"edit",
+			"trim",
+			"clip",
+			"crop",
+			"slice",
+			"snip",
+			"shear",
+			"carve",
+			"sever",
+			"divide"
+		],
+		"categories": [
+			"ui",
+			"objects",
+			"text-formatting"
+		]
 	},
 	"search": {
-		"keywords": ["magnif", "zoom", "find", "glass", "loupe", "explore", "locate", "seek", "discover", "hunt"],
-		"categories": ["ui"]
+		"keywords": [
+			"magnif",
+			"zoom",
+			"find",
+			"glass",
+			"loupe",
+			"explore",
+			"locate",
+			"seek",
+			"discover",
+			"hunt"
+		],
+		"categories": [
+			"ui"
+		]
+	},
+	"server": {
+		"keywords": [
+			"server",
+			"computer",
+			"network",
+			"internet",
+			"web",
+			"cloud",
+			"datacenter",
+			"rack"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
+	},
+	"servers": {
+		"keywords": [
+			"server",
+			"computer",
+			"network",
+			"internet",
+			"web",
+			"cloud",
+			"datacenter",
+			"rack",
+			"cluster"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"share": {
-		"keywords": ["send", "network", "connect", "social", "export", "forward"],
-		"categories": ["ui", "social"]
+		"keywords": [
+			"send",
+			"network",
+			"connect",
+			"social",
+			"export",
+			"forward"
+		],
+		"categories": [
+			"ui",
+			"social"
+		]
 	},
 	"share-alt": {
-		"keywords": ["send", "network", "connect", "social", "export", "forward", "nodes"],
-		"categories": ["ui", "social"]
+		"keywords": [
+			"send",
+			"network",
+			"connect",
+			"social",
+			"export",
+			"forward",
+			"nodes"
+		],
+		"categories": [
+			"ui",
+			"social"
+		]
 	},
 	"shield": {
-		"keywords": ["security", "protection", "safe", "defense", "guard", "armor", "cover", "safeguard", "barrier"],
-		"categories": ["security", "objects"],
+		"keywords": [
+			"security",
+			"protection",
+			"safe",
+			"defense",
+			"guard",
+			"armor",
+			"cover",
+			"safeguard",
+			"barrier"
+		],
+		"categories": [
+			"security",
+			"objects"
+		],
 		"variant": "shield"
 	},
 	"shield-check": {
-		"keywords": ["security", "protection", "safe", "defense", "verified", "check", "guard", "approved", "guaranteed"],
-		"categories": ["security", "objects"],
+		"keywords": [
+			"security",
+			"protection",
+			"safe",
+			"defense",
+			"verified",
+			"check",
+			"guard",
+			"approved",
+			"guaranteed"
+		],
+		"categories": [
+			"security",
+			"objects"
+		],
 		"variant": "shield"
 	},
 	"shield-off": {
-		"keywords": ["security", "unprotected", "vulnerable", "insecure", "unverified", "breach"],
-		"categories": ["security", "objects"],
+		"keywords": [
+			"security",
+			"unprotected",
+			"vulnerable",
+			"insecure",
+			"unverified",
+			"breach"
+		],
+		"categories": [
+			"security",
+			"objects"
+		],
 		"variant": "shield"
 	},
 	"ship": {
-		"keywords": ["travel", "boat", "transport", "vehicle", "cruise", "voyage", "sail", "vessel", "maritime", "nautical"],
-		"categories": ["transport", "objects"]
+		"keywords": [
+			"travel",
+			"boat",
+			"transport",
+			"vehicle",
+			"cruise",
+			"voyage",
+			"sail",
+			"vessel",
+			"maritime",
+			"nautical"
+		],
+		"categories": [
+			"transport",
+			"objects"
+		]
 	},
 	"sign-direction": {
-		"keywords": ["arrow", "guide", "location", "map", "navigation", "pointer", "route", "travel", "redirection"],
-		"categories": ["maps-and-location", "objects"]
+		"keywords": [
+			"arrow",
+			"guide",
+			"location",
+			"map",
+			"navigation",
+			"pointer",
+			"route",
+			"travel",
+			"redirection"
+		],
+		"categories": [
+			"maps-and-location",
+			"objects"
+		]
 	},
 	"skip-backward": {
-		"keywords": ["media", "music", "video", "previous", "start", "rewind"],
-		"categories": ["media", "ui"],
+		"keywords": [
+			"media",
+			"music",
+			"video",
+			"previous",
+			"start",
+			"rewind"
+		],
+		"categories": [
+			"media",
+			"ui"
+		],
 		"variant": "skip"
 	},
 	"skip-forward": {
-		"keywords": ["media", "music", "video", "next", "end", "fast-forward"],
-		"categories": ["media", "ui"],
+		"keywords": [
+			"media",
+			"music",
+			"video",
+			"next",
+			"end",
+			"fast-forward"
+		],
+		"categories": [
+			"media",
+			"ui"
+		],
 		"variant": "skip"
 	},
 	"skull": {
-		"keywords": ["danger", "death", "pirate", "bones", "warning", "toxic", "poison", "threat", "hazard"],
-		"categories": ["objects", "notifications", "medical"]
+		"keywords": [
+			"danger",
+			"death",
+			"pirate",
+			"bones",
+			"warning",
+			"toxic",
+			"poison",
+			"threat",
+			"hazard"
+		],
+		"categories": [
+			"objects",
+			"notifications",
+			"medical"
+		]
 	},
 	"snow": {
-		"keywords": ["weather", "winter", "cold", "blizzard", "snowflake", "freeze"],
-		"categories": ["weather"]
+		"keywords": [
+			"weather",
+			"winter",
+			"cold",
+			"blizzard",
+			"snowflake",
+			"freeze"
+		],
+		"categories": [
+			"weather"
+		]
 	},
 	"spade": {
-		"keywords": ["poker", "card", "game", "casino", "gambling", "playing", "suit", "deck"],
-		"categories": ["gaming", "objects"]
+		"keywords": [
+			"poker",
+			"card",
+			"game",
+			"casino",
+			"gambling",
+			"playing",
+			"suit",
+			"deck"
+		],
+		"categories": [
+			"gaming",
+			"objects"
+		]
 	},
 	"sparks": {
-		"keywords": ["artificial", "intelligence", "machine", "learning", "neural", "network", "smart", "magic", "generate", "ai", "star", "algorithm", "robot", "automation", "cognitive"],
-		"categories": ["development-and-code"]
+		"keywords": [
+			"artificial",
+			"intelligence",
+			"machine",
+			"learning",
+			"neural",
+			"network",
+			"smart",
+			"magic",
+			"generate",
+			"ai",
+			"star",
+			"algorithm",
+			"robot",
+			"automation",
+			"cognitive"
+		],
+		"categories": [
+			"development-and-code"
+		]
 	},
 	"spinner-dots": {
-		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"]
+		"keywords": [
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"process",
+			"busy",
+			"working",
+			"activity",
+			"buffering"
+		],
+		"categories": [
+			"ui",
+			"spinners-and-loaders"
+		]
 	},
 	"spinner-earring": {
-		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"]
+		"keywords": [
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"process",
+			"busy",
+			"working",
+			"activity",
+			"buffering"
+		],
+		"categories": [
+			"ui",
+			"spinners-and-loaders"
+		]
 	},
 	"spinner-planet": {
-		"keywords": ["loading", "progress", "loader", "waiting", "process", "busy", "working", "activity", "buffering"],
-		"categories": ["ui", "spinners-and-loaders"]
+		"keywords": [
+			"loading",
+			"progress",
+			"loader",
+			"waiting",
+			"process",
+			"busy",
+			"working",
+			"activity",
+			"buffering"
+		],
+		"categories": [
+			"ui",
+			"spinners-and-loaders"
+		]
 	},
 	"square": {
-		"keywords": ["shape", "box", "checkbox", "empty"],
-		"categories": ["objects", "ui"]
+		"keywords": [
+			"shape",
+			"box",
+			"checkbox",
+			"empty"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		]
 	},
 	"star": {
-		"keywords": ["favorite", "rate", "bookmark", "highlight", "important", "feature", "special", "premium", "mark"],
-		"categories": ["ui", "objects"]
+		"keywords": [
+			"favorite",
+			"rate",
+			"bookmark",
+			"highlight",
+			"important",
+			"feature",
+			"special",
+			"premium",
+			"mark"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"storm": {
-		"keywords": ["weather", "thunderstorm", "lightning", "rain", "wind", "hurricane"],
-		"categories": ["weather"]
+		"keywords": [
+			"weather",
+			"thunderstorm",
+			"lightning",
+			"rain",
+			"wind",
+			"hurricane"
+		],
+		"categories": [
+			"weather"
+		]
 	},
 	"sun": {
-		"keywords": ["day", "light", "weather", "bright", "sunny", "sunshine", "solar", "daylight", "radiance"],
-		"categories": ["weather", "objects"]
+		"keywords": [
+			"day",
+			"light",
+			"weather",
+			"bright",
+			"sunny",
+			"sunshine",
+			"solar",
+			"daylight",
+			"radiance"
+		],
+		"categories": [
+			"weather",
+			"objects"
+		]
 	},
 	"support": {
-		"keywords": ["help", "question", "faq", "contact", "assistance", "service", "lifebuoy"],
-		"categories": ["ui", "communication"]
+		"keywords": [
+			"help",
+			"question",
+			"faq",
+			"contact",
+			"assistance",
+			"service",
+			"lifebuoy"
+		],
+		"categories": [
+			"ui",
+			"communication"
+		]
 	},
 	"switch-off": {
-		"keywords": ["toggle", "disable", "inactive", "off", "button"],
-		"categories": ["ui"],
+		"keywords": [
+			"toggle",
+			"disable",
+			"inactive",
+			"off",
+			"button"
+		],
+		"categories": [
+			"ui"
+		],
 		"variant": "switch"
 	},
 	"switch-on": {
-		"keywords": ["toggle", "enable", "active", "on", "button"],
-		"categories": ["ui"],
+		"keywords": [
+			"toggle",
+			"enable",
+			"active",
+			"on",
+			"button"
+		],
+		"categories": [
+			"ui"
+		],
 		"variant": "switch"
 	},
 	"tag": {
-		"keywords": ["label", "category", "keyword", "price", "mark", "badge"],
-		"categories": ["ui", "objects"]
+		"keywords": [
+			"label",
+			"category",
+			"keyword",
+			"price",
+			"mark",
+			"badge"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"tags": {
-		"keywords": ["labels", "categories", "keywords", "multiple"],
-		"categories": ["ui", "objects"]
+		"keywords": [
+			"labels",
+			"categories",
+			"keywords",
+			"multiple"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"text": {
-		"keywords": ["format", "style", "typo", "content", "words", "characters", "letters", "writing", "font"],
-		"categories": ["text-formatting", "ui"]
+		"keywords": [
+			"format",
+			"style",
+			"typo",
+			"content",
+			"words",
+			"characters",
+			"letters",
+			"writing",
+			"font"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		]
 	},
 	"text-aa": {
-		"keywords": ["format", "style", "typo", "content", "words", "characters", "letters", "writing", "font", "accessibility"],
-		"categories": ["text-formatting", "ui"]
+		"keywords": [
+			"format",
+			"style",
+			"typo",
+			"content",
+			"words",
+			"characters",
+			"letters",
+			"writing",
+			"font",
+			"accessibility"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		]
 	},
 	"times": {
-		"keywords": ["close", "delete", "remove", "cancel", "exit", "dismiss", "cross", "stop", "clear", "x"],
-		"categories": ["ui"],
+		"keywords": [
+			"close",
+			"delete",
+			"remove",
+			"cancel",
+			"exit",
+			"dismiss",
+			"cross",
+			"stop",
+			"clear",
+			"x"
+		],
+		"categories": [
+			"ui"
+		],
 		"variant": "times"
 	},
 	"times-circle": {
-		"keywords": ["close", "delete", "remove", "cancel", "exit", "dismiss", "cross", "stop", "clear"],
-		"categories": ["ui"],
+		"keywords": [
+			"close",
+			"delete",
+			"remove",
+			"cancel",
+			"exit",
+			"dismiss",
+			"cross",
+			"stop",
+			"clear"
+		],
+		"categories": [
+			"ui"
+		],
 		"variant": "times"
 	},
 	"trash": {
-		"keywords": ["bin", "delete", "remove", "discard", "waste", "garbage", "rubbish", "junk", "dispose", "erase"],
-		"categories": ["ui", "objects"]
+		"keywords": [
+			"bin",
+			"delete",
+			"remove",
+			"discard",
+			"waste",
+			"garbage",
+			"rubbish",
+			"junk",
+			"dispose",
+			"erase"
+		],
+		"categories": [
+			"ui",
+			"objects"
+		]
 	},
 	"trending-down": {
-		"keywords": ["stock", "price", "graph", "decline", "fall", "decrease", "drop", "descend", "reduce"],
-		"categories": ["data-and-analytics", "finance-and-money"],
+		"keywords": [
+			"stock",
+			"price",
+			"graph",
+			"decline",
+			"fall",
+			"decrease",
+			"drop",
+			"descend",
+			"reduce"
+		],
+		"categories": [
+			"data-and-analytics",
+			"finance-and-money"
+		],
 		"variant": "trending"
 	},
 	"trending-up": {
-		"keywords": ["stock", "price", "graph", "increase", "rise", "grow", "ascend", "climb", "escalate"],
-		"categories": ["data-and-analytics", "finance-and-money"],
+		"keywords": [
+			"stock",
+			"price",
+			"graph",
+			"increase",
+			"rise",
+			"grow",
+			"ascend",
+			"climb",
+			"escalate"
+		],
+		"categories": [
+			"data-and-analytics",
+			"finance-and-money"
+		],
 		"variant": "trending"
 	},
 	"triangle": {
-		"keywords": ["shape", "warning", "delta", "pyramid"],
-		"categories": ["objects", "ui"]
+		"keywords": [
+			"shape",
+			"warning",
+			"delta",
+			"pyramid"
+		],
+		"categories": [
+			"objects",
+			"ui"
+		]
 	},
 	"truck": {
-		"keywords": ["ship", "travel", "car", "transport", "vehicle", "delivery", "logistics", "freight", "cargo", "shipment"],
-		"categories": ["transport", "objects"]
+		"keywords": [
+			"ship",
+			"travel",
+			"car",
+			"transport",
+			"vehicle",
+			"delivery",
+			"logistics",
+			"freight",
+			"cargo",
+			"shipment"
+		],
+		"categories": [
+			"transport",
+			"objects"
+		]
 	},
 	"underline": {
-		"keywords": ["format", "style", "typo", "text", "emphasis", "underscore", "highlight", "accentuate", "mark"],
-		"categories": ["text-formatting", "ui"]
+		"keywords": [
+			"format",
+			"style",
+			"typo",
+			"text",
+			"emphasis",
+			"underscore",
+			"highlight",
+			"accentuate",
+			"mark"
+		],
+		"categories": [
+			"text-formatting",
+			"ui"
+		]
 	},
 	"upload": {
-		"keywords": ["cloud", "transfer", "send", "upload", "share", "publish", "push", "post", "submit"],
-		"categories": ["ui", "files-and-folders", "arrows"]
+		"keywords": [
+			"cloud",
+			"transfer",
+			"send",
+			"upload",
+			"share",
+			"publish",
+			"push",
+			"post",
+			"submit"
+		],
+		"categories": [
+			"ui",
+			"files-and-folders",
+			"arrows"
+		]
 	},
 	"url": {
-		"keywords": ["link", "web", "address", "http", "domain", "connect"],
-		"categories": ["text-formatting", "development-and-code"]
+		"keywords": [
+			"link",
+			"web",
+			"address",
+			"http",
+			"domain",
+			"connect"
+		],
+		"categories": [
+			"text-formatting",
+			"development-and-code"
+		]
 	},
 	"user": {
-		"keywords": ["person", "account", "profile", "avatar", "member", "individual", "human", "client", "customer"],
-		"categories": ["users-and-people"],
+		"keywords": [
+			"person",
+			"account",
+			"profile",
+			"avatar",
+			"member",
+			"individual",
+			"human",
+			"client",
+			"customer"
+		],
+		"categories": [
+			"users-and-people"
+		],
 		"variant": "user"
 	},
 	"user-add": {
-		"keywords": ["person", "account", "profile", "add", "new", "invite", "register", "join", "enroll"],
-		"categories": ["users-and-people", "ui"],
+		"keywords": [
+			"person",
+			"account",
+			"profile",
+			"add",
+			"new",
+			"invite",
+			"register",
+			"join",
+			"enroll"
+		],
+		"categories": [
+			"users-and-people",
+			"ui"
+		],
 		"variant": "user"
 	},
 	"user-asking": {
-		"keywords": ["help", "question", "support", "faq", "unknown", "person"],
-		"categories": ["users-and-people", "communication"],
+		"keywords": [
+			"help",
+			"question",
+			"support",
+			"faq",
+			"unknown",
+			"person"
+		],
+		"categories": [
+			"users-and-people",
+			"communication"
+		],
 		"variant": "user"
 	},
 	"user-remove": {
-		"keywords": ["person", "account", "profile", "remove", "delete", "discard", "exclude", "eliminate", "expel"],
-		"categories": ["users-and-people", "ui"],
+		"keywords": [
+			"person",
+			"account",
+			"profile",
+			"remove",
+			"delete",
+			"discard",
+			"exclude",
+			"eliminate",
+			"expel"
+		],
+		"categories": [
+			"users-and-people",
+			"ui"
+		],
 		"variant": "user"
 	},
 	"users": {
-		"keywords": ["group", "people", "team", "community", "members", "crowd", "crew", "staff", "personnel"],
-		"categories": ["users-and-people"]
+		"keywords": [
+			"group",
+			"people",
+			"team",
+			"community",
+			"members",
+			"crowd",
+			"crew",
+			"staff",
+			"personnel"
+		],
+		"categories": [
+			"users-and-people"
+		]
 	},
 	"verified": {
-		"keywords": ["authorize", "mark", "tick", "badge", "approve", "confirm", "validate", "certify", "authenticate"],
-		"categories": ["security", "ui"]
+		"keywords": [
+			"authorize",
+			"mark",
+			"tick",
+			"badge",
+			"approve",
+			"confirm",
+			"validate",
+			"certify",
+			"authenticate"
+		],
+		"categories": [
+			"security",
+			"ui"
+		]
 	},
 	"view-grid": {
-		"keywords": ["grid", "table", "layout", "matrix", "thumbnail", "gallery", "tiles", "mosaic", "array"],
-		"categories": ["layout", "ui"],
+		"keywords": [
+			"grid",
+			"table",
+			"layout",
+			"matrix",
+			"thumbnail",
+			"gallery",
+			"tiles",
+			"mosaic",
+			"array"
+		],
+		"categories": [
+			"layout",
+			"ui"
+		],
 		"variant": "view"
 	},
 	"view-list": {
-		"keywords": ["grid", "table", "layout", "list", "rows", "items", "lineup", "series", "sequence"],
-		"categories": ["layout", "ui"],
+		"keywords": [
+			"grid",
+			"table",
+			"layout",
+			"list",
+			"rows",
+			"items",
+			"lineup",
+			"series",
+			"sequence"
+		],
+		"categories": [
+			"layout",
+			"ui"
+		],
 		"variant": "view"
 	},
 	"volume": {
-		"keywords": ["sound", "music", "speaker", "audio", "noise", "level", "loudness", "intensity", "amplitude"],
-		"categories": ["media", "ui"],
+		"keywords": [
+			"sound",
+			"music",
+			"speaker",
+			"audio",
+			"noise",
+			"level",
+			"loudness",
+			"intensity",
+			"amplitude"
+		],
+		"categories": [
+			"media",
+			"ui"
+		],
 		"variant": "volume"
 	},
 	"volume-1": {
-		"keywords": ["sound", "music", "speaker", "low", "quiet", "soft", "reduce", "minimal", "subtle"],
-		"categories": ["media", "ui"],
+		"keywords": [
+			"sound",
+			"music",
+			"speaker",
+			"low",
+			"quiet",
+			"soft",
+			"reduce",
+			"minimal",
+			"subtle"
+		],
+		"categories": [
+			"media",
+			"ui"
+		],
 		"variant": "volume"
 	},
 	"volume-2": {
-		"keywords": ["sound", "music", "speaker", "high", "loud", "strong", "increase", "maximum", "amplified"],
-		"categories": ["media", "ui"],
+		"keywords": [
+			"sound",
+			"music",
+			"speaker",
+			"high",
+			"loud",
+			"strong",
+			"increase",
+			"maximum",
+			"amplified"
+		],
+		"categories": [
+			"media",
+			"ui"
+		],
 		"variant": "volume"
 	},
 	"volume-off": {
-		"keywords": ["sound", "music", "speaker", "mute", "silent", "quiet", "silence", "disabled", "deaf"],
-		"categories": ["media", "ui"],
+		"keywords": [
+			"sound",
+			"music",
+			"speaker",
+			"mute",
+			"silent",
+			"quiet",
+			"silence",
+			"disabled",
+			"deaf"
+		],
+		"categories": [
+			"media",
+			"ui"
+		],
 		"variant": "volume"
 	},
 	"wifi": {
-		"keywords": ["signal", "network", "internet", "wireless", "connection", "online", "hotspot", "web", "connect"],
-		"categories": ["communication", "ui"],
+		"keywords": [
+			"signal",
+			"network",
+			"internet",
+			"wireless",
+			"connection",
+			"online",
+			"hotspot",
+			"web",
+			"connect"
+		],
+		"categories": [
+			"communication",
+			"ui"
+		],
 		"variant": "wifi"
 	},
 	"wifi-off": {
-		"keywords": ["signal", "network", "offline", "disconnected", "unavailable", "disabled", "no", "connection", "broken"],
-		"categories": ["communication", "ui"],
+		"keywords": [
+			"signal",
+			"network",
+			"offline",
+			"disconnected",
+			"unavailable",
+			"disabled",
+			"no",
+			"connection",
+			"broken"
+		],
+		"categories": [
+			"communication",
+			"ui"
+		],
 		"variant": "wifi"
 	},
 	"wind": {
-		"keywords": ["weather", "breeze", "air", "gale", "flow"],
-		"categories": ["weather"]
+		"keywords": [
+			"weather",
+			"breeze",
+			"air",
+			"gale",
+			"flow"
+		],
+		"categories": [
+			"weather"
+		]
 	},
 	"zoom-in": {
-		"keywords": ["magnify", "enlarge", "plus", "bigger", "increase", "scale", "view"],
-		"categories": ["ui", "media"],
+		"keywords": [
+			"magnify",
+			"enlarge",
+			"plus",
+			"bigger",
+			"increase",
+			"scale",
+			"view"
+		],
+		"categories": [
+			"ui",
+			"media"
+		],
 		"variant": "zoom"
 	},
 	"zoom-out": {
-		"keywords": ["minify", "shrink", "minus", "smaller", "decrease", "scale", "view"],
-		"categories": ["ui", "media"],
+		"keywords": [
+			"minify",
+			"shrink",
+			"minus",
+			"smaller",
+			"decrease",
+			"scale",
+			"view"
+		],
+		"categories": [
+			"ui",
+			"media"
+		],
 		"variant": "zoom"
 	}
 }
