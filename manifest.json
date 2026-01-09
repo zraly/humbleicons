@@ -3061,6 +3061,72 @@
 			"transport"
 		]
 	},
+	"note": {
+		"keywords": [
+			"sticky",
+			"document",
+			"text",
+			"memo",
+			"reminder",
+			"annotation",
+			"message",
+			"paper",
+			"notice"
+
+		],
+		"categories": [
+			"ui"
+		]
+	},
+	"note-add": {
+		"keywords": [
+			"sticky",
+			"document",
+			"text",
+			"memo",
+			"reminder",
+			"annotation",
+			"message",
+			"paper",
+			"notice"
+		],
+		"categories": [
+			"ui"
+		]
+	},
+	"note-remove": {
+		"keywords": [
+			"sticky",
+			"document",
+			"text",
+			"memo",
+			"reminder",
+			"annotation",
+			"message",
+			"paper",
+			"notice"
+		],
+		"categories": [
+			"ui"
+		]
+	},
+	"notes": {
+		"keywords": [
+			"note",
+			"sticky",
+			"document",
+			"text",
+			"memo",
+			"reminder",
+			"annotation",
+			"message",
+			"paper",
+			"notice"
+		],
+		"categories": [
+			"ui"
+		]
+	},
 	"package": {
 		"keywords": [
 			"box",
